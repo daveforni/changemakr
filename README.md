@@ -136,7 +136,7 @@ SDG, SBTi, ESG
 | [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | 2 ECTS | Exercises | :credit_card: €30 |
 | [Circular](https://climateuniversity.fi/portfolio-items/circular-now/) | 3-5 ECTS | Exercises | :x: |
 | [Solutions](https://climateuniversity.fi/portfolio-items/solutions-now/) | 5 ECTS | Exercises | :x: |
-| [SystemChange](https://climateuniversity.fi/portfolio-items/systemschange-now/) | 3-5 ECTS | Exercises | :x: |
+| [SystemsChange](https://climateuniversity.fi/portfolio-items/systemschange-now/) | 3-5 ECTS | Exercises | :x: |
 
 ### Technology
 BIM, CAD, FEA, GIS, IFC
