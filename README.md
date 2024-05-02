@@ -118,7 +118,7 @@ LCA, EPD, CO2
 | [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
 | [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) | 6 chapters | Quiz | :heavy_check_mark: |
 
-## Quality
+### Quality
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 
