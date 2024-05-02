@@ -10,11 +10,11 @@ This is an archive of contents.
 - [Data](#data)
 - [Environment](#environment)
 - [Funding](#funding)
-- [Guidelines](#guidelines)
+- [Guideline](#guideline)
 - [Holistic](#holistic)
 - [Impact](#impact)
 - [Learning](#learning)
-- [Materials](#materials)
+- [Material](#material)
 - [Network](#network)
 - [Organization](#organization)
 - [Programming](#programming)
@@ -66,7 +66,7 @@ EIA
 | :--- | :--- | :--- | :--- |
 | [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | 2 ECTS | Exercises | :free: |
 
-### Guidelines
+### Guideline
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 
@@ -88,9 +88,10 @@ LCA, EPD, CO2
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 
-### Materials
+### Material
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
+| [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) | 6 hours | Quiz | :free: |
 
 ### Network
 | Course | Duration | Assessment | Certificate |
