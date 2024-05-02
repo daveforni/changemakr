@@ -101,6 +101,7 @@ LCA, EPD, CO2
 ### Programming
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
+| [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) | 6 chapters | Quiz | :free: |
 
 ## Quality
 | Course | Duration | Assessment | Certificate |
@@ -128,6 +129,7 @@ BIM, CAD, FEA, GIS, IFC
 | [GhPython Introduction](https://www.rhino3d.education/p/ghpython-introduction) | 170 minutes | Quiz | :x: |
 | [Rhino 6 and 7 Introduction](https://www.rhino3d.education/p/rhino-6-introduction) | 4.5 hours | Quiz | :free: |
 | [Introduction to Rhino 8](https://www.rhino3d.education/p/introduction-to-rhino-8) | 3 hours | Quiz | :free: |
+| [Grasshopper and SOFiSTiK Workflow](https://courses.sofistikforyou.com/p/mini-course-grasshopper-and-sofistik-workflow-how-to-model-and-analyse-a-truss-system) | 190  minutes | Exercises | :x: |
 
 ### Usability
 | Course | Duration | Assessment | Certificate |
@@ -140,6 +142,3 @@ BIM, CAD, FEA, GIS, IFC
 ### Zero
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-
-### [Programming Languages]
-[Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
