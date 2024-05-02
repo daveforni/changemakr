@@ -43,11 +43,11 @@ AI, ML, NLP
 
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Elements of AI](https://course.elementsofai.com/) | 2 ECTS | Exercises | :free: |
-| [Building AI](https://buildingai.elementsofai.com/) | 1 ECTS | Exercises | :moneybag: €50 |
+| [Elements of AI](https://course.elementsofai.com/) | 2 ECTS | Exercises | :heavy_check_mark: |
+| [Building AI](https://buildingai.elementsofai.com/) | 1 ECTS | Exercises | :credit_card: €50 |
 | [Ethics of AI](https://ethics-of-ai.mooc.fi/) | 2 ECTS | Exercises | ??? |
 | [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | 2 ECTS | Exercises | ??? |
-| [Full Stack Web Development](https://fullstackopen.com/en/) | 14 ECTS | Exercises | :free: |
+| [Full Stack Web Development](https://fullstackopen.com/en/) | 14 ECTS | Exercises | :heavy_check_mark: |
 | [Applied Language Technology](https://applied-language-technology.mooc.fi/html/index.html) | 10 ECTS | Exercises | :x: |
 | [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | 2 ECTS | Exercises | :x: |
 | [Machine Learning for the Built Environment](https://3d.bk.tudelft.nl/courses/geo5017/) | 7 weeks | Exercises | :x: |
@@ -55,10 +55,11 @@ AI, ML, NLP
 ### Data
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :free: |
-| [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | 7 weeks | Quiz | :moneybag: €186 |
-| [Data in Construction](https://www.procore.com/data-construction-series) | 5 CEUs | Quiz | :free: |
+| [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :heavy_check_mark: |
+| [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | 7 weeks | Quiz | :credit_card: €186 |
+| [Data in Construction](https://www.procore.com/data-construction-series) | 5 CEUs | Quiz | :heavy_check_mark: |
 | [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
+| [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | 5 ECTS | Exercises | :x: |
 
 ### Environment
 EIA
@@ -70,7 +71,7 @@ EIA
 ### Funding
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | 2 ECTS | Exercises | :free: |
+| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | 2 ECTS | Exercises | :heavy_check_mark: |
 
 ### Guideline
 | Course | Duration | Assessment | Certificate |
@@ -79,17 +80,17 @@ EIA
 ### Holistic
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Design Bits](https://designbits.aalto.fi/en/) | 2 ECTS | Exercises | :moneybag: €30 |
+| [Design Bits](https://designbits.aalto.fi/en/) | 2 ECTS | Exercises | :credit_card:: €30 |
 
 ### Impact
 LCA, EPD, CO2
 
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Building LCA for architects](https://academy.oneclicklca.com/courses/building-lca-for-architects) | 5 hours | Quiz | :free: |
-| [Infrastructure LCA](https://academy.oneclicklca.com/courses/infrastructure-lca-online-course) | 5 hours | Quiz | :free: |
+| [Building LCA for architects](https://academy.oneclicklca.com/courses/building-lca-for-architects) | 5 hours | Quiz | :heavy_check_mark: |
+| [Infrastructure LCA](https://academy.oneclicklca.com/courses/infrastructure-lca-online-course) | 5 hours | Quiz | :heavy_check_mark: |
 | [Environmental Product Declarations](https://academy.oneclicklca.com/courses/epd-onboarding-introduction) | 5 hours | Quiz | :x: |
-| [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) | 5 hours | Quiz | :free: |
+| [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) | 5 hours | Quiz | :heavy_check_mark: |
 
 ### Leadership
 | Course | Duration | Assessment | Certificate |
@@ -100,7 +101,7 @@ LCA, EPD, CO2
 ### Material
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) | 6 hours | Quiz | :free: |
+| [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) | 6 hours | Quiz | :heavy_check_mark: |
 
 ### Network
 | Course | Duration | Assessment | Certificate |
@@ -113,8 +114,9 @@ LCA, EPD, CO2
 ### Programming
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
+| [Python Programming](https://programming-24.mooc.fi/) | 10 ECTS | Exercises | :x: |
 | [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
-| [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) | 6 chapters | Quiz | :free: |
+| [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) | 6 chapters | Quiz | :heavy_check_mark: |
 
 ## Quality
 | Course | Duration | Assessment | Certificate |
@@ -129,9 +131,9 @@ SDG, SBTi, ESG
 
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Higher Education for Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | 5 weeks | Quiz | :free: |
-| [Introduction to Sustainability](https://courses.mooc.fi/org/uh-inar/courses/introduction-to-sustainability) | 3 ECTS | Exercises | :moneybag: €45 |
-| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | 2 ECTS | Exercises | :moneybag: €30 |
+| [Higher Education for Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | 5 weeks | Quiz | :heavy_check_mark: |
+| [Introduction to Sustainability](https://courses.mooc.fi/org/uh-inar/courses/introduction-to-sustainability) | 3 ECTS | Exercises | :credit_card: €45 |
+| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | 2 ECTS | Exercises | :credit_card: €30 |
 | [Circular](https://climateuniversity.fi/portfolio-items/circular-now/) | 3-5 ECTS | Exercises | :x: |
 | [Solutions](https://climateuniversity.fi/portfolio-items/solutions-now/) | 5 ECTS | Exercises | :x: |
 | [SystemChange](https://climateuniversity.fi/portfolio-items/systemschange-now/) | 3-5 ECTS | Exercises | :x: |
@@ -144,15 +146,15 @@ BIM, CAD, FEA, GIS, IFC
 | [The Fundamental of Grasshopper3D](https://www.rhino3d.education/p/the-fundamental-of-grasshopper3d) | 70 minutes | Quiz | :x: |
 | [Essential Mathematics for Computational Design](https://www.rhino3d.education/p/rajaa) | 120 minutes | Quiz | :x: |
 | [GhPython Introduction](https://www.rhino3d.education/p/ghpython-introduction) | 170 minutes | Quiz | :x: |
-| [Rhino 6 and 7 Introduction](https://www.rhino3d.education/p/rhino-6-introduction) | 4.5 hours | Quiz | :free: |
-| [Introduction to Rhino 8](https://www.rhino3d.education/p/introduction-to-rhino-8) | 3 hours | Quiz | :free: |
+| [Rhino 6 and 7 Introduction](https://www.rhino3d.education/p/rhino-6-introduction) | 4.5 hours | Quiz | :heavy_check_mark: |
+| [Introduction to Rhino 8](https://www.rhino3d.education/p/introduction-to-rhino-8) | 3 hours | Quiz | :heavy_check_mark: |
 | [Grasshopper and SOFiSTiK Workflow](https://courses.sofistikforyou.com/p/mini-course-grasshopper-and-sofistik-workflow-how-to-model-and-analyse-a-truss-system) | 190  minutes | Exercises | :x: |
 | [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/#) | 5 ECTS | Exercises | :x: |
 
 ### Usability
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Service Design Sprint](https://courses.mooc.fi/org/metropolia-innovation-entrepreneurship/courses/10d100c-service-design-sprint) | 5 chapters | Exercises | :free: |
+| [Service Design Sprint](https://courses.mooc.fi/org/metropolia-innovation-entrepreneurship/courses/10d100c-service-design-sprint) | 5 chapters | Exercises | :heavy_check_mark: |
 
 ### Visualization
 | Course | Duration | Assessment | Certificate |
