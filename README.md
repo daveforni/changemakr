@@ -53,6 +53,7 @@ AI, ML, NLP
 | :--- | :--- | :--- | :--- |
 | [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :free: |
 | [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | 7 weeks | Quiz | :moneybag: €186 |
+| [Data in Construction](https://www.procore.com/data-construction-series) | 5 CEUs | Quiz | :free: |
 
 ### Environment
 EIA
