@@ -1,7 +1,8 @@
 # Engineer(ist) Changemaker
 
 This is an archive of contents.
-### Digital Literacy
+#### Digital literacy
+#### Lifelong learning
 
 ## Contents
 - [Analytics](#analytics)
@@ -13,7 +14,7 @@ This is an archive of contents.
 - [Guideline](#guideline)
 - [Holistic](#holistic)
 - [Impact](#impact)
-- [Learning](#learning)
+- [Leadership](#leadership)
 - [Material](#material)
 - [Network](#network)
 - [Organization](#organization)
@@ -30,6 +31,7 @@ This is an archive of contents.
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | 5 ECTS | Exercises | :x: |
+| [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
 
 ### Biodiversity
 | Course | Duration | Assessment | Certificate |
@@ -47,6 +49,8 @@ AI, ML, NLP
 | [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | 2 ECTS | Exercises | ??? |
 | [Full Stack Web Development](https://fullstackopen.com/en/) | 14 ECTS | Exercises | :free: |
 | [Applied Language Technology](https://applied-language-technology.mooc.fi/html/index.html) | 10 ECTS | Exercises | :x: |
+| [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | 2 ECTS | Exercises | :x: |
+| [Machine Learning for the Built Environment](https://3d.bk.tudelft.nl/courses/geo5017/) | 7 weeks | Exercises | :x: |
 
 ### Data
 | Course | Duration | Assessment | Certificate |
@@ -54,12 +58,14 @@ AI, ML, NLP
 | [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :free: |
 | [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | 7 weeks | Quiz | :moneybag: €186 |
 | [Data in Construction](https://www.procore.com/data-construction-series) | 5 CEUs | Quiz | :free: |
+| [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
 
 ### Environment
 EIA
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Climate](https://courses.mooc.fi/org/uh-inar/courses/climate-now) | 2 ECTS | Exercises | :x: |
+| [Living with changing climate](https://climateuniversity.fi/portfolio-items/living_with_changing_climate/) | 5 ECTS | Exercises | :x: |
 
 ### Funding
 | Course | Duration | Assessment | Certificate |
@@ -73,6 +79,7 @@ EIA
 ### Holistic
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
+| [Design Bits](https://designbits.aalto.fi/en/) | 2 ECTS | Exercises | :moneybag: €30 |
 
 ### Impact
 LCA, EPD, CO2
@@ -84,9 +91,11 @@ LCA, EPD, CO2
 | [Environmental Product Declarations](https://academy.oneclicklca.com/courses/epd-onboarding-introduction) | 5 hours | Quiz | :x: |
 | [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) | 5 hours | Quiz | :free: |
 
-## Learning
+### Leadership
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
+| [ClimateComms](https://climateuniversity.fi/portfolio-items/climatecomms-now/) | 2 ECTS | Exercises | :x: |
+| [Leadership for sustainable change](https://climateuniversity.fi/portfolio-items/leadforsust/) | 5 ECTS | Exercises | :x: |
 
 ### Material
 | Course | Duration | Assessment | Certificate |
@@ -104,6 +113,7 @@ LCA, EPD, CO2
 ### Programming
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
+| [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
 | [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) | 6 chapters | Quiz | :free: |
 
 ## Quality
@@ -120,7 +130,11 @@ SDG, SBTi, ESG
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Higher Education for Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | 5 weeks | Quiz | :free: |
-| [Introduction to Sustainability](https://courses.mooc.fi/org/uh-inar/courses/introduction-to-sustainability) | 3 ECTS | Exercises | :moneybag: 45€ |
+| [Introduction to Sustainability](https://courses.mooc.fi/org/uh-inar/courses/introduction-to-sustainability) | 3 ECTS | Exercises | :moneybag: €45 |
+| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | 2 ECTS | Exercises | :moneybag: €30 |
+| [Circular](https://climateuniversity.fi/portfolio-items/circular-now/) | 3-5 ECTS | Exercises | :x: |
+| [Solutions](https://climateuniversity.fi/portfolio-items/solutions-now/) | 5 ECTS | Exercises | :x: |
+| [SystemChange](https://climateuniversity.fi/portfolio-items/systemschange-now/) | 3-5 ECTS | Exercises | :x: |
 
 ### Technology
 BIM, CAD, FEA, GIS, IFC
@@ -133,10 +147,12 @@ BIM, CAD, FEA, GIS, IFC
 | [Rhino 6 and 7 Introduction](https://www.rhino3d.education/p/rhino-6-introduction) | 4.5 hours | Quiz | :free: |
 | [Introduction to Rhino 8](https://www.rhino3d.education/p/introduction-to-rhino-8) | 3 hours | Quiz | :free: |
 | [Grasshopper and SOFiSTiK Workflow](https://courses.sofistikforyou.com/p/mini-course-grasshopper-and-sofistik-workflow-how-to-model-and-analyse-a-truss-system) | 190  minutes | Exercises | :x: |
+| [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/#) | 5 ECTS | Exercises | :x: |
 
 ### Usability
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
+| [Service Design Sprint](https://courses.mooc.fi/org/metropolia-innovation-entrepreneurship/courses/10d100c-service-design-sprint) | 5 chapters | Exercises | :free: |
 
 ### Visualization
 | Course | Duration | Assessment | Certificate |
