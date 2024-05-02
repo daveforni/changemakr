@@ -4,6 +4,7 @@
 ![Engineer(ist) Changemaker Logo](https://github.com/davideforni/engineerist-changemaker/blob/main/images/logo_light.png#gh-light-mode-only)
 
 This is an archive of contents.
+
 #### Digital literacy
 #### Lifelong learning
 
