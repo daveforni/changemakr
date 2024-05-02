@@ -42,7 +42,7 @@ AI, ML, NLP
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Elements of AI](https://course.elementsofai.com/) | 2 ECTS | Exercises | :free: |
-| [Building AI](https://buildingai.elementsofai.com/) | 1 ECTS | Exercises | :moneybag: 50€ |
+| [Building AI](https://buildingai.elementsofai.com/) | 1 ECTS | Exercises | :moneybag: €50 |
 | [Ethics of AI](https://ethics-of-ai.mooc.fi/) | 2 ECTS | Exercises | ??? |
 | [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | 2 ECTS | Exercises | ??? |
 | [Full Stack Web Development](https://fullstackopen.com/en/) | 14 ECTS | Exercises | :free: |
@@ -52,6 +52,7 @@ AI, ML, NLP
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :free: |
+| [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | 7 weeks | Quiz | :moneybag: €186 |
 
 ### Environment
 EIA
