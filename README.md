@@ -3,13 +3,40 @@
 This is an archive of contents.
 ### Digital Literacy
 
-# Contents
+## Contents
+- [Analytics](#analytics)
+- [Biodiversity](#biodiversity)
+- [Computing](#computing)
+- [Data](#data)
+- [Environment](#environment)
+- [Funding](#funding)
+- [Guidelines](#guidelines)
+- [Holistic](#holistic)
+- [Impact](#impact)
+- [Learning](#learning)
+- [Materials](#materials)
+- [Network](#network)
+- [Organization](#organization)
+- [Programming](#programming)
+- [Quality](#quality)
+- [Regeneration](#regeneration)
+- [Sustainability](#sustainability)
+- [Technology](#technology)
+- [Usability](#usability)
+- [Visualization](#visualization)
+- [Zero](#zero)
 
-## 1 Analytics/Analysis
+### Analytics
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
+| [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | 5 ECTS | Exercises | :x: |
 
-## 2 Biodiversity
+### Biodiversity
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
+| [Biodiversity](https://courses.mooc.fi/org/uh-inar/courses/biodiversity-now) | 2 ECTS | Exercises | :x: |
 
-## 3 Computing
+### Computing
 AI, ML, NLP
 
 | Course | Duration | Assessment | Certificate |
@@ -19,25 +46,33 @@ AI, ML, NLP
 | [Ethics of AI](https://ethics-of-ai.mooc.fi/) | 2 ECTS | Exercises | ??? |
 | [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | 2 ECTS | Exercises | ??? |
 | [Full Stack Web Development](https://fullstackopen.com/en/) | 14 ECTS | Exercises | :free: |
+| [Applied Language Technology](https://applied-language-technology.mooc.fi/html/index.html) | 10 ECTS | Exercises | :x: |
 
-## 4 Data
+### Data
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :free: |
 
-## 5 Environment
+### Environment
 EIA
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
+| [Climate](https://courses.mooc.fi/org/uh-inar/courses/climate-now) | 2 ECTS | Exercises | :x: |
 
-## 6 Funding?
+### Funding
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | 2 ECTS | Exercises | :free: |
 
-## 7 Guidelines
+### Guidelines
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-## 8 Holistic?
+### Holistic
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-## 9 Impact
+### Impact
 LCA, EPD, CO2
 
 | Course | Duration | Assessment | Certificate |
@@ -47,21 +82,35 @@ LCA, EPD, CO2
 | [Environmental Product Declarations](https://academy.oneclicklca.com/courses/epd-onboarding-introduction) | 5 hours | Quiz | :x: |
 | [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) | 5 hours | Quiz | :free: |
 
-## 10 Learning
+## Learning
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-## 11 Materials
+### Materials
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-## 12 Network
+### Network
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-## 13 Organization?
+### Organization
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-## 14 Programming
+### Programming
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-## 15 Quality?
+## Quality
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-## 16 Regeneration
+### Regeneration
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-## 17 Sustainability
+### Sustainability
 SDG, SBTi, ESG  
 
 | Course | Duration | Assessment | Certificate |
@@ -69,24 +118,28 @@ SDG, SBTi, ESG
 | [Higher Education for Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | 5 weeks | Quiz | :free: |
 | [Introduction to Sustainability](https://courses.mooc.fi/org/uh-inar/courses/introduction-to-sustainability) | 3 ECTS | Exercises | :moneybag: 45€ |
 
-## 18 Technology
+### Technology
 BIM, CAD, FEA, GIS, IFC
 
-## 19 Usability?
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
+| [The Fundamental of Grasshopper3D](https://www.rhino3d.education/p/the-fundamental-of-grasshopper3d) | 70 minutes | Quiz | :x: |
+| [Essential Mathematics for Computational Design](https://www.rhino3d.education/p/rajaa) | 120 minutes | Quiz | :x: |
+| [GhPython Introduction](https://www.rhino3d.education/p/ghpython-introduction) | 170 minutes | Quiz | :x: |
+| [Rhino 6 and 7 Introduction](https://www.rhino3d.education/p/rhino-6-introduction) | 4.5 hours | Quiz | :free: |
+| [Introduction to Rhino 8](https://www.rhino3d.education/p/introduction-to-rhino-8) | 3 hours | Quiz | :free: |
 
-## 20 Visualization
+### Usability
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-## 21 Zero
+### Visualization
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-### J
+### Zero
+| Course | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- |
 
-### K
-
-### W
-
-### X
-
-### Y
-
-### Programming Languages
+### [Programming Languages]
 [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/)
