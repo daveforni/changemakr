@@ -153,6 +153,7 @@ BIM, CAD, FEA, GIS, IFC
 | [Introduction to Rhino 8](https://www.rhino3d.education/p/introduction-to-rhino-8) | 3 hours | Quiz | :heavy_check_mark: |
 | [Grasshopper and SOFiSTiK Workflow](https://courses.sofistikforyou.com/p/mini-course-grasshopper-and-sofistik-workflow-how-to-model-and-analyse-a-truss-system) | 190  minutes | Exercises | :x: |
 | [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/#) | 5 ECTS | Exercises | :x: |
+| [Tekla Open API Fundamentals](https://learn.trimble.com/learn/public/learning_plan/view/453/free-tekla-open-api-fundamentals) | 7 hours | Quiz | :heavy_check_mark: |
 
 ### Usability
 | Course | Duration | Assessment | Certificate |
