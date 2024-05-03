@@ -61,6 +61,7 @@ AI, ML, NLP
 | [Data in Construction](https://www.procore.com/data-construction-series) | 5 CEUs | Quiz | :heavy_check_mark: |
 | [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
 | [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | 5 ECTS | Exercises | :x: |
+| [Data Science for Ecology](https://wec.wur.nl/dse/) | 6 weeks | Exercises | :x: |
 
 ## Environment
 EIA
@@ -127,6 +128,7 @@ LCA, EPD, CO2
 ## Regeneration
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
+| [Nature-based Infrastructure for Climate Adaption and Sustainable Development](https://nbi.iisd.org/e-course/) | 5 modules | Exercises | :x: |
 
 ## Sustainability
 SDG, SBTi, ESG  
