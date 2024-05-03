@@ -1,5 +1,3 @@
-# Engineer(ist) Changemaker
-
 ![Engineer(ist) Changemaker Logo](https://github.com/davideforni/engineerist-changemaker/blob/main/images/logo_dark.png#gh-dark-mode-only)
 ![Engineer(ist) Changemaker Logo](https://github.com/davideforni/engineerist-changemaker/blob/main/images/logo_light.png#gh-light-mode-only)
 
@@ -7,9 +5,9 @@ This is an archive of contents.
 #### Digital literacy
 #### Lifelong learning
 
-## Contents
+# Contents
 - [Analytics](#analytics)
-- [Biodiversity](#biodiversity)
+- [Business](#business)
 - [Computing](#computing)
 - [Data](#data)
 - [Environment](#environment)
@@ -30,18 +28,18 @@ This is an archive of contents.
 - [Visualization](#visualization)
 - [Zero](#zero)
 
-### Analytics
+## Analytics
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | 5 ECTS | Exercises | :x: |
 | [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
 
-### Biodiversity
+## Business
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Biodiversity](https://courses.mooc.fi/org/uh-inar/courses/biodiversity-now) | 2 ECTS | Exercises | :x: |
+| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | 2 ECTS | Exercises | :credit_card: €30 |
 
-### Computing
+## Computing
 AI, ML, NLP
 
 | Course | Duration | Assessment | Certificate |
@@ -55,7 +53,7 @@ AI, ML, NLP
 | [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | 2 ECTS | Exercises | :x: |
 | [Machine Learning for the Built Environment](https://3d.bk.tudelft.nl/courses/geo5017/) | 7 weeks | Exercises | :x: |
 
-### Data
+## Data
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :heavy_check_mark: |
@@ -64,28 +62,29 @@ AI, ML, NLP
 | [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
 | [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | 5 ECTS | Exercises | :x: |
 
-### Environment
+## Environment
 EIA
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Climate](https://courses.mooc.fi/org/uh-inar/courses/climate-now) | 2 ECTS | Exercises | :x: |
+| [Biodiversity](https://courses.mooc.fi/org/uh-inar/courses/biodiversity-now) | 2 ECTS | Exercises | :x: |
 | [Living with changing climate](https://climateuniversity.fi/portfolio-items/living_with_changing_climate/) | 5 ECTS | Exercises | :x: |
 
-### Funding
+## Funding
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | 2 ECTS | Exercises | :heavy_check_mark: |
 
-### Guideline
+## Guideline
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 
-### Holistic
+## Holistic
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Design Bits](https://designbits.aalto.fi/en/) | 2 ECTS | Exercises | :credit_card:: €30 |
 
-### Impact
+## Impact
 LCA, EPD, CO2
 
 | Course | Duration | Assessment | Certificate |
@@ -95,53 +94,52 @@ LCA, EPD, CO2
 | [Environmental Product Declarations](https://academy.oneclicklca.com/courses/epd-onboarding-introduction) | 5 hours | Quiz | :x: |
 | [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) | 5 hours | Quiz | :heavy_check_mark: |
 
-### Leadership
+## Leadership
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [ClimateComms](https://climateuniversity.fi/portfolio-items/climatecomms-now/) | 2 ECTS | Exercises | :x: |
 | [Leadership for sustainable change](https://climateuniversity.fi/portfolio-items/leadforsust/) | 5 ECTS | Exercises | :x: |
 
-### Material
+## Material
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) | 6 hours | Quiz | :heavy_check_mark: |
 
-### Network
+## Network
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 
-### Organization
+## Organization
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 
-### Programming
+## Programming
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Python Programming](https://programming-24.mooc.fi/) | 10 ECTS | Exercises | :x: |
 | [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
 | [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) | 6 chapters | Quiz | :heavy_check_mark: |
 
-### Quality
+## Quality
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 
-### Regeneration
+## Regeneration
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 
-### Sustainability
+## Sustainability
 SDG, SBTi, ESG  
 
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Higher Education for Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | 5 weeks | Quiz | :heavy_check_mark: |
 | [Introduction to Sustainability](https://courses.mooc.fi/org/uh-inar/courses/introduction-to-sustainability) | 3 ECTS | Exercises | :credit_card: €45 |
-| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | 2 ECTS | Exercises | :credit_card: €30 |
 | [Circular](https://climateuniversity.fi/portfolio-items/circular-now/) | 3-5 ECTS | Exercises | :x: |
 | [Solutions](https://climateuniversity.fi/portfolio-items/solutions-now/) | 5 ECTS | Exercises | :x: |
 | [SystemsChange](https://climateuniversity.fi/portfolio-items/systemschange-now/) | 3-5 ECTS | Exercises | :x: |
 
-### Technology
+## Technology
 BIM, CAD, FEA, GIS, IFC
 
 | Course | Duration | Assessment | Certificate |
@@ -155,15 +153,15 @@ BIM, CAD, FEA, GIS, IFC
 | [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/#) | 5 ECTS | Exercises | :x: |
 | [Tekla Open API Fundamentals](https://learn.trimble.com/learn/public/learning_plan/view/453/free-tekla-open-api-fundamentals) | 7 hours | Quiz | :heavy_check_mark: |
 
-### Usability
+## Usability
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Service Design Sprint](https://courses.mooc.fi/org/metropolia-innovation-entrepreneurship/courses/10d100c-service-design-sprint) | 5 chapters | Exercises | :heavy_check_mark: |
 
-### Visualization
+## Visualization
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 
-### Zero
+## Zero
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
