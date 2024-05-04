@@ -105,6 +105,12 @@ LCA, EPD, CO2
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) | 6 hours | Quiz | :heavy_check_mark: |
+| [Cement Chemistry and Sustainable Cementitious Materials](https://www.edx.org/learn/physical-chemistry/ecole-polytechnique-federale-de-lausanne-cement-chemistry-and-sustainable-cementitious-materials) | 6 weeks | Quiz | :credit_card: €231 |
+| [Sorption and transport in cementitious materials](https://www.edx.org/learn/chemistry/ecole-polytechnique-federale-de-lausanne-sorption-and-transport-in-cementitious-materials) | 6 weeks | Quiz | :credit_card: €157 |
+| [Nanomaterials for Civil and Environmental Applications](https://www.edx.org/learn/electronics/purdue-university-nanomaterials-for-civil-and-environmental-applications) | 5 weeks | Quiz | :x: |
+| [Building Materials and Human Health](https://www.coursera.org/learn/building-materials-and-human-health) | 3 modules | Quiz | :credit_card: |
+| [Material Chemistry and Sustainable Building](https://www.coursera.org/learn/material-chemistry-and-sustainable-building) | 3 modules | Quiz | :credit_card: |
+| [Wood Science](https://www.coursera.org/learn/wood-science) | 4 modules | Quiz | :credit_card: |
 
 ## Network
 | Course | Duration | Assessment | Certificate |
@@ -133,6 +139,8 @@ LCA, EPD, CO2
 | [Beyond Systems Thinking](https://www.edx.org/learn/social-science/eth-zurich-beyond-systems-thinking) | 6 weeks | Quiz | :credit_card: €46 |
 | [Nature-based Urban Regeneration](https://www.edx.org/learn/nature/rwth-aachen-university-nature-based-urban-regeneration) | 6 weeks | Quiz | :credit_card: €55 |
 | [Nature Based Metropolitan Solutions](https://ocw.tudelft.nl/courses/nature-based-metropolitan-solutions/) | 6 modules | Exercises | :x: |
+| [Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-engineering-building-with-nature) | 5 weeks | Quiz | :credit_card: €129 |
+| [Beyond Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-beyond-engineering-building-with-nature) | 6 weeks | Quiz | :credit_card: €129 |
 
 ## Sustainability
 SDG, SBTi, ESG  
@@ -144,6 +152,11 @@ SDG, SBTi, ESG
 | [Circular](https://climateuniversity.fi/portfolio-items/circular-now/) | 3-5 ECTS | Exercises | :x: |
 | [Solutions](https://climateuniversity.fi/portfolio-items/solutions-now/) | 5 ECTS | Exercises | :x: |
 | [SystemsChange](https://climateuniversity.fi/portfolio-items/systemschange-now/) | 3-5 ECTS | Exercises | :x: |
+| [Managing Resources for a Sustainable Future](https://www.edx.org/learn/sustainability/delft-university-of-technology-critical-raw-materials-managing-resources-for-a-sustainable-future) | 7 weeks | Quiz | :credit_card: €138 |
+| [Circular Economy for a Sustainable Built Environment](https://www.edx.org/learn/circular-economy/delft-university-of-technology-circular-economy-for-a-sustainable-built-environment) | 6 weeks | Quiz | :credit_card: €46 |
+| [Sustainable Building with Timber](https://www.edx.org/learn/architecture/delft-university-of-technology-building-with-timber) | 7 weeks | Quiz | :credit_card: €129 |
+| [Sustainable Materials Management](https://www.coursera.org/learn/circular-economy) | 5 modules | Quiz | :credit_card: |
+| [A Circular Economy of Metals](https://www.coursera.org/learn/circular-economy-metals) | 7 modules | Quiz | :credit_card: |
 
 ## Technology
 BIM, CAD, FEA, GIS, IFC
