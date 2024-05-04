@@ -129,6 +129,10 @@ LCA, EPD, CO2
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Nature-based Infrastructure for Climate Adaption and Sustainable Development](https://nbi.iisd.org/e-course/) | 5 modules | Exercises | :x: |
+| [From Sustainability to Regeneration](https://www.edx.org/learn/ethics/eth-zurich-worldviews-from-sustainability-to-regeneration) | 12 weeks | Quiz | :credit_card: €46 |
+| [Beyond Systems Thinking](https://www.edx.org/learn/social-science/eth-zurich-beyond-systems-thinking) | 6 weeks | Quiz | :credit_card: €46 |
+| [Nature-based Urban Regeneration](https://www.edx.org/learn/nature/rwth-aachen-university-nature-based-urban-regeneration) | 6 weeks | Quiz | :credit_card: €55 |
+| [Nature Based Metropolitan Solutions](https://ocw.tudelft.nl/courses/nature-based-metropolitan-solutions/) | 6 modules | Exercises | :x: |
 
 ## Sustainability
 SDG, SBTi, ESG  
@@ -154,6 +158,7 @@ BIM, CAD, FEA, GIS, IFC
 | [Grasshopper and SOFiSTiK Workflow](https://courses.sofistikforyou.com/p/mini-course-grasshopper-and-sofistik-workflow-how-to-model-and-analyse-a-truss-system) | 190  minutes | Exercises | :x: |
 | [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/#) | 5 ECTS | Exercises | :x: |
 | [Tekla Open API Fundamentals](https://learn.trimble.com/learn/public/learning_plan/view/453/free-tekla-open-api-fundamentals) | 7 hours | Quiz | :heavy_check_mark: |
+| [3D Modeling in Rhinoceros with Python/Rhinoscript](https://www.coursera.org/learn/3d-modeling-rhinoscript) | 5 modules | Quiz | :credit_card: |
 
 ## Usability
 | Course | Duration | Assessment | Certificate |
