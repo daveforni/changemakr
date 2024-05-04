@@ -174,7 +174,6 @@ SDG, SBTi, ESG
 | [Managing Resources for a Sustainable Future](https://www.edx.org/learn/sustainability/delft-university-of-technology-critical-raw-materials-managing-resources-for-a-sustainable-future) | 7 weeks | Quiz | :credit_card: €138 |
 | [Circular Economy for a Sustainable Built Environment](https://www.edx.org/learn/circular-economy/delft-university-of-technology-circular-economy-for-a-sustainable-built-environment) | 6 weeks | Quiz | :credit_card: €46 |
 | [Sustainable Building with Timber](https://www.edx.org/learn/architecture/delft-university-of-technology-building-with-timber) | 7 weeks | Quiz | :credit_card: €129 |
-
 | [A Circular Economy of Metals](https://www.coursera.org/learn/circular-economy-metals) | 7 modules | Quiz | :credit_card: |
 | [Sustainable Construction in a Circular Economy](https://www.coursera.org/learn/sustainable-construction-in-a-circular-economy) | 3 modules | Quiz | :credit_card: |
 | [Sustainability in practice](https://www.edx.org/learn/engineering/universite-de-montreal-engineers-canada-sustainability-in-practice) | 4 weeks | Quiz | :credit_card: €69 |
