@@ -100,6 +100,7 @@ LCA, EPD, CO2
 | :--- | :--- | :--- | :--- |
 | [ClimateComms](https://climateuniversity.fi/portfolio-items/climatecomms-now/) | 2 ECTS | Exercises | :x: |
 | [Leadership for sustainable change](https://climateuniversity.fi/portfolio-items/leadforsust/) | 5 ECTS | Exercises | :x: |
+| [Strategic Communication for Sustainability Leaders](https://www.edx.org/learn/sustainability/university-of-maryland-center-for-environmental-science-strategic-communication-for-sustainability-leaders) | 5 weeks | Quiz | :credit_card: €138 |
 
 ## Material
 | Course | Duration | Assessment | Certificate |
@@ -158,6 +159,7 @@ SDG, SBTi, ESG
 | [Sustainable Materials Management](https://www.coursera.org/learn/circular-economy) | 5 modules | Quiz | :credit_card: |
 | [A Circular Economy of Metals](https://www.coursera.org/learn/circular-economy-metals) | 7 modules | Quiz | :credit_card: |
 | [Sustainable Construction in a Circular Economy](https://www.coursera.org/learn/sustainable-construction-in-a-circular-economy?specialization=healthier-materials-and-sustainable-building) | 3 modules | Quiz | :credit_card: |
+| [Sustainability in practice](https://www.edx.org/learn/engineering/universite-de-montreal-engineers-canada-sustainability-in-practice) | 4 weeks | Quiz | :credit_card: €69 |
 
 ## Technology
 BIM, CAD, FEA, GIS, IFC
