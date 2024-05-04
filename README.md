@@ -157,6 +157,7 @@ SDG, SBTi, ESG
 | [Sustainable Building with Timber](https://www.edx.org/learn/architecture/delft-university-of-technology-building-with-timber) | 7 weeks | Quiz | :credit_card: €129 |
 | [Sustainable Materials Management](https://www.coursera.org/learn/circular-economy) | 5 modules | Quiz | :credit_card: |
 | [A Circular Economy of Metals](https://www.coursera.org/learn/circular-economy-metals) | 7 modules | Quiz | :credit_card: |
+| [Sustainable Construction in a Circular Economy](https://www.coursera.org/learn/sustainable-construction-in-a-circular-economy?specialization=healthier-materials-and-sustainable-building) | 3 modules | Quiz | :credit_card: |
 
 ## Technology
 BIM, CAD, FEA, GIS, IFC
@@ -172,6 +173,9 @@ BIM, CAD, FEA, GIS, IFC
 | [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/#) | 5 ECTS | Exercises | :x: |
 | [Tekla Open API Fundamentals](https://learn.trimble.com/learn/public/learning_plan/view/453/free-tekla-open-api-fundamentals) | 7 hours | Quiz | :heavy_check_mark: |
 | [3D Modeling in Rhinoceros with Python/Rhinoscript](https://www.coursera.org/learn/3d-modeling-rhinoscript) | 5 modules | Quiz | :credit_card: |
+| [Fundamentals of Building Information Modeling](https://www.edx.org/learn/construction/purdue-university-fundamentals-of-building-information-modeling) | 5 weeks | Quiz | :x: |
+| [BIM for Construction](https://www.edx.org/learn/construction/purdue-university-bim-for-construction) | 6 weeks | Quiz | :x: |
+| [Computer Applications of Artificial Intelligence and e-Construction](https://www.edx.org/learn/artificial-intelligence/purdue-university-computer-applications-of-artificial-intelligence-and-e-construction) | 5 weeks | Quiz | :x: |
 
 ## Usability
 | Course | Duration | Assessment | Certificate |
