@@ -5,11 +5,12 @@ This is an archive of contents.
 #### Digital literacy
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Digital Revolution](https://courses.minnalearn.com/en/courses/digital-revolution/) | 6 chapter | Exercises | :heavy_check_mark: |
-| [Emerging Technologies](https://courses.minnalearn.com/en/courses/emerging-technologies/) | 5 chapter | Exercises | :heavy_check_mark: |
-| [Cybersecurity](https://courses.minnalearn.com/en/courses/cybersecurity/) | 5 chapter | Exercises | :heavy_check_mark: |
+| [Digital Revolution](https://courses.minnalearn.com/en/courses/digital-revolution/) | 6 chapter | Exercises | :white_check_mark: |
+| [Emerging Technologies](https://courses.minnalearn.com/en/courses/emerging-technologies/) | 5 chapter | Exercises | :white_check_mark: |
+| [Cybersecurity](https://courses.minnalearn.com/en/courses/cybersecurity/) | 5 chapter | Exercises | :white_check_mark: |
 | [Getting started with Google Workspace Specialization](https://www.coursera.org/specializations/getting-started-with-google-workspace) | 9 courses | Quiz | :credit_card: |
 | [Microsoft 365 Fundamentals Specialization](https://www.coursera.org/specializations/microsoft-365-fundamentals) | 3 courses | Quiz | :credit_card: |
+| [Digital Skills](https://www.futurelearn.com/partners/accenture-uk) | 8 courses | Quiz | :white_check_mark: |
 
 #### Lifelong learning
 
@@ -47,16 +48,16 @@ This is an archive of contents.
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | 2 ECTS | Exercises | :credit_card: €30 |
-| [Sustainable Materials Management](https://www.coursera.org/learn/circular-economy) | 5 modules | Quiz | :credit_card: |
+| [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) | 3 weeks | Quiz | :credit_card: |
 
 ## Computing
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Elements of AI](https://course.elementsofai.com/) | 2 ECTS | Exercises | :heavy_check_mark: |
+| [Elements of AI](https://course.elementsofai.com/) | 2 ECTS | Exercises | :white_check_mark: |
 | [Building AI](https://buildingai.elementsofai.com/) | 1 ECTS | Exercises | :credit_card: €50 |
-| [Ethics of AI](https://ethics-of-ai.mooc.fi/) | 2 ECTS | Exercises | ??? |
-| [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | 2 ECTS | Exercises | ??? |
-| [Full Stack Web Development](https://fullstackopen.com/en/) | 14 ECTS | Exercises | :heavy_check_mark: |
+| [Ethics of AI](https://ethics-of-ai.mooc.fi/) | 2 ECTS | Exercises | :credit_card: |
+| [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | 2 ECTS | Exercises | :credit_card: |
+| [Full Stack Web Development](https://fullstackopen.com/en/) | 14 ECTS | Exercises | :white_check_mark: |
 | [Applied Language Technology](https://applied-language-technology.mooc.fi/html/index.html) | 10 ECTS | Exercises | :x: |
 | [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | 2 ECTS | Exercises | :x: |
 | [Machine Learning for the Built Environment](https://3d.bk.tudelft.nl/courses/geo5017/) | 7 weeks | Exercises | :x: |
@@ -65,14 +66,14 @@ This is an archive of contents.
 ## Data
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :heavy_check_mark: |
+| [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :white_check_mark: |
 | [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | 7 weeks | Quiz | :credit_card: €186 |
-| [Data in Construction](https://www.procore.com/data-construction-series) | 5 CEUs | Quiz | :heavy_check_mark: |
+| [Data in Construction](https://www.procore.com/data-construction-series) | 5 CEUs | Quiz | :white_check_mark: |
 | [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
 | [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | 5 ECTS | Exercises | :x: |
 | [Data Science for Ecology](https://wec.wur.nl/dse/) | 6 weeks | Exercises | :x: |
 | [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data) | 4 modules | Quiz | :credit_card: |
-| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) | 3 weeks | Exercises | :x: |
+| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) | 3 weeks | Exercises | :credit_card: |
 
 ## Environment
 EIA
@@ -87,7 +88,7 @@ EIA
 ## Funding
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | 2 ECTS | Exercises | :heavy_check_mark: |
+| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | 2 ECTS | Exercises | :white_check_mark: |
 | [Technology Entrepreneurship](https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market) | 5 weeks | Quiz | :credit_card: €138 |
 | [Entrepreneurship for Engineers](https://www.edx.org/learn/entrepreneurship/delft-university-of-technology-entrepreneurship-for-engineers) | 8 weeks | Quiz | :credit_card: €92 |
 
@@ -99,18 +100,20 @@ EIA
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Design Bits](https://designbits.aalto.fi/en/) | 2 ECTS | Exercises | :credit_card: €30 |
-| [Built for Health - Season One](https://www.usgbc.org/education/sessions/built-health-season-one-11766773) | 7 modules | Exercises | :x: |
-| [Built for Health - Season Two](https://www.usgbc.org/education/sessions/built-health-season-two-12608600) | 5 modules | Exercises | :x: |
+| [Built for Health One](https://www.usgbc.org/education/sessions/built-health-season-one-11766773) | 7 modules | Exercises | :x: |
+| [Built for Health Two](https://www.usgbc.org/education/sessions/built-health-season-two-12608600) | 5 modules | Exercises | :x: |
 
 ## Impact
 LCA, EPD, CO2
 
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Building LCA for architects](https://academy.oneclicklca.com/courses/building-lca-for-architects) | 5 hours | Quiz | :heavy_check_mark: |
-| [Infrastructure LCA](https://academy.oneclicklca.com/courses/infrastructure-lca-online-course) | 5 hours | Quiz | :heavy_check_mark: |
+| [Building LCA for architects](https://academy.oneclicklca.com/courses/building-lca-for-architects) | 5 hours | Quiz | :white_check_mark: |
+| [Infrastructure LCA](https://academy.oneclicklca.com/courses/infrastructure-lca-online-course) | 5 hours | Quiz | :white_check_mark: |
 | [Environmental Product Declarations](https://academy.oneclicklca.com/courses/epd-onboarding-introduction) | 5 hours | Quiz | :x: |
-| [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) | 5 hours | Quiz | :heavy_check_mark: |
+| [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) | 5 hours | Quiz | :white_check_mark: |
+| [Principles of Life Cycle Assessment (LCA) for Sustainability](https://www.futurelearn.com/courses/principles-of-life-cycle-assessment-for-sustainability) | 4 weeks | Quiz | :credit_card: |
+| [Foundations of Life Cycle Assessment Practice](https://www.futurelearn.com/courses/foundations-of-lca) | 2 weeks | Quiz | :credit_card: |
 
 ## Leadership
 | Course | Duration | Assessment | Certificate |
@@ -123,7 +126,7 @@ LCA, EPD, CO2
 ## Material
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) | 6 hours | Quiz | :heavy_check_mark: |
+| [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) | 6 hours | Quiz | :white_check_mark: |
 | [Cement Chemistry and Sustainable Cementitious Materials](https://www.edx.org/learn/physical-chemistry/ecole-polytechnique-federale-de-lausanne-cement-chemistry-and-sustainable-cementitious-materials) | 6 weeks | Quiz | :credit_card: €231 |
 | [Sorption and transport in cementitious materials](https://www.edx.org/learn/chemistry/ecole-polytechnique-federale-de-lausanne-sorption-and-transport-in-cementitious-materials) | 6 weeks | Quiz | :credit_card: €157 |
 | [Nanomaterials for Civil and Environmental Applications](https://www.edx.org/learn/electronics/purdue-university-nanomaterials-for-civil-and-environmental-applications) | 5 weeks | Quiz | :x: |
@@ -138,17 +141,19 @@ LCA, EPD, CO2
 ## Organization
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
+| [Sustainable Materials Management](https://www.coursera.org/learn/circular-economy) | 5 modules | Quiz | :credit_card: |
 
 ## Programming
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Python Programming](https://programming-24.mooc.fi/) | 10 ECTS | Exercises | :x: |
 | [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
-| [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) | 6 chapters | Quiz | :heavy_check_mark: |
+| [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) | 6 chapters | Quiz | :white_check_mark: |
 
 ## Quality
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
+| [Quality in Construction](https://www.futurelearn.com/courses/construction-quality) | 3 weeks | Quiz | :credit_card: |
 
 ## Regeneration
 | Course | Duration | Assessment | Certificate |
@@ -166,7 +171,7 @@ SDG, SBTi, ESG
 
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Higher Education for Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | 5 weeks | Quiz | :heavy_check_mark: |
+| [Higher Education for Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | 5 weeks | Quiz | :white_check_mark: |
 | [Introduction to Sustainability](https://courses.mooc.fi/org/uh-inar/courses/introduction-to-sustainability) | 3 ECTS | Exercises | :credit_card: €45 |
 | [Circular](https://climateuniversity.fi/portfolio-items/circular-now/) | 3-5 ECTS | Exercises | :x: |
 | [Solutions](https://climateuniversity.fi/portfolio-items/solutions-now/) | 5 ECTS | Exercises | :x: |
@@ -177,6 +182,7 @@ SDG, SBTi, ESG
 | [A Circular Economy of Metals](https://www.coursera.org/learn/circular-economy-metals) | 7 modules | Quiz | :credit_card: |
 | [Sustainable Construction in a Circular Economy](https://www.coursera.org/learn/sustainable-construction-in-a-circular-economy) | 3 modules | Quiz | :credit_card: |
 | [Sustainability in practice](https://www.edx.org/learn/engineering/universite-de-montreal-engineers-canada-sustainability-in-practice) | 4 weeks | Quiz | :credit_card: €69 |
+| [Sustainable Construction and Development](https://www.futurelearn.com/courses/sustainable-construction-development) | 5 weeks | Quiz | :credit_card: |
 
 ## Technology
 BIM, CAD, FEA, GIS, IFC
@@ -186,11 +192,11 @@ BIM, CAD, FEA, GIS, IFC
 | [The Fundamental of Grasshopper3D](https://www.rhino3d.education/p/the-fundamental-of-grasshopper3d) | 70 minutes | Quiz | :x: |
 | [Essential Mathematics for Computational Design](https://www.rhino3d.education/p/rajaa) | 120 minutes | Quiz | :x: |
 | [GhPython Introduction](https://www.rhino3d.education/p/ghpython-introduction) | 170 minutes | Quiz | :x: |
-| [Rhino 6 and 7 Introduction](https://www.rhino3d.education/p/rhino-6-introduction) | 4.5 hours | Quiz | :heavy_check_mark: |
-| [Introduction to Rhino 8](https://www.rhino3d.education/p/introduction-to-rhino-8) | 3 hours | Quiz | :heavy_check_mark: |
+| [Rhino 6 and 7 Introduction](https://www.rhino3d.education/p/rhino-6-introduction) | 4.5 hours | Quiz | :white_check_mark: |
+| [Introduction to Rhino 8](https://www.rhino3d.education/p/introduction-to-rhino-8) | 3 hours | Quiz | :white_check_mark: |
 | [Grasshopper and SOFiSTiK Workflow](https://courses.sofistikforyou.com/p/mini-course-grasshopper-and-sofistik-workflow-how-to-model-and-analyse-a-truss-system) | 190  minutes | Exercises | :x: |
 | [Automating GIS Processes](https://autogis-site.readthedocs.io/en/latest/#) | 5 ECTS | Exercises | :x: |
-| [Tekla Open API Fundamentals](https://learn.trimble.com/learn/public/learning_plan/view/453/free-tekla-open-api-fundamentals) | 7 hours | Quiz | :heavy_check_mark: |
+| [Tekla Open API Fundamentals](https://learn.trimble.com/learn/public/learning_plan/view/453/free-tekla-open-api-fundamentals) | 7 hours | Quiz | :white_check_mark: |
 | [3D Modeling in Rhinoceros with Python/Rhinoscript](https://www.coursera.org/learn/3d-modeling-rhinoscript) | 5 modules | Quiz | :credit_card: |
 | [Fundamentals of Building Information Modeling](https://www.edx.org/learn/construction/purdue-university-fundamentals-of-building-information-modeling) | 5 weeks | Quiz | :x: |
 | [BIM for Construction](https://www.edx.org/learn/construction/purdue-university-bim-for-construction) | 6 weeks | Quiz | :x: |
@@ -198,11 +204,13 @@ BIM, CAD, FEA, GIS, IFC
 | [Introduction to the Internet of Things](https://courses.mooc.fi/org/uh-cs/courses/introduction-to-the-internet-of-things-mooc) | 5 ECTS | Exercises | :x: |
 | [Transform AEC Projects with GIS and BIM](https://www.esri.com/training/catalog/6257059de00e450c2a24e4e7/transform-aec-projects-with-gis-and-bim/) | 4 weeks | Exercises | :x: |
 | [GIS Applications Across Industries](https://www.coursera.org/learn/gis-applications-across-industries) | 4 modules | Quiz | :credit_card: |
+| [Introduction to Physical Computing](https://www.futurelearn.com/courses/an-introduction-to-physical-computing) | 2 weeks | Quiz | :white_check_mark: |
+| [Introduction to Virtual, Augmented and Mixed Reality](https://www.futurelearn.com/courses/introduction-to-virtual-reality) | 2 weeks | Quiz | :white_check_mark: |
 
 ## Usability
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Service Design Sprint](https://courses.mooc.fi/org/metropolia-innovation-entrepreneurship/courses/service-design) | 5 chapters | Exercises | :heavy_check_mark: |
+| [Service Design Sprint](https://courses.mooc.fi/org/metropolia-innovation-entrepreneurship/courses/service-design) | 5 chapters | Exercises | :white_check_mark: |
 
 ## Visualization
 | Course | Duration | Assessment | Certificate |
@@ -211,7 +219,7 @@ BIM, CAD, FEA, GIS, IFC
 ## Zero
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Fundamentals of Net Zero and Decarbonisation](https://fidic.academy/courses1/fundamentals-to-net-zero-and-decarbonization-course/) | 40 minutes | Quiz | :heavy_check_mark: |
+| [Fundamentals of Net Zero and Decarbonisation](https://fidic.academy/courses1/fundamentals-to-net-zero-and-decarbonization-course/) | 40 minutes | Quiz | :white_check_mark: |
 | [Setting Science-Based Targets](https://info.unglobalcompact.org/SBTi) | 30 minutes | Quiz | :x: |
 | [The Net-Zero Standard](https://info.unglobalcompact.org/net-zero-standard) | 20 minutes | Quiz | :x: |
 | [Climate Fit](https://smeclimatehub.org/climate-fit/) | 7 modules | Quiz | :x: |
