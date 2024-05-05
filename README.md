@@ -142,6 +142,7 @@ LCA, EPD, CO2
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Sustainable Materials Management](https://www.coursera.org/learn/circular-economy) | 5 modules | Quiz | :credit_card: |
+| [Sustainable Management in the Extractive Industry](https://www.futurelearn.com/courses/sustainable-management-in-extractive-industry) | 6 weeks | Quiz | :white_check_mark: |
 
 ## Programming
 | Course | Duration | Assessment | Certificate |
@@ -183,6 +184,7 @@ SDG, SBTi, ESG
 | [Sustainable Construction in a Circular Economy](https://www.coursera.org/learn/sustainable-construction-in-a-circular-economy) | 3 modules | Quiz | :credit_card: |
 | [Sustainability in practice](https://www.edx.org/learn/engineering/universite-de-montreal-engineers-canada-sustainability-in-practice) | 4 weeks | Quiz | :credit_card: €69 |
 | [Sustainable Construction and Development](https://www.futurelearn.com/courses/sustainable-construction-development) | 5 weeks | Quiz | :credit_card: |
+| [Smart Urban Green Infrastructure](https://www.futurelearn.com/courses/smart-urban-green-infrastructure) | 5 weeks | Quiz | :credit_card: |
 
 ## Technology
 BIM, CAD, FEA, GIS, IFC
