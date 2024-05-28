@@ -49,6 +49,7 @@ This is an archive of contents.
 | :--- | :--- | :--- | :--- |
 | [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | 2 ECTS | Exercises | :credit_card: €30 |
 | [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) | 3 weeks | Quiz | :credit_card: |
+| [Green Marketing Challenge](https://www.unssc.org/courses/green-marketing-challenge) | 2 hours | Exercises | :x: |
 
 ## Computing
 | Course | Duration | Assessment | Certificate |
@@ -74,6 +75,9 @@ This is an archive of contents.
 | [Data Science for Ecology](https://wec.wur.nl/dse/) | 6 weeks | Exercises | :x: |
 | [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data) | 4 modules | Quiz | :credit_card: |
 | [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) | 3 weeks | Exercises | :credit_card: |
+| [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | 3 weeks | Quiz | :white_check_mark: |
+| [Data Skills for Global Development](https://statistics.unsdglearn.org/courses/opening-the-appetite-data-skills-for-global-development-training-programme/) | 5 modules | Quiz | :white_check_mark: |
+| [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) | 2 hours | Quiz | :white_check_mark: |
 
 ## Environment
 EIA
@@ -84,6 +88,7 @@ EIA
 | [Living with changing climate](https://climateuniversity.fi/portfolio-items/living_with_changing_climate/) | 5 ECTS | Exercises | :x: |
 | [Carbon Capture and Storage](https://www.edx.org/learn/climate-change/the-university-of-edinburgh-climate-change-carbon-capture-and-storage) | 5 weeks | Quiz | :credit_card: €45 |
 | [Climate Literacy and Action for All](https://www.futurelearn.com/courses/climate-literacy-and-action-for-all) | 3 weeks | Exercises | :x: |
+| [Environmental SDG Indicators](https://statistics.unsdglearn.org/courses/environmental-sdg-indicators/) | 2 hours | Quiz | :white_check_mark: |
 
 ## Funding
 | Course | Duration | Assessment | Certificate |
@@ -185,6 +190,8 @@ SDG, SBTi, ESG
 | [Sustainability in practice](https://www.edx.org/learn/engineering/universite-de-montreal-engineers-canada-sustainability-in-practice) | 4 weeks | Quiz | :credit_card: €69 |
 | [Sustainable Construction and Development](https://www.futurelearn.com/courses/sustainable-construction-development) | 5 weeks | Quiz | :credit_card: |
 | [Smart Urban Green Infrastructure](https://www.futurelearn.com/courses/smart-urban-green-infrastructure) | 5 weeks | Quiz | :credit_card: |
+| [Digital4Sustainability](https://www.unsdglearn.org/courses/digital4sustainability-learning-path/) | 4 weeks | Quiz | :white_check_mark: |
+| [The SDG Primer](https://www.unssc.org/courses/sdg-primer-1) | 3.5 hours | Quiz | :x: |
 
 ## Technology
 BIM, CAD, FEA, GIS, IFC
@@ -208,6 +215,7 @@ BIM, CAD, FEA, GIS, IFC
 | [GIS Applications Across Industries](https://www.coursera.org/learn/gis-applications-across-industries) | 4 modules | Quiz | :credit_card: |
 | [Introduction to Physical Computing](https://www.futurelearn.com/courses/an-introduction-to-physical-computing) | 2 weeks | Quiz | :white_check_mark: |
 | [Introduction to Virtual, Augmented and Mixed Reality](https://www.futurelearn.com/courses/introduction-to-virtual-reality) | 2 weeks | Quiz | :white_check_mark: |
+| [LCA Beginner](https://ecochain.com/lca-beginner-course/) | 3.5 hours | Quiz | :white_check_mark: |
 
 ## Usability
 | Course | Duration | Assessment | Certificate |
