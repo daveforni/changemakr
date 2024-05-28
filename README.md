@@ -119,6 +119,7 @@ LCA, EPD, CO2
 | [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) | 5 hours | Quiz | :white_check_mark: |
 | [Principles of Life Cycle Assessment (LCA) for Sustainability](https://www.futurelearn.com/courses/principles-of-life-cycle-assessment-for-sustainability) | 4 weeks | Quiz | :credit_card: |
 | [Foundations of Life Cycle Assessment Practice](https://www.futurelearn.com/courses/foundations-of-lca) | 2 weeks | Quiz | :credit_card: |
+| [LCA Beginner](https://ecochain.com/lca-beginner-course/) | 3.5 hours | Quiz | :white_check_mark: |
 
 ## Leadership
 | Course | Duration | Assessment | Certificate |
@@ -215,7 +216,6 @@ BIM, CAD, FEA, GIS, IFC
 | [GIS Applications Across Industries](https://www.coursera.org/learn/gis-applications-across-industries) | 4 modules | Quiz | :credit_card: |
 | [Introduction to Physical Computing](https://www.futurelearn.com/courses/an-introduction-to-physical-computing) | 2 weeks | Quiz | :white_check_mark: |
 | [Introduction to Virtual, Augmented and Mixed Reality](https://www.futurelearn.com/courses/introduction-to-virtual-reality) | 2 weeks | Quiz | :white_check_mark: |
-| [LCA Beginner](https://ecochain.com/lca-beginner-course/) | 3.5 hours | Quiz | :white_check_mark: |
 
 ## Usability
 | Course | Duration | Assessment | Certificate |
