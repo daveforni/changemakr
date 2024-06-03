@@ -62,8 +62,8 @@ This is an archive of contents.
 ## Business
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) |  | 4 modules | Exercises | :moneybag: | <!--€30-->
-| [Green Marketing Challenge](https://www.unssc.org/courses/green-marketing-challenge) |  | 2 hours | Exercises | :x: |
+| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | ESG, Business model, Innovation, Change management, Strategy | 4 modules | Exercises | :moneybag: | <!--€30-->
+| [Green Marketing Challenge](https://www.unssc.org/courses/green-marketing-challenge) | Sustainability claim, Greenwashing  | 2 hours | Exercises | :x: |
 <!--| [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) |  | 3 weeks | Quiz | :credit_card: |-->
 
 ## Computing
@@ -80,48 +80,48 @@ This is an archive of contents.
 | [AI for Built Environment](https://courses.minnalearn.com/en/courses/ai-for-built-environment/) | AI, ML | 3 chapters | Quiz | :moneybag: | <!--€50-->
 
 ## Data
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
-| [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :white_check_mark: |
-| [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | 7 weeks | Quiz | :moneybag::moneybag::moneybag: | <!--€186-->
-| [Data in Construction](https://www.procore.com/data-construction-series) | 5 CEUs | Quiz | :white_check_mark: |
-| [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
-| [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | 5 ECTS | Exercises | :x: |
-| [Data Science for Ecology](https://wec.wur.nl/dse/) | 6 weeks | Exercises | :x: |
-| [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data) | 4 modules | Quiz | :credit_card: |
-| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) | 3 weeks | Exercises | :credit_card: |
-| [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | 3 weeks | Quiz | :white_check_mark: |
-| [Data Skills for Global Development](https://statistics.unsdglearn.org/courses/opening-the-appetite-data-skills-for-global-development-training-programme/) | 5 modules | Quiz | :white_check_mark: |
-| [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) | 2 hours | Quiz | :white_check_mark: |
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | R, Markdown, Shiny, Data Analysis, Data Manipulation, Data Visualization | 16 modules | Quiz | :white_check_mark: |
+| [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | Python, Pandas, scikit-learn, Google Colab, ML, ETL | 7 weeks | Quiz | :moneybag::moneybag::moneybag: | <!--€186-->
+| [Data in Construction](https://www.procore.com/data-construction-series) | Data Analysis, Data Collection, AI, ML | 5 parts | Quiz | :white_check_mark: |
+| [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, GIS, Git | 5 weeks | Exercises | :x: |
+| [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | Python, SQL, PySpark | 5 ECTS | Exercises | :x: |
+| [Data Science for Ecology](https://wec.wur.nl/dse/) | R, Data Processing, ML | 6 weeks | Exercises | :x: |
+| [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data) | GIS, ArcGIS, Data Management, SQLite | 4 modules | Quiz | :moneybag: |
+| [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | Data-driven decision | 3 weeks | Quiz | :white_check_mark: |
+| [Data Skills for Global Development](https://statistics.unsdglearn.org/courses/opening-the-appetite-data-skills-for-global-development-training-programme/) | Data Collection, Data Manipulation | 5 modules | Quiz | :white_check_mark: |
+| [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) | Data Collection, Data Manipulation | 2 hours | Quiz | :white_check_mark: |
+<!--| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) |  | 4 weeks | Exercises | :credit_card: |-->
 
 ## Environment
 EIA
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
-| [Climate](https://courses.mooc.fi/org/uh-inar/courses/climate-now) | 2 ECTS | Exercises | :x: |
-| [Biodiversity](https://courses.mooc.fi/org/uh-inar/courses/biodiversity-now) | 2 ECTS | Exercises | :x: |
-| [Living with changing climate](https://climateuniversity.fi/portfolio-items/living_with_changing_climate/) | 5 ECTS | Exercises | :x: |
-| [Carbon Capture and Storage](https://www.edx.org/learn/climate-change/the-university-of-edinburgh-climate-change-carbon-capture-and-storage) | 5 weeks | Quiz | :credit_card: €45 |
-| [Climate Literacy and Action for All](https://www.futurelearn.com/courses/climate-literacy-and-action-for-all) | 3 weeks | Exercises | :x: |
-| [Environmental SDG Indicators](https://statistics.unsdglearn.org/courses/environmental-sdg-indicators/) | 2 hours | Quiz | :white_check_mark: |
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Climate](https://courses.mooc.fi/org/uh-inar/courses/climate-now) | Impact, Mitigation, Adaption | 8 chapters | Exercises | :x: |
+| [Biodiversity](https://courses.mooc.fi/org/uh-inar/courses/biodiversity-now) | Crisis, Threat, Consequence, Conservation | 6 chapters | Exercises | :x: |
+| [Living with changing climate](https://climateuniversity.fi/portfolio-items/living_with_changing_climate/) | Climate Change, Weather, Scenario | 5 modules | Exercises | :x: |
+| [Carbon Capture and Storage](https://www.edx.org/learn/climate-change/the-university-of-edinburgh-climate-change-carbon-capture-and-storage) | GHG, Climate Change | 5 weeks | Quiz | :moneybag: | <!--€45-->
+| [Environmental SDG Indicators](https://statistics.unsdglearn.org/courses/environmental-sdg-indicators/) | SDG | 10 modules | Quiz | :white_check_mark: |
+<!--| [Climate Literacy and Action for All](https://www.futurelearn.com/courses/climate-literacy-and-action-for-all) |  | 3 weeks | Exercises | :x: |-->
 
 ## Funding
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
-| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | 2 ECTS | Exercises | :white_check_mark: |
-| [Technology Entrepreneurship](https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market) | 5 weeks | Quiz | :credit_card: €138 |
-| [Entrepreneurship for Engineers](https://www.edx.org/learn/entrepreneurship/delft-university-of-technology-entrepreneurship-for-engineers) | 8 weeks | Quiz | :credit_card: €92 |
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Product/market fit, Company building, Finance, Growth | 9 chapters | Exercises | :white_check_mark: |
+| [Technology Entrepreneurship](https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market) | Entrepreneurship, R&D, Innovation, Product/market fit | 5 weeks | Quiz | :moneybag::moneybag: | <!--€138-->
+| [Entrepreneurship for Engineers](https://www.edx.org/learn/entrepreneurship/delft-university-of-technology-entrepreneurship-for-engineers) | MVP, Strategy, Finance, Business model | 8 weeks | Quiz | :moneybag::moneybag: | <!--€92-->
 
 ## Guideline
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
 
 ## Holistic
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
-| [Design Bits](https://designbits.aalto.fi/en/) | 2 ECTS | Exercises | :credit_card: €30 |
-| [Built for Health One](https://www.usgbc.org/education/sessions/built-health-season-one-11766773) | 7 modules | Exercises | :x: |
-| [Built for Health Two](https://www.usgbc.org/education/sessions/built-health-season-two-12608600) | 5 modules | Exercises | :x: |
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Design Bits](https://designbits.aalto.fi/en/) | Sustainability, Collaboration, Innovation, Management | 7 chapters | Exercises | :moneybag: | <!--€30-->
+| [Built for Health One](https://www.usgbc.org/education/sessions/built-health-season-one-11766773) | Health, Wellness | 7 modules | Exercises | :x: |
+| [Built for Health Two](https://www.usgbc.org/education/sessions/built-health-season-two-12608600) | Health, Wellness | 5 modules | Exercises | :x: |
 
 ## Impact
 LCA, EPD, CO2
