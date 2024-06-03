@@ -103,25 +103,38 @@ EIA
 | [Living with changing climate](https://climateuniversity.fi/portfolio-items/living_with_changing_climate/) | Climate Change, Weather, Scenario | 5 modules | Exercises | :x: |
 | [Carbon Capture and Storage](https://www.edx.org/learn/climate-change/the-university-of-edinburgh-climate-change-carbon-capture-and-storage) | GHG, Climate Change | 5 weeks | Quiz | :moneybag: | <!--€45-->
 | [Environmental SDG Indicators](https://statistics.unsdglearn.org/courses/environmental-sdg-indicators/) | SDG | 10 modules | Quiz | :white_check_mark: |
+| [Environmental Impact Assessment](https://www.iisd.org/learning/eia/) | EIA | 2 modules | Quiz | :x: |
 <!--| [Climate Literacy and Action for All](https://www.futurelearn.com/courses/climate-literacy-and-action-for-all) |  | 3 weeks | Exercises | :x: |-->
 
 ## Funding
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Product/market fit, Company building, Finance, Growth | 9 chapters | Exercises | :white_check_mark: |
+| [Design Bits](https://designbits.aalto.fi/en/) | Sustainability, Collaboration, Innovation, Management | 7 chapters | Exercises | :moneybag: | <!--€30-->
 | [Technology Entrepreneurship](https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market) | Entrepreneurship, R&D, Innovation, Product/market fit | 5 weeks | Quiz | :moneybag::moneybag: | <!--€138-->
 | [Entrepreneurship for Engineers](https://www.edx.org/learn/entrepreneurship/delft-university-of-technology-entrepreneurship-for-engineers) | MVP, Strategy, Finance, Business model | 8 weeks | Quiz | :moneybag::moneybag: | <!--€92-->
 
 ## Guideline
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
+| [Open Source Technical Documentation Essentials](https://training.linuxfoundation.org/training/open-source-technical-documentation-essentials-lfc111/) | Documentation, API | 3-4 hours | Quiz | :white_check_mark: |
+| [Creating Effective Documentation for Developers](https://training.linuxfoundation.org/training/creating-effective-documentation-for-developers-lfc112/) | Documentation, API | 3-4 hours | Quiz | :white_check_mark: |
 
 ## Holistic
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Design Bits](https://designbits.aalto.fi/en/) | Sustainability, Collaboration, Innovation, Management | 7 chapters | Exercises | :moneybag: | <!--€30-->
 | [Built for Health One](https://www.usgbc.org/education/sessions/built-health-season-one-11766773) | Health, Wellness | 7 modules | Exercises | :x: |
 | [Built for Health Two](https://www.usgbc.org/education/sessions/built-health-season-two-12608600) | Health, Wellness | 5 modules | Exercises | :x: |
+| [Regenerative Livelihoods by Design](https://gaiauniversity.org/en/rld/) | Regenerative Design | 3 modules | Exercises | :x: |
+| [Conversations on Resilience](https://www.gaiaeducation.org/resilience-online-course) | Regenerative Design | 7 sessions | Exercises | :x: |
+| [Sustainable Urban Regeneration](https://www.coursera.org/learn/sustainable-urban-regeneration-2022) | Regenerative Design | 6 weeks | Quiz | :moneybag::moneybag: |
+| [From Sustainability to Regeneration](https://www.edx.org/learn/ethics/eth-zurich-worldviews-from-sustainability-to-regeneration) | Regenerative Design | 12 weeks | Quiz | :moneybag: | <!--€46-->
+| [Beyond Systems Thinking](https://www.edx.org/learn/social-science/eth-zurich-beyond-systems-thinking-2) | Regenerative Design, Systems Thinking | 6 weeks | Quiz | :moneybag: | <!--€46-->
+| [Nature-based Infrastructure for Climate Adaption and Sustainable Development](https://nbi.iisd.org/e-course/) | NbS, Systems Thinking | 5 modules | Exercises | :x: |
+| [Nature-based Urban Regeneration](https://www.edx.org/learn/nature/rwth-aachen-university-nature-based-urban-regeneration) | NbS | 6 weeks | Quiz | :moneybag::moneybag: | <!--€55-->
+| [Nature Based Metropolitan Solutions](https://ocw.tudelft.nl/courses/nature-based-metropolitan-solutions/) | NbS | 6 modules | Exercises | :x: |
+| [Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-engineering-building-with-nature) | NbS, Integrated Design | 5 weeks | Quiz | :moneybag::moneybag: | <!--€129-->
+| [Beyond Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-beyond-engineering-building-with-nature) | NbS, Integrated Design | 6 weeks | Quiz | :moneybag::moneybag: | <!--€129-->
 
 ## Impact
 LCA, EPD, CO2
@@ -135,6 +148,12 @@ LCA, EPD, CO2
 | [Principles of Life Cycle Assessment (LCA) for Sustainability](https://www.futurelearn.com/courses/principles-of-life-cycle-assessment-for-sustainability) | 4 weeks | Quiz | :credit_card: |
 | [Foundations of Life Cycle Assessment Practice](https://www.futurelearn.com/courses/foundations-of-lca) | 2 weeks | Quiz | :credit_card: |
 | [LCA Beginner](https://ecochain.com/lca-beginner-course/) | 3.5 hours | Quiz | :white_check_mark: |
+| [EPD Creation](https://www.environdec.com/all-about-epds/create-your-epd) | 5 steps | Exercises | :x: |
+| [PCR Creation](https://www.environdec.com/product-category-rules-pcr/develop-a-pcr) | 5 steps | Exercises | :x: |
+| [Agricultural Greenhouse Gas National Inventory](https://globalresearchalliance.org/e-learning/) | 3 parts | Exercise | :white_check_mark: |
+| [Designing MRV Systems for Entity-Level Greenhouse Gas Emissions](https://ghgprotocol.org/designing-mrv-systems-entity-level-greenhouse-gas-emissions) | 4-5 hours | Exercise | :x: |
+| [Corporate Standard Training Webinar](https://ghgprotocol.org/corporate-standard-training-webinar) | 7 parts | Exercise | :x: |
+| [Scope 2 Recorded Webinar](https://ghgprotocol.org/scope-2-recorded-webinar) | 4 hours | Exercise | :moneybag: | <!--€28-->
 
 ## Leadership
 | Course | Duration | Assessment | Certificate |
@@ -180,13 +199,7 @@ LCA, EPD, CO2
 ## Resource
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Nature-based Infrastructure for Climate Adaption and Sustainable Development](https://nbi.iisd.org/e-course/) | 5 modules | Exercises | :x: |
-| [From Sustainability to Regeneration](https://www.edx.org/learn/ethics/eth-zurich-worldviews-from-sustainability-to-regeneration) | 12 weeks | Quiz | :credit_card: €46 |
-| [Beyond Systems Thinking](https://www.edx.org/learn/social-science/eth-zurich-beyond-systems-thinking) | 6 weeks | Quiz | :credit_card: €46 |
-| [Nature-based Urban Regeneration](https://www.edx.org/learn/nature/rwth-aachen-university-nature-based-urban-regeneration) | 6 weeks | Quiz | :credit_card: €55 |
-| [Nature Based Metropolitan Solutions](https://ocw.tudelft.nl/courses/nature-based-metropolitan-solutions/) | 6 modules | Exercises | :x: |
-| [Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-engineering-building-with-nature) | 5 weeks | Quiz | :credit_card: €129 |
-| [Beyond Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-beyond-engineering-building-with-nature) | 6 weeks | Quiz | :credit_card: €129 |
+
 
 ## Sustainability
 SDG, SBTi, ESG  
