@@ -8,11 +8,18 @@ This is an archive of contents.
 | [Digital Revolution](https://courses.minnalearn.com/en/courses/digital-revolution/) | 6 chapter | Exercises | :white_check_mark: |
 | [Emerging Technologies](https://courses.minnalearn.com/en/courses/emerging-technologies/) | 5 chapter | Exercises | :white_check_mark: |
 | [Cybersecurity](https://courses.minnalearn.com/en/courses/cybersecurity/) | 5 chapter | Exercises | :white_check_mark: |
-| [Getting started with Google Workspace Specialization](https://www.coursera.org/specializations/getting-started-with-google-workspace) | 9 courses | Quiz | :credit_card: |
-| [Microsoft 365 Fundamentals Specialization](https://www.coursera.org/specializations/microsoft-365-fundamentals) | 3 courses | Quiz | :credit_card: |
+| [Getting started with Google Workspace Specialization](https://www.coursera.org/specializations/getting-started-with-google-workspace) | 9 courses | Quiz | :moneybag::moneybag: |
+| [Microsoft 365 Fundamentals Specialization](https://www.coursera.org/specializations/microsoft-365-fundamentals) | 3 courses | Quiz | :moneybag: |
 | [Digital Skills](https://www.futurelearn.com/partners/accenture-uk) | 8 courses | Quiz | :white_check_mark: |
 
 #### Lifelong learning
+
+### Legend
+| Level | Fee |
+| :--- | :--- |
+| :moneybag: | up to €50|
+| :moneybag::moneybag: | €50 to €150 |
+| :moneybag::moneybag::moneybag: | over €150 |
 
 # Contents
 - [Analytics](#analytics)
@@ -25,12 +32,12 @@ This is an archive of contents.
 - [Holistic](#holistic)
 - [Impact](#impact)
 - [Leadership](#leadership)
-- [Material](#material)
+- [Management](#management)
 - [Network](#network)
 - [Organization](#organization)
 - [Programming](#programming)
 - [Quality](#quality)
-- [Regeneration](#regeneration)
+- [Resource](#resource)
 - [Sustainability](#sustainability)
 - [Technology](#technology)
 - [Usability](#usability)
@@ -38,37 +45,37 @@ This is an archive of contents.
 - [Zero](#zero)
 
 ## Analytics
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
-| [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | 5 ECTS | Exercises | :x: |
-| [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
-| [Geospatial Analysis with ArcGIS](https://www.coursera.org/learn/geospatial-analysis) | 4 modules | Quiz | :credit_card: |
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
+| [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, Git | 5 weeks | Exercises | :x: |
+<!--| [Geospatial Analysis with ArcGIS](https://www.coursera.org/learn/geospatial-analysis) | GIS, ArcGIS | 4 modules | Quiz | :credit_card: |-->
 
 ## Business
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
-| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | 2 ECTS | Exercises | :credit_card: €30 |
-| [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) | 3 weeks | Quiz | :credit_card: |
-| [Green Marketing Challenge](https://www.unssc.org/courses/green-marketing-challenge) | 2 hours | Exercises | :x: |
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) |  | 4 modules | Exercises | :moneybag: | <!--€30-->
+| [Green Marketing Challenge](https://www.unssc.org/courses/green-marketing-challenge) |  | 2 hours | Exercises | :x: |
+<!--| [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) |  | 3 weeks | Quiz | :credit_card: |-->
 
 ## Computing
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
-| [Elements of AI](https://course.elementsofai.com/) | 2 ECTS | Exercises | :white_check_mark: |
-| [Building AI](https://buildingai.elementsofai.com/) | 1 ECTS | Exercises | :credit_card: €50 |
-| [Ethics of AI](https://ethics-of-ai.mooc.fi/) | 2 ECTS | Exercises | :credit_card: |
-| [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | 2 ECTS | Exercises | :credit_card: |
-| [Full Stack Web Development](https://fullstackopen.com/en/) | 14 ECTS | Exercises | :white_check_mark: |
-| [Applied Language Technology](https://applied-language-technology.mooc.fi/html/index.html) | 10 ECTS | Exercises | :x: |
-| [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | 2 ECTS | Exercises | :x: |
-| [Machine Learning for the Built Environment](https://3d.bk.tudelft.nl/courses/geo5017/) | 7 weeks | Exercises | :x: |
-| [AI for Built Environment](https://courses.minnalearn.com/en/courses/ai-for-built-environment/) | 3 chapters | Exercises | :credit_card: €50 |
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Elements of AI](https://course.elementsofai.com/) | AI, ML, Bayesian method, Neural networks | 6 chapters | Quiz | :white_check_mark: |
+| [Building AI](https://buildingai.elementsofai.com/) | AI, ML, Bayesian method, Neural networks, Python | 5 chapters | Quiz | :moneybag: | <!--€50-->
+| [Ethics of AI](https://ethics-of-ai.mooc.fi/) | Non-maleficence, Accountability, Transparency, Human rights, Fairness | 7 chapters | Exercises | :x: |
+| [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | Values, Discrimination, Justice, Democracy | 6 chapters | Exercises | :x: |
+| [Full Stack Web Development](https://fullstackopen.com/en/) | HTML, CSS, JavaScript, React, GraphQL, TypeScript | 14 parts | Exercises | :white_check_mark: |
+| [Applied Language Technology](https://applied-language-technology.mooc.fi/html/index.html) | Python, Jupyter, spaCy | 3 parts | Exercises | :x: |
+| [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | Python, Jupyter, LaTex, Git, Bash, Sphinx | 6 parts | Exercises | :x: |
+| [Machine Learning for the Built Environment](https://3d.bk.tudelft.nl/courses/geo5017/) | ML, Regression, Clustering, Bayesian method, Neural networks, Python | 7 weeks | Exercises | :x: |
+| [AI for Built Environment](https://courses.minnalearn.com/en/courses/ai-for-built-environment/) | NLP, AI, ML | 3 chapters | Quiz | :moneybag: | <!--€50-->
 
 ## Data
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | 16 modules | Quiz | :white_check_mark: |
-| [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | 7 weeks | Quiz | :credit_card: €186 |
+| [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | 7 weeks | Quiz | :moneybag::moneybag::moneybag: | <!--€186-->
 | [Data in Construction](https://www.procore.com/data-construction-series) | 5 CEUs | Quiz | :white_check_mark: |
 | [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | 5 ECTS | Exercises | :x: |
 | [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | 5 ECTS | Exercises | :x: |
@@ -129,7 +136,7 @@ LCA, EPD, CO2
 | [Strategic Communication for Sustainability Leaders](https://www.edx.org/learn/sustainability/university-of-maryland-center-for-environmental-science-strategic-communication-for-sustainability-leaders) | 5 weeks | Quiz | :credit_card: €138 |
 | [Strategy and Leadership](https://www.edx.org/learn/engineering/massachusetts-institute-of-technology-management-in-engineering-strategy-and-leadership) | 8 weeks | Quiz | :credit_card: €162 |
 
-## Material
+## Management
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) | 6 hours | Quiz | :white_check_mark: |
@@ -162,7 +169,7 @@ LCA, EPD, CO2
 | :--- | :--- | :--- | :--- |
 | [Quality in Construction](https://www.futurelearn.com/courses/construction-quality) | 3 weeks | Quiz | :credit_card: |
 
-## Regeneration
+## Resource
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
 | [Nature-based Infrastructure for Climate Adaption and Sustainable Development](https://nbi.iisd.org/e-course/) | 5 modules | Exercises | :x: |
