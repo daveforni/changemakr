@@ -14,10 +14,18 @@ This is an archive of contents.
 
 #### Lifelong learning
 
-### Legend
+#### Abbreviation
+|  | Meaning |
+| :--- | :--- |
+| AI | Artificial Intelligence |
+| ML | Machine Learning |
+| NLP | Natural Language Processing |
+| GIS | Geographic Information System |
+
+#### Legend
 | Level | Fee |
 | :--- | :--- |
-| :moneybag: | up to €50|
+| :moneybag: | up to €50 |
 | :moneybag::moneybag: | €50 to €150 |
 | :moneybag::moneybag::moneybag: | over €150 |
 
@@ -66,10 +74,10 @@ This is an archive of contents.
 | [Ethics of AI](https://ethics-of-ai.mooc.fi/) | Non-maleficence, Accountability, Transparency, Human rights, Fairness | 7 chapters | Exercises | :x: |
 | [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | Values, Discrimination, Justice, Democracy | 6 chapters | Exercises | :x: |
 | [Full Stack Web Development](https://fullstackopen.com/en/) | HTML, CSS, JavaScript, React, GraphQL, TypeScript | 14 parts | Exercises | :white_check_mark: |
-| [Applied Language Technology](https://applied-language-technology.mooc.fi/html/index.html) | Python, Jupyter, spaCy | 3 parts | Exercises | :x: |
+| [Applied Language Technology](https://applied-language-technology.mooc.fi/html/index.html) | NLP, Python, Jupyter, spaCy | 3 parts | Exercises | :x: |
 | [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | Python, Jupyter, LaTex, Git, Bash, Sphinx | 6 parts | Exercises | :x: |
 | [Machine Learning for the Built Environment](https://3d.bk.tudelft.nl/courses/geo5017/) | ML, Regression, Clustering, Bayesian method, Neural networks, Python | 7 weeks | Exercises | :x: |
-| [AI for Built Environment](https://courses.minnalearn.com/en/courses/ai-for-built-environment/) | NLP, AI, ML | 3 chapters | Quiz | :moneybag: | <!--€50-->
+| [AI for Built Environment](https://courses.minnalearn.com/en/courses/ai-for-built-environment/) | AI, ML | 3 chapters | Quiz | :moneybag: | <!--€50-->
 
 ## Data
 | Course | Duration | Assessment | Certificate |
