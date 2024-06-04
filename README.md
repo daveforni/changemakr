@@ -153,7 +153,7 @@ This is an archive of contents.
 | [Infrastructure LCA](https://academy.oneclicklca.com/courses/infrastructure-lca-online-course) | LCA | 5 hours | Quiz | :white_check_mark: |
 | [Environmental Product Declarations](https://academy.oneclicklca.com/courses/epd-onboarding-introduction) | LCA, EPD | 5 hours | Quiz | :x: |
 | [LCA Beginner](https://ecochain.com/lca-beginner-course/) | LCA | 3.5 hours | Quiz | :white_check_mark: |
-| [CIntroduction to embodied carbon and LCA](https://academy.oneclicklca.com/courses/introduction-to-embodied-carbon-lca-and-sustainable-construction) | LCA, EPD | 3.5 hours | Exercise | :x: |
+| [Introduction to embodied carbon and LCA](https://academy.oneclicklca.com/courses/introduction-to-embodied-carbon-lca-and-sustainable-construction) | LCA, EPD | 3.5 hours | Exercise | :x: |
 | [How to conduct building sustainability assessments](https://academy.oneclicklca.com/courses/how-to-conduct-building-sustainability-assessments) | LCA, EPD, LCC | 3 hours | Exercise | :white_check_mark: |
 | [Training Course for City Officers](https://academy.oneclicklca.com/courses/cnca-x-one-click-lca-training-course-for-city-officers) | LCA, EPD, Policy | 4.5 hours | Quiz | :white_check_mark: |
 | [Agricultural Greenhouse Gas National Inventory](https://globalresearchalliance.org/e-learning/) | GHG | 3 parts | Exercise | :white_check_mark: |
@@ -170,6 +170,8 @@ This is an archive of contents.
 | [Leadership for sustainable change](https://climateuniversity.fi/portfolio-items/leadforsust/) |  | 5 ECTS | Exercises | :x: |
 | [Strategic Communication for Sustainability Leaders](https://www.edx.org/learn/sustainability/university-of-maryland-center-for-environmental-science-strategic-communication-for-sustainability-leaders) |  | 5 weeks | Quiz | :credit_card: €138 |
 | [Strategy and Leadership](https://www.edx.org/learn/engineering/massachusetts-institute-of-technology-management-in-engineering-strategy-and-leadership) |  | 8 weeks | Quiz | :credit_card: €162 |
+| [Introduction to Resource Efficiency and Circular Production for SMEs](https://learning.intracen.org/course/info.php?id=1918) |  | 4 modules | Quiz | :white_check_mark: |
+| [Becoming a Climate Resilient SME](https://learning.intracen.org/course/info.php?id=326) |  | 4 modules | Quiz | :white_check_mark: |
 
 ## Management
 | Course | Keyword | Duration | Assessment | Certificate |
