@@ -21,6 +21,17 @@ This is an archive of contents.
 | ML | Machine Learning |
 | NLP | Natural Language Processing |
 | GIS | Geographic Information System |
+| GHG | Greenhouse Gas |
+| SDG | Sustainable Development Goal |
+| EIA | Environmental Impact Assessment |
+| R&D | Research and Development |
+| MVP | Minimum Viable Product |
+| API | Application Programming Interface |
+| NbS | Nature-based Solution |
+| LCA | Life Cycle Assessment |
+| EPD | Environmental Product Declaration |
+| PCR | Product Category Rule |
+| MRV | Measurement, Reporting, Verification |
 
 #### Legend
 | Level | Fee |
@@ -95,7 +106,6 @@ This is an archive of contents.
 <!--| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) |  | 4 weeks | Exercises | :credit_card: |-->
 
 ## Environment
-EIA
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Climate](https://courses.mooc.fi/org/uh-inar/courses/climate-now) | Impact, Mitigation, Adaption | 8 chapters | Exercises | :x: |
@@ -137,42 +147,33 @@ EIA
 | [Beyond Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-beyond-engineering-building-with-nature) | NbS, Integrated Design | 6 weeks | Quiz | :moneybag::moneybag: | <!--€129-->
 
 ## Impact
-LCA, EPD, CO2
-
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
-| [Building LCA for architects](https://academy.oneclicklca.com/courses/building-lca-for-architects) | 5 hours | Quiz | :white_check_mark: |
-| [Infrastructure LCA](https://academy.oneclicklca.com/courses/infrastructure-lca-online-course) | 5 hours | Quiz | :white_check_mark: |
-| [Environmental Product Declarations](https://academy.oneclicklca.com/courses/epd-onboarding-introduction) | 5 hours | Quiz | :x: |
-| [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) | 5 hours | Quiz | :white_check_mark: |
-| [Principles of Life Cycle Assessment (LCA) for Sustainability](https://www.futurelearn.com/courses/principles-of-life-cycle-assessment-for-sustainability) | 4 weeks | Quiz | :credit_card: |
-| [Foundations of Life Cycle Assessment Practice](https://www.futurelearn.com/courses/foundations-of-lca) | 2 weeks | Quiz | :credit_card: |
-| [LCA Beginner](https://ecochain.com/lca-beginner-course/) | 3.5 hours | Quiz | :white_check_mark: |
-| [EPD Creation](https://www.environdec.com/all-about-epds/create-your-epd) | 5 steps | Exercises | :x: |
-| [PCR Creation](https://www.environdec.com/product-category-rules-pcr/develop-a-pcr) | 5 steps | Exercises | :x: |
-| [Agricultural Greenhouse Gas National Inventory](https://globalresearchalliance.org/e-learning/) | 3 parts | Exercise | :white_check_mark: |
-| [Designing MRV Systems for Entity-Level Greenhouse Gas Emissions](https://ghgprotocol.org/designing-mrv-systems-entity-level-greenhouse-gas-emissions) | 4-5 hours | Exercise | :x: |
-| [Corporate Standard Training Webinar](https://ghgprotocol.org/corporate-standard-training-webinar) | 7 parts | Exercise | :x: |
-| [Scope 2 Recorded Webinar](https://ghgprotocol.org/scope-2-recorded-webinar) | 4 hours | Exercise | :moneybag: | <!--€28-->
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Building LCA for architects](https://academy.oneclicklca.com/courses/building-lca-for-architects) | LCA | 5 hours | Quiz | :white_check_mark: |
+| [Infrastructure LCA](https://academy.oneclicklca.com/courses/infrastructure-lca-online-course) | LCA | 5 hours | Quiz | :white_check_mark: |
+| [Environmental Product Declarations](https://academy.oneclicklca.com/courses/epd-onboarding-introduction) | LCA, EPD | 5 hours | Quiz | :x: |
+| [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) |  | 5 hours | Quiz | :white_check_mark: |
+| [LCA Beginner](https://ecochain.com/lca-beginner-course/) | LCA | 3.5 hours | Quiz | :white_check_mark: |
+| [EPD Creation](https://www.environdec.com/all-about-epds/create-your-epd) | EPD | 5 steps | Exercises | :x: |
+| [PCR Creation](https://www.environdec.com/product-category-rules-pcr/develop-a-pcr) | PCR | 5 steps | Exercises | :x: |
+| [Agricultural Greenhouse Gas National Inventory](https://globalresearchalliance.org/e-learning/) | GHG | 3 parts | Exercise | :white_check_mark: |
+| [Designing MRV Systems for Entity-Level Greenhouse Gas Emissions](https://ghgprotocol.org/designing-mrv-systems-entity-level-greenhouse-gas-emissions) | GHG, MRV | 4-5 hours | Exercise | :x: |
+| [Corporate Standard Training Webinar](https://ghgprotocol.org/corporate-standard-training-webinar) | GHG | 7 parts | Exercise | :x: |
+| [Scope 2 Recorded Webinar](https://ghgprotocol.org/scope-2-recorded-webinar) | GHG | 4 hours | Exercise | :moneybag: | <!--€28-->
+<!--| [Principles of Life Cycle Assessment (LCA) for Sustainability](https://www.futurelearn.com/courses/principles-of-life-cycle-assessment-for-sustainability) |  | 4 weeks | Quiz | :credit_card: |-->
+<!--| [Foundations of Life Cycle Assessment Practice](https://www.futurelearn.com/courses/foundations-of-lca) |  | 2 weeks | Quiz | :credit_card: |-->
 
 ## Leadership
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
-| [ClimateComms](https://climateuniversity.fi/portfolio-items/climatecomms-now/) | 2 ECTS | Exercises | :x: |
-| [Leadership for sustainable change](https://climateuniversity.fi/portfolio-items/leadforsust/) | 5 ECTS | Exercises | :x: |
-| [Strategic Communication for Sustainability Leaders](https://www.edx.org/learn/sustainability/university-of-maryland-center-for-environmental-science-strategic-communication-for-sustainability-leaders) | 5 weeks | Quiz | :credit_card: €138 |
-| [Strategy and Leadership](https://www.edx.org/learn/engineering/massachusetts-institute-of-technology-management-in-engineering-strategy-and-leadership) | 8 weeks | Quiz | :credit_card: €162 |
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [ClimateComms](https://climateuniversity.fi/portfolio-items/climatecomms-now/) |  | 2 ECTS | Exercises | :x: |
+| [Leadership for sustainable change](https://climateuniversity.fi/portfolio-items/leadforsust/) |  | 5 ECTS | Exercises | :x: |
+| [Strategic Communication for Sustainability Leaders](https://www.edx.org/learn/sustainability/university-of-maryland-center-for-environmental-science-strategic-communication-for-sustainability-leaders) |  | 5 weeks | Quiz | :credit_card: €138 |
+| [Strategy and Leadership](https://www.edx.org/learn/engineering/massachusetts-institute-of-technology-management-in-engineering-strategy-and-leadership) |  | 8 weeks | Quiz | :credit_card: €162 |
 
 ## Management
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) | 6 hours | Quiz | :white_check_mark: |
-| [Cement Chemistry and Sustainable Cementitious Materials](https://www.edx.org/learn/physical-chemistry/ecole-polytechnique-federale-de-lausanne-cement-chemistry-and-sustainable-cementitious-materials) | 6 weeks | Quiz | :credit_card: €231 |
-| [Sorption and transport in cementitious materials](https://www.edx.org/learn/chemistry/ecole-polytechnique-federale-de-lausanne-sorption-and-transport-in-cementitious-materials) | 6 weeks | Quiz | :credit_card: €157 |
-| [Nanomaterials for Civil and Environmental Applications](https://www.edx.org/learn/electronics/purdue-university-nanomaterials-for-civil-and-environmental-applications) | 5 weeks | Quiz | :x: |
-| [Building Materials and Human Health](https://www.coursera.org/learn/building-materials-and-human-health) | 3 modules | Quiz | :credit_card: |
-| [Material Chemistry and Sustainable Building](https://www.coursera.org/learn/material-chemistry-and-sustainable-building) | 3 modules | Quiz | :credit_card: |
-| [Wood Science](https://www.coursera.org/learn/wood-science) | 4 modules | Quiz | :credit_card: |
 
 ## Network
 | Course | Duration | Assessment | Certificate |
@@ -199,7 +200,13 @@ LCA, EPD, CO2
 ## Resource
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-
+| [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) | 6 hours | Quiz | :white_check_mark: |
+| [Cement Chemistry and Sustainable Cementitious Materials](https://www.edx.org/learn/physical-chemistry/ecole-polytechnique-federale-de-lausanne-cement-chemistry-and-sustainable-cementitious-materials) | 6 weeks | Quiz | :credit_card: €231 |
+| [Sorption and transport in cementitious materials](https://www.edx.org/learn/chemistry/ecole-polytechnique-federale-de-lausanne-sorption-and-transport-in-cementitious-materials) | 6 weeks | Quiz | :credit_card: €157 |
+| [Nanomaterials for Civil and Environmental Applications](https://www.edx.org/learn/electronics/purdue-university-nanomaterials-for-civil-and-environmental-applications) | 5 weeks | Quiz | :x: |
+| [Building Materials and Human Health](https://www.coursera.org/learn/building-materials-and-human-health) | 3 modules | Quiz | :credit_card: |
+| [Material Chemistry and Sustainable Building](https://www.coursera.org/learn/material-chemistry-and-sustainable-building) | 3 modules | Quiz | :credit_card: |
+| [Wood Science](https://www.coursera.org/learn/wood-science) | 4 modules | Quiz | :credit_card: |
 
 ## Sustainability
 SDG, SBTi, ESG  
