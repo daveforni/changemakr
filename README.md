@@ -208,6 +208,7 @@ This is an archive of contents.
 | [Building Materials and Human Health](https://www.coursera.org/learn/building-materials-and-human-health) |  | 3 modules | Quiz | :credit_card: |
 | [Material Chemistry and Sustainable Building](https://www.coursera.org/learn/material-chemistry-and-sustainable-building) |  | 3 modules | Quiz | :credit_card: |
 | [Wood Science](https://www.coursera.org/learn/wood-science) |  | 4 modules | Quiz | :credit_card: |
+| [REthink, REvive, REuse](https://www.pok.polimi.it/course/view.php?id=146#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
 
 ## Sustainability
 SDG, SBTi, ESG  
@@ -230,6 +231,8 @@ SDG, SBTi, ESG
 | [Digital4Sustainability](https://www.unsdglearn.org/courses/digital4sustainability-learning-path/) |  | 4 weeks | Quiz | :white_check_mark: |
 | [The SDG Primer](https://www.unssc.org/courses/sdg-primer-1) |  | 3.5 hours | Quiz | :x: |
 | [Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | SDG | 6  weeks | Quiz | :white_check_mark: |
+| [Circular economy in construction](https://www.eoppiva.fi/en/courses/circular-economy-in-construction/) |  | 4  modules | Quiz | :white_check_mark: |
+| [Introduction to decarbonized construction](https://www.eoppiva.fi/en/courses/introduction-to-decarbonized-construction/) |  | 4  modules | Quiz | :white_check_mark: |
 
 ## Technology
 BIM, CAD, FEA, GIS, IFC
