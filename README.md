@@ -10,7 +10,6 @@ This is an archive of contents.
 | [Cybersecurity](https://courses.minnalearn.com/en/courses/cybersecurity/) | 5 chapter | Exercises | :white_check_mark: |
 | [Getting started with Google Workspace Specialization](https://www.coursera.org/specializations/getting-started-with-google-workspace) | 9 courses | Quiz | :moneybag::moneybag: |
 | [Microsoft 365 Fundamentals Specialization](https://www.coursera.org/specializations/microsoft-365-fundamentals) | 3 courses | Quiz | :moneybag: |
-| [Digital Skills](https://www.futurelearn.com/partners/accenture-uk) | 8 courses | Quiz | :white_check_mark: |
 
 #### Lifelong learning
 
@@ -252,7 +251,10 @@ BIM, CAD, FEA, GIS, IFC
 | [Transform AEC Projects with GIS and BIM](https://www.esri.com/training/catalog/6257059de00e450c2a24e4e7/transform-aec-projects-with-gis-and-bim/) |  | 4 weeks | Exercises | :x: |
 | [GIS Applications Across Industries](https://www.coursera.org/learn/gis-applications-across-industries) |  | 4 modules | Quiz | :credit_card: |
 | [Introduction to Physical Computing](https://www.futurelearn.com/courses/an-introduction-to-physical-computing) |  | 2 weeks | Quiz | :white_check_mark: |
-| [Introduction to Virtual, Augmented and Mixed Reality](https://www.futurelearn.com/courses/introduction-to-virtual-reality) |  | 2 weeks | Quiz | :white_check_mark: |
+| [Introduction to Virtual, Augmented and Mixed Reality](https://www.futurelearn.com/courses/introduction-to-virtual-reality) | VR, AR, MR | 2 weeks | Quiz | :white_check_mark: |
+| [Digital Revolution](https://courses.minnalearn.com/en/courses/digital-revolution/) | Computing, Software, Connectivity, Big Data | 6 chapter | Exercises | :white_check_mark: |
+| [Emerging Technologies](https://courses.minnalearn.com/en/courses/emerging-technologies/) | IoT, Robotics, Automation, VR, AR, MR, XR | 5 chapter | Exercises | :white_check_mark: |
+| [Cybersecurity](https://courses.minnalearn.com/en/courses/cybersecurity/) | Privacy, Communication, Network, Hardware | 5 chapter | Exercises | :white_check_mark: |
 
 ## Usability
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -270,3 +272,10 @@ BIM, CAD, FEA, GIS, IFC
 | [Setting Science-Based Targets](https://info.unglobalcompact.org/SBTi) |  | 30 minutes | Quiz | :x: |
 | [The Net-Zero Standard](https://info.unglobalcompact.org/net-zero-standard) |  | 20 minutes | Quiz | :x: |
 | [Climate Fit](https://smeclimatehub.org/climate-fit/) |  | 7 modules | Quiz | :x: |
+
+### X
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :---| :--- | :--- | :--- |
+| [Sustainable Earth](https://careercatalyst.asu.edu/programs/sustainable-earth/) |  | 10 courses | Quiz | :white_check_mark: |
+| [Digital Skills](https://www.futurelearn.com/partners/accenture-uk) |  | 8 courses | Quiz | :white_check_mark: |
+| [Sustainability](https://www.una-europa.eu/study/microcredential-sustainability) |  | 5 courses | Quiz | :x: |
