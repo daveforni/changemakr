@@ -229,6 +229,7 @@ SDG, SBTi, ESG
 | [Smart Urban Green Infrastructure](https://www.futurelearn.com/courses/smart-urban-green-infrastructure) |  | 5 weeks | Quiz | :credit_card: |
 | [Digital4Sustainability](https://www.unsdglearn.org/courses/digital4sustainability-learning-path/) |  | 4 weeks | Quiz | :white_check_mark: |
 | [The SDG Primer](https://www.unssc.org/courses/sdg-primer-1) |  | 3.5 hours | Quiz | :x: |
+| [Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | SDG | 6  weeks | Quiz | :white_check_mark: |
 
 ## Technology
 BIM, CAD, FEA, GIS, IFC
