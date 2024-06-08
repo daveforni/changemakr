@@ -5,9 +5,6 @@ This is an archive of contents.
 #### Digital literacy
 | Course | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- |
-| [Digital Revolution](https://courses.minnalearn.com/en/courses/digital-revolution/) | 6 chapter | Exercises | :white_check_mark: |
-| [Emerging Technologies](https://courses.minnalearn.com/en/courses/emerging-technologies/) | 5 chapter | Exercises | :white_check_mark: |
-| [Cybersecurity](https://courses.minnalearn.com/en/courses/cybersecurity/) | 5 chapter | Exercises | :white_check_mark: |
 | [Getting started with Google Workspace Specialization](https://www.coursera.org/specializations/getting-started-with-google-workspace) | 9 courses | Quiz | :moneybag::moneybag: |
 | [Microsoft 365 Fundamentals Specialization](https://www.coursera.org/specializations/microsoft-365-fundamentals) | 3 courses | Quiz | :moneybag: |
 
@@ -88,6 +85,13 @@ This is an archive of contents.
 | [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | Python, Jupyter, LaTex, Git, Bash, Sphinx | 6 parts | Exercises | :x: |
 | [Machine Learning for the Built Environment](https://3d.bk.tudelft.nl/courses/geo5017/) | ML, Regression, Clustering, Bayesian method, Neural networks, Python | 7 weeks | Exercises | :x: |
 | [AI for Built Environment](https://courses.minnalearn.com/en/courses/ai-for-built-environment/) | AI, ML | 3 chapters | Quiz | :moneybag: | <!--€50-->
+| [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum) |  | 12 weeks | Exercises | :x: |
+| [Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/) |  | 10 weeks | Exercises | :x: |
+| [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/) |  | 12 weeks | Exercises | :x: |
+| [Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
+| [IoT for Beginners](https://microsoft.github.io/IoT-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
+| [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
+| [XR Development for Beginners](https://microsoft.github.io/xr-development-for-beginners/#/) |  | 8 weeks | Exercises | :x: |
 
 ## Data
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -175,6 +179,7 @@ This is an archive of contents.
 ## Management
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
+| [Managing Innovation](https://hub.unido.org/training-modules-managing-innovation) |  | 7 modules | Quiz | :white_check_mark: |
 
 ## Network
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -192,11 +197,14 @@ This is an archive of contents.
 | [Python Programming](https://programming-24.mooc.fi/) |  | 10 ECTS | Exercises | :x: |
 | [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) |  | 5 ECTS | Exercises | :x: |
 | [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) |  | 6 chapters | Quiz | :white_check_mark: |
+| [Python for Everybody](https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody) |  | 1 part | Quiz | :x: |
 
 ## Quality
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Quality in Construction](https://www.futurelearn.com/courses/construction-quality) |  | 3 weeks | Quiz | :credit_card: |
+| [Quality Assurance](https://www.freecodecamp.org/learn/quality-assurance/) |  | 3 parts | Exercise | :white_check_mark: |
+| [Quality Management](https://hub.unido.org/training-modules-quality-management) |  | 9 modules | Exercise | :white_check_mark: |
+<!--| [Quality in Construction](https://www.futurelearn.com/courses/construction-quality) |  | 3 weeks | Quiz | :credit_card: |-->
 
 ## Resource
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -259,6 +267,7 @@ BIM, CAD, FEA, GIS, IFC
 | [Digital Revolution](https://courses.minnalearn.com/en/courses/digital-revolution/) | Computing, Software, Connectivity, Big Data | 6 chapter | Exercises | :white_check_mark: |
 | [Emerging Technologies](https://courses.minnalearn.com/en/courses/emerging-technologies/) | IoT, Robotics, Automation, VR, AR, MR, XR | 5 chapter | Exercises | :white_check_mark: |
 | [Cybersecurity](https://courses.minnalearn.com/en/courses/cybersecurity/) | Privacy, Communication, Network, Hardware | 5 chapter | Exercises | :white_check_mark: |
+| [Industry 4.0](https://hub.unido.org/training-modules-industry-4) |  | 6 modules | Exercises | :white_check_mark: |
 
 ## Usability
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -268,6 +277,7 @@ BIM, CAD, FEA, GIS, IFC
 ## Visualization
 | Course | Keyword | Duration | Assessment | Certificate |
 | :---| :--- | :--- | :--- | :--- |
+| [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/) |  | 3 parts | Exercises | :white_check_mark: |
 
 ## Zero
 | Course | Keyword | Duration | Assessment | Certificate |
