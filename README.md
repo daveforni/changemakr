@@ -92,6 +92,7 @@ This is an archive of contents.
 | [IoT for Beginners](https://microsoft.github.io/IoT-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
 | [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
 | [XR Development for Beginners](https://microsoft.github.io/xr-development-for-beginners/#/) |  | 8 weeks | Exercises | :x: |
+| [Artificial Intelligence](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Artificial+Intelligence+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 5 courses | Quiz | :white_check_mark: |
 
 ## Data
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -126,6 +127,7 @@ This is an archive of contents.
 | [Design Bits](https://designbits.aalto.fi/en/) | Sustainability, Collaboration, Innovation, Management | 7 chapters | Exercises | :moneybag: | <!--€30-->
 | [Technology Entrepreneurship](https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market) | Entrepreneurship, R&D, Innovation, Product/market fit | 5 weeks | Quiz | :moneybag::moneybag: | <!--€138-->
 | [Entrepreneurship for Engineers](https://www.edx.org/learn/entrepreneurship/delft-university-of-technology-entrepreneurship-for-engineers) | MVP, Strategy, Finance, Business model | 8 weeks | Quiz | :moneybag::moneybag: | <!--€92-->
+| [Entrepreneurship](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=100&search=Entrepreneur&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 4 courses | Quiz | :white_check_mark: |
 
 ## Guideline
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -175,15 +177,22 @@ This is an archive of contents.
 | [Strategy and Leadership](https://www.edx.org/learn/engineering/massachusetts-institute-of-technology-management-in-engineering-strategy-and-leadership) |  | 8 weeks | Quiz | :credit_card: €162 |
 | [Introduction to Resource Efficiency and Circular Production for SMEs](https://learning.intracen.org/course/info.php?id=1918) |  | 4 modules | Quiz | :white_check_mark: |
 | [Becoming a Climate Resilient SME](https://learning.intracen.org/course/info.php?id=326) |  | 4 modules | Quiz | :white_check_mark: |
+| [Communication skills for engineering scholars](https://www.pok.polimi.it/course/view.php?id=14#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
+| [Digital Creativity for developing Digital Maturity future skills](https://www.pok.polimi.it/course/view.php?id=126#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
+| [Creative and Design Thinking: process and tools for innovation](https://www.pok.polimi.it/course/view.php?id=107#courseTabContent) |  | 6 weeks | Quiz | :white_check_mark: |
 
 ## Management
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Managing Innovation](https://hub.unido.org/training-modules-managing-innovation) |  | 7 modules | Quiz | :white_check_mark: |
+| [Managing Changes](https://www.pok.polimi.it/course/view.php?id=138#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
+| [Managing Conflicts](https://www.pok.polimi.it/course/view.php?id=144#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
+| [Management Engineering](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Management+engineering+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 9 courses | Quiz | :white_check_mark: |
 
 ## Network
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
+| [Working in Multidisciplinary Teams](https://www.pok.polimi.it/course/view.php?id=147#courseTabContent) |  | 4 weeks | Quiz | :white_check_mark: |
 
 ## Organization
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -268,6 +277,7 @@ BIM, CAD, FEA, GIS, IFC
 | [Emerging Technologies](https://courses.minnalearn.com/en/courses/emerging-technologies/) | IoT, Robotics, Automation, VR, AR, MR, XR | 5 chapter | Exercises | :white_check_mark: |
 | [Cybersecurity](https://courses.minnalearn.com/en/courses/cybersecurity/) | Privacy, Communication, Network, Hardware | 5 chapter | Exercises | :white_check_mark: |
 | [Industry 4.0](https://hub.unido.org/training-modules-industry-4) |  | 6 modules | Exercises | :white_check_mark: |
+| [Sustainability](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Sustainability+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 16 courses | Quiz | :white_check_mark: |
 
 ## Usability
 | Course | Keyword | Duration | Assessment | Certificate |
