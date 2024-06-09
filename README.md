@@ -65,6 +65,7 @@ This is an archive of contents.
 | [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
 | [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, Git | 5 weeks | Exercises | :x: |
 | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | 3 parts | Quiz | :white_check_mark: |
+| [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) |  | 4 modules | Quiz | :x: |
 <!--| [Geospatial Analysis with ArcGIS](https://www.coursera.org/learn/geospatial-analysis) | GIS, ArcGIS | 4 modules | Quiz | :credit_card: |-->
 
 ## Business
@@ -102,7 +103,7 @@ This is an archive of contents.
 ## Data
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | R, Markdown, Shiny, Data Analysis, Data Manipulation, Data Visualization | 16 modules | Quiz | :white_check_mark: |
+| [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | R, Markdown, Shiny, Data Analysis, Data Manipulation, Data Visualization | 3 modules | Quiz | :white_check_mark: |
 | [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | Python, Pandas, scikit-learn, Google Colab, ML, ETL | 7 weeks | Quiz | :moneybag::moneybag::moneybag: | <!--€186-->
 | [Data in Construction](https://www.procore.com/data-construction-series) | Data Analysis, Data Collection, AI, ML | 5 parts | Quiz | :white_check_mark: |
 | [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, GIS, Git | 5 weeks | Exercises | :x: |
@@ -162,7 +163,7 @@ This is an archive of contents.
 | [Sustainable Urban Regeneration](https://www.coursera.org/learn/sustainable-urban-regeneration-2022) | Regenerative Design | 6 weeks | Quiz | :moneybag::moneybag: |
 | [From Sustainability to Regeneration](https://www.edx.org/learn/ethics/eth-zurich-worldviews-from-sustainability-to-regeneration) | Regenerative Design | 12 weeks | Quiz | :moneybag: | <!--€46-->
 | [Beyond Systems Thinking](https://www.edx.org/learn/social-science/eth-zurich-beyond-systems-thinking-2) | Regenerative Design, Systems Thinking | 6 weeks | Quiz | :moneybag: | <!--€46-->
-| [Nature-based Infrastructure for Climate Adaption and Sustainable Development](https://nbi.iisd.org/e-course/) | NbS, Systems Thinking | 5 modules | Exercises | :x: |
+| [Nature-based Infrastructure for Climate Adaption and Sustainable Development](https://nbi.iisd.org/e-course/) | NbS, Systems Thinking | 5 modules | Exercises | :white_check_mark: |
 | [Nature-based Urban Regeneration](https://www.edx.org/learn/nature/rwth-aachen-university-nature-based-urban-regeneration) | NbS | 6 weeks | Quiz | :moneybag::moneybag: | <!--€55-->
 | [Nature Based Metropolitan Solutions](https://ocw.tudelft.nl/courses/nature-based-metropolitan-solutions/) | NbS | 6 modules | Exercises | :x: |
 | [Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-engineering-building-with-nature) | NbS, Integrated Design | 5 weeks | Quiz | :moneybag::moneybag: | <!--€129-->
@@ -207,6 +208,7 @@ This is an archive of contents.
 | [Managing Changes](https://www.pok.polimi.it/course/view.php?id=138#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
 | [Managing Conflicts](https://www.pok.polimi.it/course/view.php?id=144#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
 | [Management Engineering](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Management+engineering+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 9 courses | Quiz | :white_check_mark: |
+| [Introduction to Project Cycle Management](https://www.itcilo.org/courses/introduction-project-cycle-management) |  | 4 modules | Quiz | :x: |
 
 ## Network
 | Course | Keyword | Duration | Assessment | Certificate |
