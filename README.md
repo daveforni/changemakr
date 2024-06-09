@@ -66,6 +66,7 @@ This is an archive of contents.
 | [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, Git | 5 weeks | Exercises | :x: |
 | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | 3 parts | Quiz | :white_check_mark: |
 | [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) |  | 4 modules | Quiz | :x: |
+| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) |  | 6 weeks | Exercise | :x: |
 <!--| [Geospatial Analysis with ArcGIS](https://www.coursera.org/learn/geospatial-analysis) | GIS, ArcGIS | 4 modules | Quiz | :credit_card: |-->
 
 ## Business
@@ -113,6 +114,7 @@ This is an archive of contents.
 | [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | Data-driven decision | 3 weeks | Quiz | :white_check_mark: |
 | [Data Skills for Global Development](https://statistics.unsdglearn.org/courses/opening-the-appetite-data-skills-for-global-development-training-programme/) | Data Collection, Data Manipulation | 5 modules | Quiz | :white_check_mark: |
 | [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) | Data Collection, Data Manipulation | 2 hours | Quiz | :white_check_mark: |
+| [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) |  | 6 weeks | Exercise | :x: |
 <!--| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) |  | 4 weeks | Exercises | :credit_card: |-->
 
 ## Environment
@@ -300,6 +302,7 @@ BIM, CAD, FEA, GIS, IFC
 | [Cybersecurity](https://courses.minnalearn.com/en/courses/cybersecurity/) | Privacy, Communication, Network, Hardware | 5 chapter | Exercises | :white_check_mark: |
 | [Industry 4.0](https://hub.unido.org/training-modules-industry-4) |  | 6 modules | Exercises | :white_check_mark: |
 | [Sustainability](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Sustainability+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 16 courses | Quiz | :white_check_mark: |
+| [GIS for Climate Action](https://www.esri.com/training/catalog/645d6a07eb82fb767bb0c012/gis-for-climate-action/) |  | 6 weeks | Exercise | :x: |
 
 ## Usability
 | Course | Keyword | Duration | Assessment | Certificate |
