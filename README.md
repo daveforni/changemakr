@@ -167,6 +167,8 @@ This is an archive of contents.
 | [Nature Based Metropolitan Solutions](https://ocw.tudelft.nl/courses/nature-based-metropolitan-solutions/) | NbS | 6 modules | Exercises | :x: |
 | [Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-engineering-building-with-nature) | NbS, Integrated Design | 5 weeks | Quiz | :moneybag::moneybag: | <!--€129-->
 | [Beyond Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-beyond-engineering-building-with-nature) | NbS, Integrated Design | 6 weeks | Quiz | :moneybag::moneybag: | <!--€129-->
+| [Nature-based Solutions for Sustainable Development](https://www.learningfornature.org/en/courses/nature-based-solutions-for-sustainable-development/) |  | 4 modules | Quiz | :white_check_mark: |
+| [An Introduction to Behavior-Centered Design](https://behavior.rare.org/intro-to-bcd/) |  | 8 steps | Exercise | :x: |
 
 ## Impact
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -210,6 +212,7 @@ This is an archive of contents.
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Working in Multidisciplinary Teams](https://www.pok.polimi.it/course/view.php?id=147#courseTabContent) |  | 4 weeks | Quiz | :white_check_mark: |
+| [Social and Behaviour Change (SBC) Theory and Practice](https://agora.unicef.org/course/info.php?id=35185) |  | 4 modules | Quiz | :x: |
 
 ## Organization
 | Course | Keyword | Duration | Assessment | Certificate |
