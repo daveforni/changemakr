@@ -249,7 +249,7 @@ SDG, SBTi, ESG
 | [The SDG Primer](https://www.unssc.org/courses/sdg-primer-1) |  | 3.5 hours | Quiz | :x: |
 | [Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | SDG | 6  weeks | Quiz | :white_check_mark: |
 | [Circular economy in construction](https://www.eoppiva.fi/en/courses/circular-economy-in-construction/) |  | 4  modules | Quiz | :white_check_mark: |
-| [Introduction to decarbonized construction](https://www.eoppiva.fi/en/courses/introduction-to-decarbonized-construction/) |  | 4  modules | Quiz | :white_check_mark: |
+| [Navigating Sustainability Frameworks and Standards](https://www.xtonnes.com/challenge-page/sustainability-framework-training) |  | 3 modules | Quiz | :x: |
 
 ## Technology
 BIM, CAD, FEA, GIS, IFC
@@ -296,6 +296,13 @@ BIM, CAD, FEA, GIS, IFC
 | [Setting Science-Based Targets](https://info.unglobalcompact.org/SBTi) |  | 30 minutes | Quiz | :x: |
 | [The Net-Zero Standard](https://info.unglobalcompact.org/net-zero-standard) |  | 20 minutes | Quiz | :x: |
 | [Climate Fit](https://smeclimatehub.org/climate-fit/) |  | 7 modules | Quiz | :x: |
+| [Introduction to decarbonized construction](https://www.eoppiva.fi/en/courses/introduction-to-decarbonized-construction/) |  | 4  modules | Quiz | :white_check_mark: |
+| [Fundamentals of Net Zero and Decarbonisation Course](https://fidic.academy/courses1/fundamentals-to-net-zero-and-decarbonization-course/) |  | 40 minutes | Quiz | :x: |
+| [Charting the path to Net Zero](https://www.xtonnes.com/challenge-page/net-zero-course) |  | 5 modules | Quiz | :x: |
+| [Introduction to Carbon Accounting](https://www.xtonnes.com/challenge-page/3e02bf08-65a4-4dfa-8670-528eb358248f) |  | 4 modules | Quiz | :x: |
+| [Carbon Reduction and Achieving Net Zero](https://www.achilles.com/training/e-learning-course-carbon-reduction-and-achieving-net-zero/) |  | 4 weeks | Quiz | :x: |
+| [Carbon Accounting Essentials](https://www.persefoni.com/sign-up/carbon-accounting-essentials) |  | 6 chapter | Quiz | :x: |
+| [Decarbonization 101](https://www.persefoni.com/sign-up/decarbonization-101) |  | 4 chapters | Quiz | :x: |
 
 ### X
 | Course | Keyword | Duration | Assessment | Certificate |
