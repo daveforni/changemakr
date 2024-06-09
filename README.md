@@ -64,6 +64,7 @@ This is an archive of contents.
 | :--- | :--- | :--- | :--- | :--- |
 | [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
 | [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, Git | 5 weeks | Exercises | :x: |
+| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | 3 parts | Quiz | :white_check_mark: |
 <!--| [Geospatial Analysis with ArcGIS](https://www.coursera.org/learn/geospatial-analysis) | GIS, ArcGIS | 4 modules | Quiz | :credit_card: |-->
 
 ## Business
@@ -71,6 +72,10 @@ This is an archive of contents.
 | :--- | :--- | :--- | :--- | :--- |
 | [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | ESG, Business model, Innovation, Change management, Strategy | 4 modules | Exercises | :moneybag: | <!--€30-->
 | [Green Marketing Challenge](https://www.unssc.org/courses/green-marketing-challenge) | Sustainability claim, Greenwashing  | 2 hours | Exercises | :x: |
+| [Small Business Essentials](https://www.scu.edu/mobi/business-courses/small-business-essentials/) |   | 10 sessions | Quiz | :white_check_mark: |
+| [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) |   | 15 sessions | Quiz | :white_check_mark: |
+| [Business Expansion](https://www.scu.edu/mobi/business-courses/business-expansion/) |   | 15 sessions | Quiz | :white_check_mark: |
+| [Quick Start Entrepreneur](https://www.scu.edu/mobi/business-courses/quick-start-entrepreneur/) |   | 10-15 sessions | Quiz | :white_check_mark: |
 <!--| [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) |  | 3 weeks | Quiz | :credit_card: |-->
 
 ## Computing
