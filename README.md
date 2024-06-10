@@ -62,11 +62,12 @@ This is an archive of contents.
 ## Analytics
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
+| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | 3 parts | Quiz | :white_check_mark: |
+| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS | 6 weeks | Exercise | :white_check_mark: |
+| [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) |  | 4 modules | Quiz | :question: |
+| [Data Analytics](https://www.springboard.com/resources/learning-paths/data-analysis/) | SQL, Python, Excel, Power BI, Tableau | 25 units | Quiz | :question: |
 | [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
 | [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, Git | 5 weeks | Exercises | :x: |
-| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | 3 parts | Quiz | :white_check_mark: |
-| [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) |  | 4 modules | Quiz | :x: |
-| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) |  | 6 weeks | Exercise | :x: |
 <!--| [Geospatial Analysis with ArcGIS](https://www.coursera.org/learn/geospatial-analysis) | GIS, ArcGIS | 4 modules | Quiz | :credit_card: |-->
 
 ## Business
@@ -78,12 +79,15 @@ This is an archive of contents.
 | [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) |   | 15 sessions | Quiz | :white_check_mark: |
 | [Business Expansion](https://www.scu.edu/mobi/business-courses/business-expansion/) |   | 15 sessions | Quiz | :white_check_mark: |
 | [Quick Start Entrepreneur](https://www.scu.edu/mobi/business-courses/quick-start-entrepreneur/) |   | 10-15 sessions | Quiz | :white_check_mark: |
+| [MBA Essentials](https://www.springboard.com/resources/learning-paths/mba/) |   | 9 units | Quiz | :question: |
+| [Business Intelligence Fundamentals](https://www.simplilearn.com/free-business-intelligence-course-online-skillup) |   | 7 lessons | Exercise | :white_check_mark: |
 <!--| [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) |  | 3 weeks | Quiz | :credit_card: |-->
 
 ## Computing
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Elements of AI](https://course.elementsofai.com/) | AI, ML, Bayesian method, Neural networks | 6 chapters | Quiz | :white_check_mark: |
+| [Elements of AI](https://www.elementsofai.com/) | AI, ML, Bayesian method, Neural networks | 11 chapters | Quiz | :white_check_mark: |
+| [Introduction to AI](https://course.elementsofai.com/) | AI, ML, Bayesian method, Neural networks | 6 chapters | Quiz | :white_check_mark: |
 | [Building AI](https://buildingai.elementsofai.com/) | AI, ML, Bayesian method, Neural networks, Python | 5 chapters | Quiz | :moneybag: | <!--€50-->
 | [Ethics of AI](https://ethics-of-ai.mooc.fi/) | Non-maleficence, Accountability, Transparency, Human rights, Fairness | 7 chapters | Exercises | :x: |
 | [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | Values, Discrimination, Justice, Democracy | 6 chapters | Exercises | :x: |
@@ -100,6 +104,7 @@ This is an archive of contents.
 | [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
 | [XR Development for Beginners](https://microsoft.github.io/xr-development-for-beginners/#/) |  | 8 weeks | Exercises | :x: |
 | [Artificial Intelligence](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Artificial+Intelligence+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 5 courses | Quiz | :white_check_mark: |
+| [Machine Learning in Python](https://www.springboard.com/resources/learning-paths/machine-learning-python/) | Python, Numpy, Pandas, NumPy, scikit-learn | 14 units | Quiz | :question: |
 
 ## Data
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -232,6 +237,7 @@ This is an archive of contents.
 | [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) |  | 6 chapters | Quiz | :white_check_mark: |
 | [Python for Everybody](https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody) |  | 1 part | Quiz | :x: |
 | [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) |  | 4 chapters | Quiz | :white_check_mark: |
+| [Python Libraries for Data Science](https://www.simplilearn.com/learn-python-libraries-free-course-skillup) | Python, NumPy, Pandas, Matplotlib, scikit-learn, BeautifulSoup, TensorFlow, Jupyter | 6 lessons | Exercise | :white_check_mark: |
 
 ## Quality
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -310,6 +316,7 @@ BIM, CAD, FEA, GIS, IFC
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Service Design Sprint](https://courses.mooc.fi/org/metropolia-innovation-entrepreneurship/courses/service-design) |  | 5 chapters | Exercises | :white_check_mark: |
+| [UX Design](https://www.springboard.com/resources/learning-paths/user-experience-design/) | UX, UI | 17 units | Quiz | :question: |
 
 ## Visualization
 | Course | Keyword | Duration | Assessment | Certificate |
