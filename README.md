@@ -63,7 +63,8 @@ This is an archive of contents.
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | 3 parts | Quiz | :white_check_mark: |
-| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS | 6 weeks | Exercise | :white_check_mark: |
+| [Introduction to Data Analytics](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup) |  | 7 lessons | Exercises | :white_check_mark: |
+| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS | 6 weeks | Exercises | :white_check_mark: |
 | [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) |  | 4 modules | Quiz | :question: |
 | [Data Analytics](https://www.springboard.com/resources/learning-paths/data-analysis/) | SQL, Python, Excel, Power BI, Tableau | 25 units | Quiz | :question: |
 | [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
@@ -105,6 +106,7 @@ This is an archive of contents.
 | [XR Development for Beginners](https://microsoft.github.io/xr-development-for-beginners/#/) |  | 8 weeks | Exercises | :x: |
 | [Artificial Intelligence](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Artificial+Intelligence+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 5 courses | Quiz | :white_check_mark: |
 | [Machine Learning in Python](https://www.springboard.com/resources/learning-paths/machine-learning-python/) | Python, Numpy, Pandas, NumPy, scikit-learn | 14 units | Quiz | :question: |
+| [Machine Learning using Python](https://www.simplilearn.com/learn-machine-learning-basics-skillup) |  | 8 lessons | Quiz | :white_check_mark: |
 
 ## Data
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -119,7 +121,9 @@ This is an archive of contents.
 | [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | Data-driven decision | 3 weeks | Quiz | :white_check_mark: |
 | [Data Skills for Global Development](https://statistics.unsdglearn.org/courses/opening-the-appetite-data-skills-for-global-development-training-programme/) | Data Collection, Data Manipulation | 5 modules | Quiz | :white_check_mark: |
 | [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) | Data Collection, Data Manipulation | 2 hours | Quiz | :white_check_mark: |
-| [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) |  | 6 weeks | Exercise | :x: |
+| [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) |  | 6 weeks | Exercises | :white_check_mark: |
+| [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) |  | 15 lessons | Exercises | :white_check_mark: |
+| [Pathway to Data Governance](https://www.georgefox.edu/pathways/courses/data-governance.html) |  | 4 modules | Quiz | :question: |
 <!--| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) |  | 4 weeks | Exercises | :credit_card: |-->
 
 ## Environment
@@ -207,6 +211,7 @@ This is an archive of contents.
 | [Communication skills for engineering scholars](https://www.pok.polimi.it/course/view.php?id=14#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
 | [Digital Creativity for developing Digital Maturity future skills](https://www.pok.polimi.it/course/view.php?id=126#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
 | [Creative and Design Thinking: process and tools for innovation](https://www.pok.polimi.it/course/view.php?id=107#courseTabContent) |  | 6 weeks | Quiz | :white_check_mark: |
+| [Digital Leadership in Business](https://www.simplilearn.com/introduction-to-digital-leadership-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
 
 ## Management
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -216,6 +221,7 @@ This is an archive of contents.
 | [Managing Conflicts](https://www.pok.polimi.it/course/view.php?id=144#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
 | [Management Engineering](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Management+engineering+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 9 courses | Quiz | :white_check_mark: |
 | [Introduction to Project Cycle Management](https://www.itcilo.org/courses/introduction-project-cycle-management) |  | 4 modules | Quiz | :x: |
+| [Pathway to Project Management](https://www.georgefox.edu/pathways/courses/project-management.html) |  | 4 modules | Quiz | :question: |
 
 ## Network
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -226,6 +232,7 @@ This is an archive of contents.
 ## Organization
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
+| [Pathway to Organizational Leadership](https://www.georgefox.edu/pathways/courses/organizational-leadership.html) |  | 4 modules | Quiz | :question: |
 | [Sustainable Materials Management](https://www.coursera.org/learn/circular-economy) |  | 5 modules | Quiz | :credit_card: |
 | [Sustainable Management in the Extractive Industry](https://www.futurelearn.com/courses/sustainable-management-in-extractive-industry) |  | 6 weeks | Quiz | :white_check_mark: |
 
@@ -234,10 +241,12 @@ This is an archive of contents.
 | :--- | :--- | :--- | :--- | :--- |
 | [Python Programming](https://programming-24.mooc.fi/) |  | 10 ECTS | Exercises | :x: |
 | [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) |  | 5 ECTS | Exercises | :x: |
-| [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) |  | 6 chapters | Quiz | :white_check_mark: |
-| [Python for Everybody](https://www.freecodecamp.org/learn/python-for-everybody/#python-for-everybody) |  | 1 part | Quiz | :x: |
 | [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) |  | 4 chapters | Quiz | :white_check_mark: |
-| [Python Libraries for Data Science](https://www.simplilearn.com/learn-python-libraries-free-course-skillup) | Python, NumPy, Pandas, Matplotlib, scikit-learn, BeautifulSoup, TensorFlow, Jupyter | 6 lessons | Exercise | :white_check_mark: |
+| [Python for Beginners](https://www.simplilearn.com/learn-python-basics-free-course-skillup) | Variables, Numbers, Tuples, Strings, Dictionaries, Statements, Loops, Array, Functions, Objects, Classes, Threading, Scripting, Libraries, Web Scraping | 25 lessons | Exercise | :white_check_mark: |
+| [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) |  | 6 chapters | Quiz | :white_check_mark: |
+| [Python Libraries for Data Science](https://www.simplilearn.com/learn-python-libraries-free-course-skillup) | Jupyter, NumPy, Pandas, Matplotlib, scikit-learn, BeautifulSoup, TensorFlow | 6 lessons | Exercise | :white_check_mark: |
+| [Grasshopper Essentials](https://academy.archistar.ai/courses/grasshopper-essentials) |  | 5 modules | Exercise | :white_check_mark: |
+| [Introduction to SQL](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | MySQL, Python, PostgreSQL | 10 lessons | Exercise | :white_check_mark: |
 
 ## Quality
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -311,17 +320,21 @@ BIM, CAD, FEA, GIS, IFC
 | [Emerging Technologies](https://courses.minnalearn.com/en/courses/emerging-technologies/) | IoT, Robotics, Automation, VR, AR, MR, XR | 5 chapter | Exercises | :white_check_mark: |
 | [Cybersecurity](https://courses.minnalearn.com/en/courses/cybersecurity/) | Privacy, Communication, Network, Hardware | 5 chapter | Exercises | :white_check_mark: |
 | [Industry 4.0](https://hub.unido.org/training-modules-industry-4) |  | 6 modules | Exercises | :white_check_mark: |
+| [Cybersecurity](https://www.springboard.com/resources/learning-paths/cybersecurity-foundations/) | UX, UI | 17 units | Quiz | :question: |
 
 ## Usability
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Service Design Sprint](https://courses.mooc.fi/org/metropolia-innovation-entrepreneurship/courses/service-design) |  | 5 chapters | Exercises | :white_check_mark: |
 | [UX Design](https://www.springboard.com/resources/learning-paths/user-experience-design/) | UX, UI | 17 units | Quiz | :question: |
+| [Introduction to Graphic Design: Basics of UI/UX](https://www.simplilearn.com/free-graphic-design-beginner-course-skillup) |  | 2 lessons | Exercises | :white_check_mark: |
+| [Website UI/UX Designing using ChatGPT: Become a UI UX designer](https://www.simplilearn.com/free-website-design-course-chatgpt-skillup) |  | 3 lessons | Exercises | :white_check_mark: |
 
 ## Visualization
 | Course | Keyword | Duration | Assessment | Certificate |
 | :---| :--- | :--- | :--- | :--- |
 | [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/) |  | 3 parts | Exercises | :white_check_mark: |
+| [Introduction to Data Visualization](https://www.simplilearn.com/free-data-visualization-course-online-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
 
 ## Zero
 | Course | Keyword | Duration | Assessment | Certificate |
