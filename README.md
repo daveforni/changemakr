@@ -233,8 +233,15 @@ This is an archive of contents.
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Pathway to Organizational Leadership](https://www.georgefox.edu/pathways/courses/organizational-leadership.html) |  | 4 modules | Quiz | :question: |
-| [Sustainable Materials Management](https://www.coursera.org/learn/circular-economy) |  | 5 modules | Quiz | :credit_card: |
-| [Sustainable Management in the Extractive Industry](https://www.futurelearn.com/courses/sustainable-management-in-extractive-industry) |  | 6 weeks | Quiz | :white_check_mark: |
+| [PMI Kickoff](https://www.pmi.org/kickoff) |  | 1 PDU | Quiz | :white_check_mark: |
+| [Basics of Disciplined Agile](https://www.pmi.org/shop/p-/elearning/free-introduction-basics-of-disciplined-agile-online-course/daintro) |  | 1 PDUs | Quiz | :white_check_mark: |
+| [The Basics of Scrum](https://www.pmi.org/shop/p-/elearning/the-basics-of-scrum/el050) |  | 1 PDUs | Quiz | :white_check_mark: |
+| [Business Continuity](https://www.pmi.org/shop/p-/elearning/business-continuity/e00500) |  | 4.5 PDUs | Quiz | :white_check_mark: |
+| [PMI Citizen Developer™ Business Architect: CDBA Introduction](https://www.pmi.org/shop/p-/elearning/pmi-citizen-developer-business-architect-cdba-introduction/el058) |  | 1 PDU | Quiz | :white_check_mark: |
+| [Taming Bias: Using Wicked Problem Solving to Make Better Decisions and Align Teams](https://www.pmi.org/shop/p-/elearning/taming-bias-using-wicked-problem-solving-to-make-better-decisions-and-align-teams/el048) |  | 1 PDUs | Quiz | :white_check_mark: |
+| [Generative AI Overview for Project Managers](https://www.pmi.org/shop/p-/elearning/generative-ai-overview-for-project-managers/el083) |  | 5 PDUs | Quiz | :white_check_mark: |
+| [PMI® Authorized On-demand PMP® Exam Prep](https://www.pmi.org/shop/p-/elearning/free-introduction-pmi-authorized-on-demand-pmp-exam-prep/el047) |  | 1 PDUs | Quiz | :white_check_mark: |
+| [OKR Foundation](https://okrinstitute.org/courses/okr-foundation/) |  | 2 PDUs | Quiz | :white_check_mark: |
 
 ## Programming
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -266,6 +273,8 @@ This is an archive of contents.
 | [Wood Science](https://www.coursera.org/learn/wood-science) |  | 4 modules | Quiz | :credit_card: |
 | [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) |  | 6 hours | Quiz | :white_check_mark: |
 | [REthink, REvive, REuse](https://www.pok.polimi.it/course/view.php?id=146#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
+| [Sustainable Materials Management](https://www.coursera.org/learn/circular-economy) |  | 5 modules | Quiz | :credit_card: |
+| [Sustainable Management in the Extractive Industry](https://www.futurelearn.com/courses/sustainable-management-in-extractive-industry) |  | 6 weeks | Quiz | :white_check_mark: |
 
 ## Sustainability
 SDG, SBTi, ESG  
