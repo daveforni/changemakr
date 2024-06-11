@@ -3,38 +3,18 @@
 
 This is an archive of contents.
 #### Digital literacy
-| Course | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- |
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |  |
 | [Getting started with Google Workspace Specialization](https://www.coursera.org/specializations/getting-started-with-google-workspace) | 9 courses | Quiz | :moneybag::moneybag: |
 | [Microsoft 365 Fundamentals Specialization](https://www.coursera.org/specializations/microsoft-365-fundamentals) | 3 courses | Quiz | :moneybag: |
 
 #### Lifelong learning
+All courses are self-paced if not otherwise mentioned in the Note column and a certificate is given for free. 
 
 #### Abbreviation
 |  | Meaning |
 | :--- | :--- |
-| AI | Artificial Intelligence |
-| ML | Machine Learning |
-| NLP | Natural Language Processing |
-| GIS | Geographic Information System |
-| GHG | Greenhouse Gas |
-| SDG | Sustainable Development Goal |
-| EIA | Environmental Impact Assessment |
-| R&D | Research and Development |
-| MVP | Minimum Viable Product |
-| API | Application Programming Interface |
-| NbS | Nature-based Solution |
-| LCA | Life Cycle Assessment |
-| LCC | Life Cycle Costing |
-| EPD | Environmental Product Declaration |
-| MRV | Measurement, Reporting, Verification |
-
-#### Legend
-| Level | Fee |
-| :--- | :--- |
-| :moneybag: | up to €50 |
-| :moneybag::moneybag: | €50 to €150 |
-| :moneybag::moneybag::moneybag: | over €150 |
 
 # Contents
 - [Analytics](#analytics)
@@ -60,31 +40,44 @@ This is an archive of contents.
 - [Zero](#zero)
 
 ## Analytics
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 4-5 hours | ** |
+| [Introduction to Data Analytics](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup) | Types, Plots, Visualization, Methodologies, Frameworks, Trends | [Simplilearn](https://www.linkedin.com/company/simplilearn/) | 7 modules | 3 hours | *90 Days of Access* |
+| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS, Spatial Data, Analysis Techinque, Spatial Relationships, Distribution Patterns, Predictions, GIS | [Esri](https://www.linkedin.com/company/esri/) | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
+| [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) |  | [ITCILO](https://www.linkedin.com/school/the-international-training-centre-of-the-ilo/) | 4 modules | 4-5 hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | 3 parts | Quiz | :white_check_mark: |
-| [Introduction to Data Analytics](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup) |  | 7 lessons | Exercises | :white_check_mark: |
-| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS | 6 weeks | Exercises | :white_check_mark: |
-| [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) |  | 4 modules | Quiz | :question: |
-| [Data Analytics](https://www.springboard.com/resources/learning-paths/data-analysis/) | SQL, Python, Excel, Power BI, Tableau | 25 units | Quiz | :question: |
+| [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) | Learning, Ethics, Privacy, Legal | 4 modules | Quiz | :white_check_mark: |
 | [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
 | [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, Git | 5 weeks | Exercises | :x: |
 <!--| [Geospatial Analysis with ArcGIS](https://www.coursera.org/learn/geospatial-analysis) | GIS, ArcGIS | 4 modules | Quiz | :credit_card: |-->
 
 ## Business
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [Startup School](https://www.startupschool.org/) | Startup, Ideas, Founding, MVP, Launching, Growing, Financing, Company Building, Stories | [Y Combinator](https://www.linkedin.com/school/y-combinator/) | 8 modules | 7-14 hours | *Active Founder or Aspiring Founder track is determined based on work situation* |
+| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Startup, Ideas, MVP, Founding, Company Building, Financing, Growing | [Aalto University](https://www.linkedin.com/school/aalto-university/) | 9 modules | 50 hours | ** |
+| [Small Business Essentials](https://www.scu.edu/mobi/business-courses/small-business-essentials/) | Business Plan, Types, Organization, Financing, Accounting, Communication, Marketing, Selling | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules | 10-40 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
+| [Quick Start Entrepreneur](https://www.scu.edu/mobi/business-courses/quick-start-entrepreneur/) |  | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules | 10-40 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
+| [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) |  | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
+| [Business Expansion](https://www.scu.edu/mobi/business-courses/business-expansion/) |  | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
+
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | ESG, Business model, Innovation, Change management, Strategy | 4 modules | Exercises | :moneybag: | <!--€30-->
 | [Green Marketing Challenge](https://www.unssc.org/courses/green-marketing-challenge) | Sustainability claim, Greenwashing  | 2 hours | Exercises | :x: |
-| [Small Business Essentials](https://www.scu.edu/mobi/business-courses/small-business-essentials/) |   | 10 sessions | Quiz | :white_check_mark: |
-| [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) |   | 15 sessions | Quiz | :white_check_mark: |
-| [Business Expansion](https://www.scu.edu/mobi/business-courses/business-expansion/) |   | 15 sessions | Quiz | :white_check_mark: |
-| [Quick Start Entrepreneur](https://www.scu.edu/mobi/business-courses/quick-start-entrepreneur/) |   | 10-15 sessions | Quiz | :white_check_mark: |
-| [MBA Essentials](https://www.springboard.com/resources/learning-paths/mba/) |   | 9 units | Quiz | :question: |
 | [Business Intelligence Fundamentals](https://www.simplilearn.com/free-business-intelligence-course-online-skillup) |   | 7 lessons | Exercise | :white_check_mark: |
+| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Product/market fit, Company building, Finance, Growth | 9 chapters | Exercises | :white_check_mark: |
 <!--| [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) |  | 3 weeks | Quiz | :credit_card: |-->
 
 ## Computing
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Elements of AI](https://www.elementsofai.com/) | AI, ML, Bayesian method, Neural networks | 11 chapters | Quiz | :white_check_mark: |
@@ -105,10 +98,13 @@ This is an archive of contents.
 | [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
 | [XR Development for Beginners](https://microsoft.github.io/xr-development-for-beginners/#/) |  | 8 weeks | Exercises | :x: |
 | [Artificial Intelligence](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Artificial+Intelligence+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 5 courses | Quiz | :white_check_mark: |
-| [Machine Learning in Python](https://www.springboard.com/resources/learning-paths/machine-learning-python/) | Python, Numpy, Pandas, NumPy, scikit-learn | 14 units | Quiz | :question: |
 | [Machine Learning using Python](https://www.simplilearn.com/learn-machine-learning-basics-skillup) |  | 8 lessons | Quiz | :white_check_mark: |
 
 ## Data
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | R, Markdown, Shiny, Data Analysis, Data Manipulation, Data Visualization | 3 modules | Quiz | :white_check_mark: |
@@ -127,6 +123,10 @@ This is an archive of contents.
 <!--| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) |  | 4 weeks | Exercises | :credit_card: |-->
 
 ## Environment
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Climate](https://courses.mooc.fi/org/uh-inar/courses/climate-now) | Impact, Mitigation, Adaption | 8 chapters | Exercises | :x: |
@@ -142,9 +142,12 @@ This is an archive of contents.
 <!--| [Climate Literacy and Action for All](https://www.futurelearn.com/courses/climate-literacy-and-action-for-all) |  | 3 weeks | Exercises | :x: |-->
 
 ## Funding
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Product/market fit, Company building, Finance, Growth | 9 chapters | Exercises | :white_check_mark: |
 | [Design Bits](https://designbits.aalto.fi/en/) | Sustainability, Collaboration, Innovation, Management | 7 chapters | Exercises | :moneybag: | <!--€30-->
 | [Technology Entrepreneurship](https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market) | Entrepreneurship, R&D, Innovation, Product/market fit | 5 weeks | Quiz | :moneybag::moneybag: | <!--€138-->
 | [Entrepreneurship for Engineers](https://www.edx.org/learn/entrepreneurship/delft-university-of-technology-entrepreneurship-for-engineers) | MVP, Strategy, Finance, Business model | 8 weeks | Quiz | :moneybag::moneybag: | <!--€92-->
@@ -159,12 +162,20 @@ This is an archive of contents.
 | [Green Industrial Policy](https://unccelearn.org/course/view.php?id=94&page=overview) |  | 5 modules | Quiz | :white_check_mark: |
 
 ## Guideline
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Open Source Technical Documentation Essentials](https://training.linuxfoundation.org/training/open-source-technical-documentation-essentials-lfc111/) | Documentation, API | 3-4 hours | Quiz | :white_check_mark: |
 | [Creating Effective Documentation for Developers](https://training.linuxfoundation.org/training/creating-effective-documentation-for-developers-lfc112/) | Documentation, API | 3-4 hours | Quiz | :white_check_mark: |
 
 ## Holistic
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Built for Health One](https://www.usgbc.org/education/sessions/built-health-season-one-11766773) | Health, Wellness | 7 modules | Exercises | :x: |
@@ -183,6 +194,10 @@ This is an archive of contents.
 | [An Introduction to Behavior-Centered Design](https://behavior.rare.org/intro-to-bcd/) |  | 8 steps | Exercise | :x: |
 
 ## Impact
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Building LCA for architects](https://academy.oneclicklca.com/courses/building-lca-for-architects) | LCA | 5 hours | Quiz | :white_check_mark: |
@@ -200,6 +215,10 @@ This is an archive of contents.
 <!--| [Foundations of Life Cycle Assessment Practice](https://www.futurelearn.com/courses/foundations-of-lca) |  | 2 weeks | Quiz | :credit_card: |-->
 
 ## Leadership
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [ClimateComms](https://climateuniversity.fi/portfolio-items/climatecomms-now/) |  | 2 ECTS | Exercises | :x: |
@@ -214,22 +233,34 @@ This is an archive of contents.
 | [Digital Leadership in Business](https://www.simplilearn.com/introduction-to-digital-leadership-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
 
 ## Management
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Managing Innovation](https://hub.unido.org/training-modules-managing-innovation) |  | 7 modules | Quiz | :white_check_mark: |
 | [Managing Changes](https://www.pok.polimi.it/course/view.php?id=138#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
 | [Managing Conflicts](https://www.pok.polimi.it/course/view.php?id=144#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
 | [Management Engineering](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Management+engineering+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 9 courses | Quiz | :white_check_mark: |
-| [Introduction to Project Cycle Management](https://www.itcilo.org/courses/introduction-project-cycle-management) |  | 4 modules | Quiz | :x: |
+| [Introduction to Project Cycle Management](https://www.itcilo.org/courses/introduction-project-cycle-management) |  | 4 modules | Quiz | :white_check_mark: |
 | [Pathway to Project Management](https://www.georgefox.edu/pathways/courses/project-management.html) |  | 4 modules | Quiz | :question: |
 
 ## Network
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Working in Multidisciplinary Teams](https://www.pok.polimi.it/course/view.php?id=147#courseTabContent) |  | 4 weeks | Quiz | :white_check_mark: |
 | [Social and Behaviour Change (SBC) Theory and Practice](https://agora.unicef.org/course/info.php?id=35185) |  | 4 modules | Quiz | :x: |
 
 ## Organization
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Pathway to Organizational Leadership](https://www.georgefox.edu/pathways/courses/organizational-leadership.html) |  | 4 modules | Quiz | :question: |
@@ -244,6 +275,10 @@ This is an archive of contents.
 | [OKR Foundation](https://okrinstitute.org/courses/okr-foundation/) |  | 2 PDUs | Quiz | :white_check_mark: |
 
 ## Programming
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Python Programming](https://programming-24.mooc.fi/) |  | 10 ECTS | Exercises | :x: |
@@ -256,6 +291,10 @@ This is an archive of contents.
 | [Introduction to SQL](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | MySQL, Python, PostgreSQL | 10 lessons | Exercise | :white_check_mark: |
 
 ## Quality
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Quality Assurance](https://www.freecodecamp.org/learn/quality-assurance/) |  | 3 parts | Exercise | :white_check_mark: |
@@ -263,6 +302,10 @@ This is an archive of contents.
 <!--| [Quality in Construction](https://www.futurelearn.com/courses/construction-quality) |  | 3 weeks | Quiz | :credit_card: |-->
 
 ## Resource
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Cement Chemistry and Sustainable Cementitious Materials](https://www.edx.org/learn/physical-chemistry/ecole-polytechnique-federale-de-lausanne-cement-chemistry-and-sustainable-cementitious-materials) |  | 6 weeks | Quiz | :credit_card: €231 |
@@ -277,6 +320,10 @@ This is an archive of contents.
 | [Sustainable Management in the Extractive Industry](https://www.futurelearn.com/courses/sustainable-management-in-extractive-industry) |  | 6 weeks | Quiz | :white_check_mark: |
 
 ## Sustainability
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 SDG, SBTi, ESG  
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -303,6 +350,10 @@ SDG, SBTi, ESG
 | [Sustainable Earth](https://careercatalyst.asu.edu/programs/sustainable-earth/) | Reporting, GHG, GRI, CDP, ESG | 10 courses | Quiz | :white_check_mark: |
 
 ## Technology
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 BIM, CAD, FEA, GIS, IFC
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -332,6 +383,10 @@ BIM, CAD, FEA, GIS, IFC
 | [Cybersecurity](https://www.springboard.com/resources/learning-paths/cybersecurity-foundations/) | UX, UI | 17 units | Quiz | :question: |
 
 ## Usability
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Service Design Sprint](https://courses.mooc.fi/org/metropolia-innovation-entrepreneurship/courses/service-design) |  | 5 chapters | Exercises | :white_check_mark: |
@@ -340,12 +395,20 @@ BIM, CAD, FEA, GIS, IFC
 | [Website UI/UX Designing using ChatGPT: Become a UI UX designer](https://www.simplilearn.com/free-website-design-course-chatgpt-skillup) |  | 3 lessons | Exercises | :white_check_mark: |
 
 ## Visualization
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :---| :--- | :--- | :--- | :--- |
 | [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/) |  | 3 parts | Exercises | :white_check_mark: |
 | [Introduction to Data Visualization](https://www.simplilearn.com/free-data-visualization-course-online-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
 
 ## Zero
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| []() |  | []() |  modules |  hours | ** |
+
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :---| :--- | :--- | :--- |
 | [Fundamentals of Net Zero and Decarbonisation](https://fidic.academy/courses1/fundamentals-to-net-zero-and-decarbonization-course/) |  | 40 minutes | Quiz | :white_check_mark: |
