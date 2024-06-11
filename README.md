@@ -13,8 +13,9 @@ This is an archive of contents.
 All courses are self-paced if not otherwise mentioned in the Note column and a certificate is given for free. 
 
 #### Abbreviation
-|  | Meaning |
+| Short | Meaning |
 | :--- | :--- |
+
 
 # Contents
 - [Analytics](#analytics)
@@ -52,7 +53,6 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 | [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) | Learning, Ethics, Privacy, Legal | 4 modules | Quiz | :white_check_mark: |
 | [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
 | [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, Git | 5 weeks | Exercises | :x: |
-<!--| [Geospatial Analysis with ArcGIS](https://www.coursera.org/learn/geospatial-analysis) | GIS, ArcGIS | 4 modules | Quiz | :credit_card: |-->
 
 ## Business
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -99,6 +99,13 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 | [XR Development for Beginners](https://microsoft.github.io/xr-development-for-beginners/#/) |  | 8 weeks | Exercises | :x: |
 | [Artificial Intelligence](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Artificial+Intelligence+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 5 courses | Quiz | :white_check_mark: |
 | [Machine Learning using Python](https://www.simplilearn.com/learn-machine-learning-basics-skillup) |  | 8 lessons | Quiz | :white_check_mark: |
+| [Introduction to Cloud Computing](https://www.simplilearn.com/introduction-to-cloud-computing-basics-skillup) |  | 7 lessons | Exercises | :white_check_mark: |
+| [Introduction to Supervised & Unsupervised Machine Learning](https://www.simplilearn.com/introduction-to-supervised-unsupervised-learning-for-beginners-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
+| [Introduction to Neural Network](https://www.simplilearn.com/neural-network-training-from-scratch-free-course-skillup) |  | 12 lessons | Exercises | :white_check_mark: |
+| [Natural Language Processing (NLP) and Text Mining Tutorial for Beginners](https://www.simplilearn.com/learn-basics-of-natural-language-processing-free-course-skillup) |  | 6 lessons | Exercises | :white_check_mark: |
+| [Deep Learning for Beginners](https://www.simplilearn.com/introduction-to-deep-learning-free-course-skillup) |  | 15 lessons | Exercises | :white_check_mark: |
+| [Introduction to Prompt Engineering Fundamentals](https://www.simplilearn.com/prompt-engineering-free-course-skillup) |  | 3 lessons | Exercises | :white_check_mark: |
+| [Getting Started with Machine Learning Algorithms](https://www.simplilearn.com/learn-machine-learning-algorithms-free-course-skillup) |  | 11 lessons | Exercises | :white_check_mark: |
 
 ## Data
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -120,6 +127,7 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 | [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) |  | 6 weeks | Exercises | :white_check_mark: |
 | [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) |  | 15 lessons | Exercises | :white_check_mark: |
 | [Pathway to Data Governance](https://www.georgefox.edu/pathways/courses/data-governance.html) |  | 4 modules | Quiz | :question: |
+| [Introduction to the Fundamentals of Databases](https://www.simplilearn.com/learn-basics-of-databases-free-course-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
 <!--| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) |  | 4 weeks | Exercises | :credit_card: |-->
 
 ## Environment
