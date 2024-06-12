@@ -187,6 +187,10 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Nature-based Infrastructure for Climate Adaption and Sustainable Development](https://nbi.iisd.org/e-course/) | Nature-based Infrastructure, Infrastructure Planning, Systems Thinking, System Dynamics Models, Climate Data, Spatial Modelling, Financing | [Nature-Based Infrastructure Global Resource Centre](https://www.linkedin.com/showcase/nature-based-infrastructure-global-resource-centre/) | 5 modules | 20 hours | ** |
 | [Nature-based Solutions for Sustainable Development](https://www.learningfornature.org/en/courses/nature-based-solutions-for-sustainable-development/) | Nature-based Solutions, Water, Climate Change | [UNDP](https://www.linkedin.com/company/undp/) | 4 modules | 4 hours | ** |
+| [An Introduction to Behavior-Centered Design](https://www.learningfornature.org/en/courses/an-introduction-to-behavior-centered-design-bcd/) | Behavioral Challenge, Behavioral Insights, Behavioral Solution, Behavior Change | [UNDP](https://www.linkedin.com/company/undp/) | 10 modules | 4 hours | ** |
+| [Integrated Spatial Planning](https://www.learningfornature.org/en/courses/integrated-spatial-planning-2/) | Spatial Planning, Spatial Data, Decision-making, Nature, Climate, Sustainable Development, Communication, Nature-based Action | [UNDP](https://www.linkedin.com/company/undp/) | 5 modules | 15-25 hours | ** |
+| [An Introduction to Nature, Business and Finance](https://www.learningfornature.org/en/courses/an-introduction-to-nature-business-and-finance/) | Nature-related Economics, Nature-related Finance, Nature-related Risks | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 3-6 hours | ** |
+| [Understanding Resilience Thinking](https://www.learningfornature.org/en/courses/nbsap-understanding-resilience-thinking/) | Resilience Assessments, Assessment Frameworks, Conservation Actions | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 3 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
