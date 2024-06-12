@@ -115,6 +115,7 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 | [Data in Construction](https://www.procore.com/data-construction-series) | Data Collection, Data Analysis, Machine Learning, AI, Data Sharing | [Procore Technologies](https://www.linkedin.com/company/procore-technologies/) | 5 modules | 50 hours | ** |
 | [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | R, Markdown, Shiny, Data Manipulation, Data Visualization, Quantitative Analysis, Geospatial Analysis, Bayesian Statistics, Version Control | [Coding Club](https://www.linkedin.com/company/codingclub/) | 3 modules | 16 hours | ** |
 | [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) | ArcGIS, Spatial Data, Suitability Analysis, Deep Learning, Predictive Modeling, Pattern Detection, Clustering, GIS | [Esri](https://www.linkedin.com/company/esri/) | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
+| [Using Spatial Data for Biodiversity](https://www.learningfornature.org/en/courses/using-spatial-data-for-biodiversity/) | Spatial Data, Biodiversity Policies, UN Biodiversity Lab, Nature Conservation | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 4 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -157,6 +158,8 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 ## Funding
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Biodiversity Finance](https://www.learningfornature.org/en/courses/biodiversity-finance/) | Biodiversity Finance, Policies, Biodiversity Expenditure, Biodiversity Financial Assessment, Biodiversity Finance Plan, Implementation | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 14 hours | ** |
+| [Green Entrepreneurship](https://www.learningfornature.org/en/courses/green-entrepreneurship-2022/) | Green Business Idea, Positive Impact, Customer, Stakeholders, Green Business Model, Financing, Growth | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 18 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -192,7 +195,9 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 | [An Introduction to Behavior-Centered Design](https://www.learningfornature.org/en/courses/an-introduction-to-behavior-centered-design-bcd/) | Behavioral Challenge, Behavioral Insights, Behavioral Solution, Behavior Change | [UNDP](https://www.linkedin.com/company/undp/) | 10 modules | 4 hours | ** |
 | [Integrated Spatial Planning](https://www.learningfornature.org/en/courses/integrated-spatial-planning-2/) | Spatial Planning, Spatial Data, Decision-making, Nature, Climate, Sustainable Development, Communication, Nature-based Action | [UNDP](https://www.linkedin.com/company/undp/) | 5 modules | 15-25 hours | ** |
 | [An Introduction to Nature, Business and Finance](https://www.learningfornature.org/en/courses/an-introduction-to-nature-business-and-finance/) | Nature-related Economics, Nature-related Finance, Nature-related Risks | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 3-6 hours | ** |
-| [Understanding Resilience Thinking](https://www.learningfornature.org/en/courses/nbsap-understanding-resilience-thinking/) | Resilience Assessments, Assessment Frameworks, Conservation Actions | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 3 hours | ** |
+| [Green Infrastructure for Coastal Cities](https://www.learningfornature.org/en/courses/green-infrastructure/) | Green Infrastructure, Green Infrastructure Planning, Green Infrastructure Project, Ecological Economy, Circular Economy | [UNDP](https://www.linkedin.com/company/undp/) | 4 modules | 12-16 hours | ** |
+| [Understanding Resilience Thinking](https://www.learningfornature.org/en/courses/nbsap-understanding-resilience-thinking/) | Resilience Thinking, Resilience Assessments, Assessment Frameworks, Conservation Actions | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 3 hours | ** |
+| [Applying Resilience Thinking to National Biodiversity Plans](https://www.learningfornature.org/en/courses/applying-resilience-thinking-to-national-biodiversity-plans/) | Biodiversity Plans, Resilience Thinking, Policymaking, Planning, Implementation | [UNDP](https://www.linkedin.com/company/undp/) | 5 modules | 3 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
@@ -235,6 +240,8 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 ## Leadership
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Communicating the Value of Biodiversity](https://www.learningfornature.org/en/courses/communicating-the-value-of-biodiversity/) | Build Awareness, Biodiversity Issues, Biodiversity Conservation, Biodiversity Communication Plan | [UNDP](https://www.linkedin.com/company/undp/) | 5 modules | 3 hours | ** |
+| [Sustainable Decision-Making in Development Corridors](https://www.learningfornature.org/en/courses/from-idea-to-impact-sustainable-decision-making-in-development-corridors/) | Development Corridors, Sustainability Standards, Impact Assessments | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 3 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -322,6 +329,8 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 ## Resource
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Sustainable Consumption and Production](https://www.learningfornature.org/en/courses/sustainable-consumption-and-production/) | Conservation, Development Planning, Management Processes, Green Consumption, Sustainable Consumption, Sustainable Production, Policy Framework, Production Sectors, Supply Chain, Biodiversity, Limit Resources, Pollution Reduction, Waste Reduction | [UNDP](https://www.linkedin.com/company/undp/) | 5 modules | 3 hours | ** |
+| [Sustainable Commodity Supply Chains](https://www.learningfornature.org/en/courses/nbsap-sustainable-commodity-supply-chains/) | Commodity Production, Supply Chain, Biodiversity Destruction, Social-economic Impacts, Ecological Consequences | [UNDP](https://www.linkedin.com/company/undp/) | 5 modules | 3 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
