@@ -136,6 +136,8 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 ## Environment
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Ecosystem Restoration](https://www.learningfornature.org/en/courses/ecosystem-restoration/) | Ecosystem Restoration, Policies, Assessment, Cost-benefit Analysis, Strategic Planning, Restoration Interventions, Monitoring, Capacity-building | [UNDP](https://www.linkedin.com/company/undp/) | 8 modules | 24-40 hours | ** |
+| [Protected Areas and Sustainable Development](https://www.learningfornature.org/en/courses/protected-areas-and-sustainable-development/) | Protected Areas, Ecosystem Services, Food Security, Water Security, Disaster Risk Reduction, Health, Climate Change, Livelihoods, Poverty Reduction | [UNDP](https://www.linkedin.com/company/undp/) | 7 modules | 4 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
