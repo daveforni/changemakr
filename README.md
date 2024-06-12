@@ -43,9 +43,10 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 ## Analytics
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 4-5 hours | ** |
+| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
 | [Introduction to Data Analytics](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup) | Types, Plots, Visualization, Methodologies, Frameworks, Trends | [Simplilearn](https://www.linkedin.com/company/simplilearn/) | 7 modules | 3 hours | *90 Days of Access* |
 | [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS, Spatial Data, Analysis Techinque, Spatial Relationships, Distribution Patterns, Predictions, GIS | [Esri](https://www.linkedin.com/company/esri/) | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
+| [Data Analytics Essentials](https://skillsforall.com/course/data-analytics-essentials?courseLang=en-US) | Excel, SQL, Tableau, Preparation, Cleaning, Transforming, Statistics, Relational Databases, Structuring, Ethics, Bias | [Cisco](https://www.linkedin.com/company/cisco/) | 10 modules | 30 hours | ** |
 | [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) |  | [ITCILO](https://www.linkedin.com/school/the-international-training-centre-of-the-ilo/) | 4 modules | 4-5 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -70,17 +71,17 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 | [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | ESG, Business model, Innovation, Change management, Strategy | 4 modules | Exercises | :moneybag: | <!--€30-->
 | [Green Marketing Challenge](https://www.unssc.org/courses/green-marketing-challenge) | Sustainability claim, Greenwashing  | 2 hours | Exercises | :x: |
 | [Business Intelligence Fundamentals](https://www.simplilearn.com/free-business-intelligence-course-online-skillup) |   | 7 lessons | Exercise | :white_check_mark: |
-| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Product/market fit, Company building, Finance, Growth | 9 chapters | Exercises | :white_check_mark: |
 <!--| [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) |  | 3 weeks | Quiz | :credit_card: |-->
 
 ## Computing
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Elements of AI](https://www.elementsofai.com/) | AI, AI Problem Solving, Real World AI, Machine Learning, Neural Networks, Implications, Uncertainies | [University of Helsinki](https://www.linkedin.com/school/university-of-helsinki/) | 11 modules | 90-110 hours | ** |
+| [AI Fundamentals](https://skillsforall.com/course/ai-ibm-skillsbuild?courseLang=en-US) | AI, Natural Language Processing, Computer Vision, Machine Learning, Deep Learning, AI Models, AI Ethics | [IBM](https://www.linkedin.com/company/ibm/) | 4 modules | 10 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Elements of AI](https://www.elementsofai.com/) | AI, ML, Bayesian method, Neural networks | 11 chapters | Quiz | :white_check_mark: |
 | [Introduction to AI](https://course.elementsofai.com/) | AI, ML, Bayesian method, Neural networks | 6 chapters | Quiz | :white_check_mark: |
 | [Building AI](https://buildingai.elementsofai.com/) | AI, ML, Bayesian method, Neural networks, Python | 5 chapters | Quiz | :moneybag: | <!--€50-->
 | [Ethics of AI](https://ethics-of-ai.mooc.fi/) | Non-maleficence, Accountability, Transparency, Human rights, Fairness | 7 chapters | Exercises | :x: |
@@ -110,13 +111,15 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 ## Data
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Introduction to Data Science](https://skillsforall.com/course/introduction-data-science?courseLang=en-US) | Collection, Storage, AI, Machine Learning | [Cisco](https://www.linkedin.com/company/cisco/) | 4 modules | 6 hours | ** |
+| [Data in Construction](https://www.procore.com/data-construction-series) | Data Collection, Data Analysis, Machine Learning, AI, Data Sharing | [Procore Technologies](https://www.linkedin.com/company/procore-technologies/) | 5 modules | 50 hours | ** |
+| [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | R, Markdown, Shiny, Data Manipulation, Data Visualization, Quantitative Analysis, Geospatial Analysis, Bayesian Statistics, Version Control | [Coding Club](https://www.linkedin.com/company/codingclub/) | 3 modules | 16 hours | ** |
+| [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) | ArcGIS, Spatial Data, Suitability Analysis, Deep Learning, Predictive Modeling, Pattern Detection, Clustering, GIS | [Esri](https://www.linkedin.com/company/esri/) | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | R, Markdown, Shiny, Data Analysis, Data Manipulation, Data Visualization | 3 modules | Quiz | :white_check_mark: |
 | [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | Python, Pandas, scikit-learn, Google Colab, ML, ETL | 7 weeks | Quiz | :moneybag::moneybag::moneybag: | <!--€186-->
-| [Data in Construction](https://www.procore.com/data-construction-series) | Data Analysis, Data Collection, AI, ML | 5 parts | Quiz | :white_check_mark: |
 | [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, GIS, Git | 5 weeks | Exercises | :x: |
 | [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | Python, SQL, PySpark | 5 ECTS | Exercises | :x: |
 | [Data Science for Ecology](https://wec.wur.nl/dse/) | R, Data Processing, ML | 6 weeks | Exercises | :x: |
@@ -182,7 +185,8 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 ## Holistic
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| []() |  | []() |  modules |  hours | ** |
+| [Nature-based Infrastructure for Climate Adaption and Sustainable Development](https://nbi.iisd.org/e-course/) | Nature-based Infrastructure, Infrastructure Planning, Systems Thinking, System Dynamics Models, Climate Data, Spatial Modelling, Financing | [Nature-Based Infrastructure Global Resource Centre](https://www.linkedin.com/showcase/nature-based-infrastructure-global-resource-centre/) | 5 modules | 20 hours | ** |
+| [Nature-based Solutions for Sustainable Development](https://www.learningfornature.org/en/courses/nature-based-solutions-for-sustainable-development/) | Nature-based Solutions, Water, Climate Change | [UNDP](https://www.linkedin.com/company/undp/) | 4 modules | 4 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
