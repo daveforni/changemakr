@@ -302,6 +302,13 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 ## Programming
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Python Essentials - Part 1](https://edube.org/study/pe1) |  | [OpenEDG](https://www.linkedin.com/company/openedg/) | 4 modules | 42 hours | ** |
+| [Python Essentials - Part 2](https://edube.org/study/pe2) |  | [OpenEDG](https://www.linkedin.com/company/openedg/) | 4 modules | 58hours | ** |
+| [Advanced Perspective of Classes and Object-Oriented Programming in Python](https://edube.org/study/pcpp1-1) |  | [OpenEDG](https://www.linkedin.com/company/openedg/) | 5 modules | 42 hours | ** |
+| [Best Practices and Standardization](https://edube.org/study/pcpp1-2) |  | [OpenEDG](https://www.linkedin.com/company/openedg/) | 5 modules | 10 hours | ** |
+| [Introduction to GUI Programming in Python (TkInter)](https://edube.org/study/pcpp1-3) |  | [OpenEDG](https://www.linkedin.com/company/openedg/) | 2 modules | 21 hours | ** |
+| [Working with RESTful APIs](https://edube.org/study/pcpp1-4) |  | [OpenEDG](https://www.linkedin.com/company/openedg/) | 7 modules | 21 hours | ** |
+| [Processing different kinds of text files](https://edube.org/study/pcpp1-5) |  | [OpenEDG](https://www.linkedin.com/company/openedg/) | 5 modules | 21 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
