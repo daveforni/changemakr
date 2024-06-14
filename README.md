@@ -139,6 +139,8 @@ All courses are self-paced if not otherwise mentioned in the Note column and a c
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Ecosystem Restoration](https://www.learningfornature.org/en/courses/ecosystem-restoration/) | Ecosystem Restoration, Policies, Assessment, Cost-benefit Analysis, Strategic Planning, Restoration Interventions, Monitoring, Capacity-building | [UNDP](https://www.linkedin.com/company/undp/) | 8 modules | 24-40 hours | ** |
 | [Protected Areas and Sustainable Development](https://www.learningfornature.org/en/courses/protected-areas-and-sustainable-development/) | Protected Areas, Ecosystem Services, Food Security, Water Security, Disaster Risk Reduction, Health, Climate Change, Livelihoods, Poverty Reduction | [UNDP](https://www.linkedin.com/company/undp/) | 7 modules | 4 hours | ** |
+| [Fundamentals on REDD+](https://www.learningfornature.org/en/courses/fundamentals-on-redd/) | Climate Change, Forest Role, Deforestation, Forest Degradation, Policies, Strategies, Action Plans | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 12 hours | ** |
+| [Advancing on REDD+](https://www.learningfornature.org/en/courses/advancing-on-redd/) | Forest Monitoring Systems, Forest Reference Emission, Safeguards, Incentives Allocation, Stakeholder Engagement, Good Governance | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 12 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
