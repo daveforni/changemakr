@@ -10,7 +10,11 @@ This is an archive of contents.
 | [Microsoft 365 Fundamentals Specialization](https://www.coursera.org/specializations/microsoft-365-fundamentals) | 3 courses | Quiz | :moneybag: |
 
 #### Lifelong learning
-All courses are self-paced if not otherwise mentioned in the Note column and a certificate is given for free. 
+#### All courses are:
+:globe_with_meridians: Fully online  
+:round_pushpin: Beginner level  
+:hourglass_flowing_sand: Self-paced  
+:medal_military: Free certificate
 
 #### Abbreviation
 | Short | Meaning |
