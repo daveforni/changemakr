@@ -190,8 +190,14 @@ This is an archive of contents.
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Indicators for an inclusive green economy](https://unccelearn.org/course/view.php?id=122&page=overview) |  | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 4 modules | 3 hours | *The quiz can be taken at any time and attempted up to three times. Learners need to pass the quiz with a score of at least 70%* |
-| [Green Industrial Policy](https://unccelearn.org/course/view.php?id=94&page=overview) |  | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 5 modules |  hours | *Passing the final quiz* |
+| [Green Industrial Policy](https://unccelearn.org/course/view.php?id=94&page=overview) |  | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 5 modules | 30 hours | *Passing the final quiz* |
 | [Introduction to Sustainable Finance Taxonomies](https://unccelearn.org/course/view.php?id=160&page=overview) | Sustainable Finance Taxonomies, EU Taxonomy, China Taxonomy, Taxonomy Development Principles | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 4 modules | 3.5-4 hours | *Pass the quiz at the end of every module with a minimum of 70%* |
+| [Basics of EU data economy regulation – fair rules for online platforms](https://www.eoppiva.fi/en/courses/basics-of-eu-data-economy-regulation-fair-rules-for-online-platforms/) |  | [eOppiva](https://www.linkedin.com/company/eoppiva/) | 5 modules | 1.5 hours | ** |
+| [AI & EU Law: definition and developments](https://www.eoppiva.fi/en/courses/ai-eu-law-definition-and-developments/) |  | [eOppiva](https://www.linkedin.com/company/eoppiva/) | 2 modules | 1 hours | ** |
+| [Fair rules for data sharing](https://www.eoppiva.fi/en/courses/fair-rules-for-data-sharing/) |  | [eOppiva](https://www.linkedin.com/company/eoppiva/) | 5 modules | 1.5 hours | ** |
+| [Data Interoperability – Significance and Facilitators](https://www.eoppiva.fi/en/courses/data-interoperability-significance-and-facilitators/) |  | [eOppiva](https://www.linkedin.com/company/eoppiva/) | 6 modules | 1 hours | ** |
+| [Data Quality – Significance and Description of Quality](https://www.eoppiva.fi/en/courses/data-quality-significance-and-description-of-quality/) |  | [eOppiva](https://www.linkedin.com/company/eoppiva/) | 6 modules | 1.5 hours | ** |
+| [Data Sharing – Benefits and Operating Methods Related to Public Data Sharing](https://www.eoppiva.fi/en/courses/data-sharing-benefits-and-operating-methods-related-to-public-data-sharing/) |  | [eOppiva](https://www.linkedin.com/company/eoppiva/) | 5 modules | 1 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -333,6 +339,11 @@ This is an archive of contents.
 | [Python Libraries for Data Science](https://www.simplilearn.com/learn-python-libraries-free-course-skillup) | Jupyter, NumPy, Pandas, Matplotlib, scikit-learn, BeautifulSoup, TensorFlow | 6 lessons | Exercise | :white_check_mark: |
 | [Grasshopper Essentials](https://academy.archistar.ai/courses/grasshopper-essentials) |  | 5 modules | Exercise | :white_check_mark: |
 | [Introduction to SQL](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | MySQL, Python, PostgreSQL | 10 lessons | Exercise | :white_check_mark: |
+| [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) |  | 6 lessons | Exercise | :white_check_mark: |
+| [Introduction to LaTeX](https://www.geo.university/courses/introduction-to-latex) |  | 9 lessons | Exercise | :white_check_mark: |
+| [Introduction to Remote Sensing](https://www.geo.university/courses/introduction-to-remote-sensing) |  | 4 lessons | Exercise | :white_check_mark: |
+| [Digital Image Processing with OpenCV in Python](https://www.geo.university/courses/digital-image-processing-with-opencv-in-python) |  | 6 lessons | Exercise | :white_check_mark: |
+| [Coordinate Reference Systems, Projections, and Spatial Data Representation](https://www.geo.university/courses/coordinate-reference-systems-projections-and-spatial-data-representation) |  | 3 lessons | Exercise | :white_check_mark: |
 
 ## Quality
 | Title | Keyword | Provider | Structure | Duration | Note |
