@@ -374,7 +374,21 @@ SDG, SBTi, ESG
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Higher Education for Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
+| [Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) |  | 6 weeks | Quiz | :white_check_mark: |
+| [Circular business models fostering sustainable production and consumption](https://www.pok.polimi.it/course/view.php?id=130#courseTabContent) |  | 4 weeks | Quiz | :white_check_mark: |
+| [Energy management for real estate - Fundamentals, methods and digital tools](https://www.pok.polimi.it/course/view.php?id=108#courseTabContent) |  | 4 weeks | Quiz | :white_check_mark: |
+| [Deep renovation for energy efficient residential buildings](https://www.pok.polimi.it/course/view.php?id=127#courseTabContent) |  | 6 weeks | Quiz | :white_check_mark: |
+| [The strange paradox of the world energy question](https://www.pok.polimi.it/course/view.php?id=74#courseTabContent) |  | 4 weeks | Quiz | :white_check_mark: |
+| [Circular economy in construction](https://www.eoppiva.fi/en/courses/circular-economy-in-construction/) |  | 4  modules | Quiz | :white_check_mark: |
+| [Whole life carbon – How an assessment is conducted?](https://www.eoppiva.fi/en/courses/whole-life-carbon-how-an-assessment-is-conducted/) |  | 5  modules | Quiz | :white_check_mark: |
+| [Low-carbon steering throughout the building’s life cycle](https://www.eoppiva.fi/en/courses/low-carbon-steering-throughout-the-buildings-life-cycle/) |  | 3  modules | Quiz | :white_check_mark: |
+| [Digital4Sustainability](https://www.unsdglearn.org/courses/digital4sustainability-learning-path/) |  | 4 weeks | Quiz | :white_check_mark: |
+| [Sustainable Earth](https://careercatalyst.asu.edu/programs/sustainable-earth/) | Reporting, GHG, GRI, CDP, ESG | 10 courses | Quiz | :white_check_mark: |
+| [Sustainable Urban Water Systems](https://www.pok.polimi.it/course/view.php?id=95#courseTabContent) |  | 3 weeks | Quiz | :white_check_mark: |
+| [Introduction to ESG](https://corporatefinanceinstitute.com/course/environmental-social-governance/) |  | 7 modules | Quiz | :white_check_mark: |
+
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
 | [Introduction to Sustainability](https://courses.mooc.fi/org/uh-inar/courses/introduction-to-sustainability) |  | 3 ECTS | Exercises | :credit_card: €45 |
 | [Circular](https://climateuniversity.fi/portfolio-items/circular-now/) |  | 3-5 ECTS | Exercises | :x: |
 | [Solutions](https://climateuniversity.fi/portfolio-items/solutions-now/) |  | 5 ECTS | Exercises | :x: |
@@ -387,13 +401,9 @@ SDG, SBTi, ESG
 | [Sustainability in practice](https://www.edx.org/learn/engineering/universite-de-montreal-engineers-canada-sustainability-in-practice) |  | 4 weeks | Quiz | :credit_card: €69 |
 | [Sustainable Construction and Development](https://www.futurelearn.com/courses/sustainable-construction-development) |  | 5 weeks | Quiz | :credit_card: |
 | [Smart Urban Green Infrastructure](https://www.futurelearn.com/courses/smart-urban-green-infrastructure) |  | 5 weeks | Quiz | :credit_card: |
-| [Digital4Sustainability](https://www.unsdglearn.org/courses/digital4sustainability-learning-path/) |  | 4 weeks | Quiz | :white_check_mark: |
 | [The SDG Primer](https://www.unssc.org/courses/sdg-primer-1) |  | 3.5 hours | Quiz | :x: |
-| [Sustainable Development Goals](https://www.pok.polimi.it/course/view.php?id=17#courseTabContent) | SDG | 6  weeks | Quiz | :white_check_mark: |
-| [Circular economy in construction](https://www.eoppiva.fi/en/courses/circular-economy-in-construction/) |  | 4  modules | Quiz | :white_check_mark: |
 | [Navigating Sustainability Frameworks and Standards](https://www.xtonnes.com/challenge-page/sustainability-framework-training) |  | 3 modules | Quiz | :x: |
 | [Sustainability](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Sustainability+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 16 courses | Quiz | :white_check_mark: |
-| [Sustainable Earth](https://careercatalyst.asu.edu/programs/sustainable-earth/) | Reporting, GHG, GRI, CDP, ESG | 10 courses | Quiz | :white_check_mark: |
 
 ## Technology
 | Title | Keyword | Provider | Structure | Duration | Note |
