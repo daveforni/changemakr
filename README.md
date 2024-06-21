@@ -124,9 +124,10 @@ This is an archive of contents.
 | [Data in Construction](https://www.procore.com/data-construction-series) | Data Collection, Data Analysis, Machine Learning, AI, Data Sharing | [Procore Technologies](https://www.linkedin.com/company/procore-technologies/) | 5 modules | 50 hours | ** |
 | [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | R, Markdown, Shiny, Data Manipulation, Data Visualization, Quantitative Analysis, Geospatial Analysis, Bayesian Statistics, Version Control | [Coding Club](https://www.linkedin.com/company/codingclub/) | 3 modules | 16 hours | ** |
 | [Integrate Spatial Data](https://academy.safe.com/path/integrate-spatial-data) | Spatial Data, Coordinate Systems, Spatial Data Analysis | [Safe Software](https://www.linkedin.com/company/safesoftware/) | 3 modules | 2 hours | ** |
-| [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | Data-driven Decision Making, Policy Making, Data Science | [UN SDG:Learn](https://www.linkedin.com/company/un-sdg-learn/) | 3 modules | 2.5-3 hours | ** |
-| [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) |  | [UN SDG:Learn](https://www.linkedin.com/company/un-sdg-learn/) |  modules |  hours | ** |
-| []() |  | []() |  modules |  hours | ** |
+| [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) | Big Data, Big Data Types, Opportunities, Use Cases, Challenges | [UN SDG:Learn](https://www.linkedin.com/company/un-sdg-learn/) | 5 modules | 2 hours | *Success rate of 70% to pass the quiz* |
+| [Pathway to Data Governance](https://www.georgefox.edu/pathways/courses/data-governance.html) | Data Governance, Data Standards, Data Quality, Data Integrity, Data Analytics, Big Data, AI, Machine Learning | [George Fox University](https://www.linkedin.com/school/george-fox-university/) | 4 modules | 45 hours | ** |
+| [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, MLxtend | [Kaggle](https://www.linkedin.com/company/kaggle/) | 5 modules | 4 hours | ** |
+| [Data and processes in computing](https://www.open.edu/openlearn/digital-computing/data-and-processes-computing?active-tab=description-tab) | Data Storing, Data Processing, Data Formats | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 5 modules | 14 hours | ** |
 | [Using Spatial Data for Biodiversity](https://www.learningfornature.org/en/courses/using-spatial-data-for-biodiversity/) | Spatial Data, Biodiversity Policies, UN Biodiversity Lab, Nature Conservation | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 4 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -136,7 +137,7 @@ This is an archive of contents.
 | [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | Python, SQL, PySpark | 5 ECTS | Exercises | :x: |
 | [Data Science for Ecology](https://wec.wur.nl/dse/) | R, Data Processing, ML | 6 weeks | Exercises | :x: |
 | [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data) | GIS, ArcGIS, Data Management, SQLite | 4 modules | Quiz | :moneybag: |
-| [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | Data-driven decision | 3 weeks | Quiz | :white_check_mark: |
+| [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | Data-driven Decision Making, Policy Making, Data Science | [UN SDG:Learn](https://www.linkedin.com/company/un-sdg-learn/) | 3 modules | 2.5-3 hours | ** |
 | [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) | Data Collection, Data Manipulation | 2 hours | Quiz | :white_check_mark: |
 | [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) |  | 15 lessons | Exercises | :white_check_mark: |
 | [Pathway to Data Governance](https://www.georgefox.edu/pathways/courses/data-governance.html) |  | 4 modules | Quiz | :question: |
