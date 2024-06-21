@@ -123,9 +123,11 @@ This is an archive of contents.
 | [Introduction to Data Science](https://skillsforall.com/course/introduction-data-science?courseLang=en-US) | Collection, Storage, AI, Machine Learning | [Cisco](https://www.linkedin.com/company/cisco/) | 4 modules | 6 hours | ** |
 | [Data in Construction](https://www.procore.com/data-construction-series) | Data Collection, Data Analysis, Machine Learning, AI, Data Sharing | [Procore Technologies](https://www.linkedin.com/company/procore-technologies/) | 5 modules | 50 hours | ** |
 | [Data Science for Ecologists and Environmental Scientists](https://ourcodingclub.github.io/course.html) | R, Markdown, Shiny, Data Manipulation, Data Visualization, Quantitative Analysis, Geospatial Analysis, Bayesian Statistics, Version Control | [Coding Club](https://www.linkedin.com/company/codingclub/) | 3 modules | 16 hours | ** |
-| [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) | ArcGIS, Spatial Data, Suitability Analysis, Deep Learning, Predictive Modeling, Pattern Detection, Clustering, GIS | [Esri](https://www.linkedin.com/company/esri/) | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
-| [Using Spatial Data for Biodiversity](https://www.learningfornature.org/en/courses/using-spatial-data-for-biodiversity/) | Spatial Data, Biodiversity Policies, UN Biodiversity Lab, Nature Conservation | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 4 hours | ** |
+| [Integrate Spatial Data](https://academy.safe.com/path/integrate-spatial-data) | Spatial Data, Coordinate Systems, Spatial Data Analysis | [Safe Software](https://www.linkedin.com/company/safesoftware/) | 3 modules | 2 hours | ** |
+| [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | Data-driven Decision Making, Policy Making, Data Science | [UN SDG:Learn](https://www.linkedin.com/company/un-sdg-learn/) | 3 modules | 2.5-3 hours | ** |
+| [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) |  | [UN SDG:Learn](https://www.linkedin.com/company/un-sdg-learn/) |  modules |  hours | ** |
 | []() |  | []() |  modules |  hours | ** |
+| [Using Spatial Data for Biodiversity](https://www.learningfornature.org/en/courses/using-spatial-data-for-biodiversity/) | Spatial Data, Biodiversity Policies, UN Biodiversity Lab, Nature Conservation | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 4 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
@@ -135,12 +137,11 @@ This is an archive of contents.
 | [Data Science for Ecology](https://wec.wur.nl/dse/) | R, Data Processing, ML | 6 weeks | Exercises | :x: |
 | [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data) | GIS, ArcGIS, Data Management, SQLite | 4 modules | Quiz | :moneybag: |
 | [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | Data-driven decision | 3 weeks | Quiz | :white_check_mark: |
-| [Data Skills for Global Development](https://statistics.unsdglearn.org/courses/opening-the-appetite-data-skills-for-global-development-training-programme/) | Data Collection, Data Manipulation | 5 modules | Quiz | :white_check_mark: |
 | [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) | Data Collection, Data Manipulation | 2 hours | Quiz | :white_check_mark: |
-| [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) |  | 6 weeks | Exercises | :white_check_mark: |
 | [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) |  | 15 lessons | Exercises | :white_check_mark: |
 | [Pathway to Data Governance](https://www.georgefox.edu/pathways/courses/data-governance.html) |  | 4 modules | Quiz | :question: |
 | [Introduction to the Fundamentals of Databases](https://www.simplilearn.com/learn-basics-of-databases-free-course-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
+| [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) | ArcGIS, Spatial Data, Suitability Analysis, Deep Learning, Predictive Modeling, Pattern Detection, Clustering, GIS | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
 <!--| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) |  | 4 weeks | Exercises | :credit_card: |-->
 
 ## Environment
