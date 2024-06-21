@@ -44,28 +44,25 @@ This is an archive of contents.
 - [Visualization](#visualization)
 - [Zero](#zero)
 
-## Analytics
+## Analytics :heavy_check_mark:
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
-| [Introduction to Data Analytics](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup) | Types, Plots, Visualization, Methodologies, Frameworks, Trends | [Simplilearn](https://www.linkedin.com/company/simplilearn/) | 7 modules | 3 hours | *90 Days of Access* |
-| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS, Spatial Data, Analysis Techinque, Spatial Relationships, Distribution Patterns, Predictions, GIS | [Esri](https://www.linkedin.com/company/esri/) | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
 | [Data Analytics Essentials](https://skillsforall.com/course/data-analytics-essentials?courseLang=en-US) | Excel, SQL, Tableau, Preparation, Cleaning, Transforming, Statistics, Relational Databases, Structuring, Ethics, Bias | [Cisco](https://www.linkedin.com/company/cisco/) | 10 modules | 30 hours | ** |
-| [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) |  | [ITCILO](https://www.linkedin.com/school/the-international-training-centre-of-the-ilo/) | 4 modules | 4-5 hours | ** |
+| [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis) | Python, GeoPandas, Coordinate Reference Systems, Interactive Maps, Geospatial Data Manipulation, Proximity Analysis | [Kaggle](https://www.linkedin.com/company/kaggle/) | 5 modules | 4 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
 | [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) | Learning, Ethics, Privacy, Legal | 4 modules | Quiz | :white_check_mark: |
 | [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
 | [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, Git | 5 weeks | Exercises | :x: |
+| [Introduction to Data Analytics](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup) | Types, Plots, Visualization, Methodologies, Frameworks, Trends | 7 modules | 3 hours | *90 Days of Access* |
+| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS, Spatial Data, Analysis Techinque, Spatial Relationships, Distribution Patterns, Predictions, GIS | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
 
 ## Business
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Startup School](https://www.startupschool.org/) | Startup, Ideas, Founding, MVP, Launching, Growing, Financing, Company Building, Stories | [Y Combinator](https://www.linkedin.com/school/y-combinator/) | 8 modules | 7-14 hours | *Active Founder or Aspiring Founder track is determined based on work situation* |
-| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Startup, Ideas, MVP, Founding, Company Building, Financing, Growing | [Aalto University](https://www.linkedin.com/school/aalto-university/) | 9 modules | 50 hours | ** |
 | [Small Business Essentials](https://www.scu.edu/mobi/business-courses/small-business-essentials/) | Business Choosing, Business Plan, Business Types, Organization, Financing, Accounting, Communication, Marketing, Selling, Ecommerce | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules | 10-40 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
-| [Quick Start Entrepreneur](https://www.scu.edu/mobi/business-courses/quick-start-entrepreneur/) | Business Choosing, Business Types, Financing, Accounting, Organization, Licenses, Communication, Negotiating, Ecommerce, Marketing + *Selling, Controlling, Ethical Decisions, Adapting, Storytelling, Microfinance* | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules + *6 bonus modules* | 10-40 hours + *6-24 hours* | *Student must pass a quiz for each module with a score of 70% or higher* |
 | [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) | Business Choosing, Business Plan, Business Types, Financing, Organization, Licenses, Business Risk, Communication, Buying Business, Choosing Location, Accounting, Ecommerce, Marketing, Managing Employees, Expanding | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
 | [Business Expansion](https://www.scu.edu/mobi/business-courses/business-expansion/) | Financial Controls, Team, Customer Experience, Lowering Expense, Negotiating, Capital Allocation, Digital Marketing, Growth, Integration, Franchising, Global Expansion, Buying Businesses, Public Ownership, Selling, Family Succession | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
 
@@ -77,12 +74,17 @@ This is an archive of contents.
 | [Business Intelligence Fundamentals](https://www.simplilearn.com/free-business-intelligence-course-online-skillup) |   | 7 lessons | Exercise | :white_check_mark: |
 <!--| [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) |  | 3 weeks | Quiz | :credit_card: |-->
 
-## Computing
+## Computing :heavy_check_mark:
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Elements of AI](https://www.elementsofai.com/) | AI, AI Problem Solving, Real World AI, Machine Learning, Neural Networks, Implications, Uncertainies | [University of Helsinki](https://www.linkedin.com/school/university-of-helsinki/) | 11 modules | 90-110 hours | ** |
 | [AI Fundamentals](https://skillsforall.com/course/ai-ibm-skillsbuild?courseLang=en-US) | AI, Natural Language Processing, Computer Vision, Machine Learning, Deep Learning, AI Models, AI Ethics | [IBM](https://www.linkedin.com/company/ibm/) | 4 modules | 10 hours | ** |
-| []() |  | []() |  modules |  hours | ** |
+| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | Python, Pandas, scikit-learn, Machine Learning, Data Exploration, Model Validation, Fine-tuning | [Kaggle](https://www.linkedin.com/company/kaggle/) | 7 modules | 3 hours | ** |
+| [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) | Python, Pandas, TensorFlow, Machine Learning, Neural Networks, Fine-tuning, Normalization, Classification | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 4 hours | ** |
+| [Computer Vision](https://www.kaggle.com/learn/computer-vision) | Python, TensorFlow, Machine Learning, Neural Networks, Convolution, Pooling, Data Augmentation | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 4 hours | ** |
+| [Time Series](https://www.kaggle.com/learn/time-series) | Python, Pandas, scikit-learn, Machine Learning, Trend, Seasonality, Forecasting | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 5 hours | ** |
+| [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | AI, Ethics, Human-Centered Design, Identifying Bias, Fairness, Model Cards | [Kaggle](https://www.linkedin.com/company/kaggle/) | 5 modules | 4 hours | ** |
+| [Artificial Intelligence](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Artificial+Intelligence+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) | AI, Machine Learning, Ethics, Technology Platforms, Legal Issues | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 5 modules | 42 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
@@ -102,7 +104,6 @@ This is an archive of contents.
 | [IoT for Beginners](https://microsoft.github.io/IoT-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
 | [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
 | [XR Development for Beginners](https://microsoft.github.io/xr-development-for-beginners/#/) |  | 8 weeks | Exercises | :x: |
-| [Artificial Intelligence](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Artificial+Intelligence+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 5 courses | Quiz | :white_check_mark: |
 | [Machine Learning using Python](https://www.simplilearn.com/learn-machine-learning-basics-skillup) |  | 8 lessons | Quiz | :white_check_mark: |
 | [Introduction to Cloud Computing](https://www.simplilearn.com/introduction-to-cloud-computing-basics-skillup) |  | 7 lessons | Exercises | :white_check_mark: |
 | [Introduction to Supervised & Unsupervised Machine Learning](https://www.simplilearn.com/introduction-to-supervised-unsupervised-learning-for-beginners-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
@@ -166,6 +167,9 @@ This is an archive of contents.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Biodiversity Finance](https://www.learningfornature.org/en/courses/biodiversity-finance/) | Biodiversity Finance, Policies, Biodiversity Expenditure, Biodiversity Financial Assessment, Biodiversity Finance Plan, Implementation | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 14 hours | ** |
 | [Green Entrepreneurship](https://www.learningfornature.org/en/courses/green-entrepreneurship-2022/) | Green Business Idea, Positive Impact, Customer, Stakeholders, Green Business Model, Financing, Growth | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 18 hours | ** |
+| [Startup School](https://www.startupschool.org/) | Startup, Ideas, Founding, MVP, Launching, Growing, Financing, Company Building, Stories | [Y Combinator](https://www.linkedin.com/school/y-combinator/) | 8 modules | 7-14 hours | *Active Founder or Aspiring Founder track is determined based on work situation* |
+| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Startup, Ideas, MVP, Founding, Company Building, Financing, Growing | [Aalto University](https://www.linkedin.com/school/aalto-university/) | 9 modules | 50 hours | ** |
+| [Quick Start Entrepreneur](https://www.scu.edu/mobi/business-courses/quick-start-entrepreneur/) | Business Choosing, Business Types, Financing, Accounting, Organization, Licenses, Communication, Negotiating, Ecommerce, Marketing + *Selling, Controlling, Ethical Decisions, Adapting, Storytelling, Microfinance* | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules + *6 bonus modules* | 10-40 hours + *6-24 hours* | *Student must pass a quiz for each module with a score of 70% or higher* |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -437,6 +441,7 @@ BIM, CAD, FEA, GIS, IFC
 ## Visualization
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Data Visualization](https://www.kaggle.com/learn/data-visualization) | Python, Seaborn | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 4 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
