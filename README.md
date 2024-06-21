@@ -59,13 +59,17 @@ This is an archive of contents.
 | [Introduction to Data Analytics](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup) | Types, Plots, Visualization, Methodologies, Frameworks, Trends | 7 modules | 3 hours | *90 Days of Access* |
 | [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS, Spatial Data, Analysis Techinque, Spatial Relationships, Distribution Patterns, Predictions, GIS | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
 
-## Business
+## Business :heavy_check_mark:
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Small Business Essentials](https://www.scu.edu/mobi/business-courses/small-business-essentials/) | Business Choosing, Business Plan, Business Types, Organization, Financing, Accounting, Communication, Marketing, Selling, Ecommerce | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules | 10-40 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
 | [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) | Business Choosing, Business Plan, Business Types, Financing, Organization, Licenses, Business Risk, Communication, Buying Business, Choosing Location, Accounting, Ecommerce, Marketing, Managing Employees, Expanding | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
 | [Business Expansion](https://www.scu.edu/mobi/business-courses/business-expansion/) | Financial Controls, Team, Customer Experience, Lowering Expense, Negotiating, Capital Allocation, Digital Marketing, Growth, Integration, Franchising, Global Expansion, Buying Businesses, Public Ownership, Selling, Family Succession | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
-
+| [Introduction to Business Intelligence](https://corporatefinanceinstitute.com/course/introduction-to-business-intelligence/) | BI, Data Analysis, Data Visualization, Business Leadership, Data Engineering | [Corporate Finance Institute](https://www.linkedin.com/school/corporate-finance-institute-cfi/) | 10 modules | 1 hours | ** |
+| [Biodiversity Finance](https://www.learningfornature.org/en/courses/biodiversity-finance/) | Biodiversity Finance, Policies, Biodiversity Expenditure, Biodiversity Financial Assessment, Biodiversity Finance Plan, Implementation | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 14 hours | ** |
+| [Introduction to Sustainable Finance](https://unccelearn.org/course/view.php?id=139&page=overview) | Regulation, Self-regulation, Sustainable Finance Products, SDG, Climate Change | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 4 modules | 10 hours | *Take and pass four quizzes with minimum 70%* |
+| [Introduction to Green Economy](https://unccelearn.org/course/view.php?id=51&page=overview) | Inclusive Green Economy, Enabling Conditions, Key Sectors, Strategies, International Frameworks | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 5 modules | 10 hours | *Each of the five modules features a quiz. A quiz is passed with a score of 70% or above* |
+| [Carbon Taxation](https://unccelearn.org/course/view.php?id=87&page=overview) | Carbon Taxes, Module 2: Carbon Tax Adoption, Key Design Decisions, Avoiding Unwanted Effects, Revenues Use | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 5 modules | 12 hours | *Completing all five modules and passing the final quiz* |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
@@ -165,7 +169,6 @@ This is an archive of contents.
 ## Funding
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Biodiversity Finance](https://www.learningfornature.org/en/courses/biodiversity-finance/) | Biodiversity Finance, Policies, Biodiversity Expenditure, Biodiversity Financial Assessment, Biodiversity Finance Plan, Implementation | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 14 hours | ** |
 | [Green Entrepreneurship](https://www.learningfornature.org/en/courses/green-entrepreneurship-2022/) | Green Business Idea, Positive Impact, Customer, Stakeholders, Green Business Model, Financing, Growth | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 18 hours | ** |
 | [Startup School](https://www.startupschool.org/) | Startup, Ideas, Founding, MVP, Launching, Growing, Financing, Company Building, Stories | [Y Combinator](https://www.linkedin.com/school/y-combinator/) | 8 modules | 7-14 hours | *Active Founder or Aspiring Founder track is determined based on work situation* |
 | [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Startup, Ideas, MVP, Founding, Company Building, Financing, Growing | [Aalto University](https://www.linkedin.com/school/aalto-university/) | 9 modules | 50 hours | ** |
@@ -178,18 +181,15 @@ This is an archive of contents.
 | [Technology Entrepreneurship](https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market) | Entrepreneurship, R&D, Innovation, Product/market fit | 5 weeks | Quiz | :moneybag::moneybag: | <!--€138-->
 | [Entrepreneurship for Engineers](https://www.edx.org/learn/entrepreneurship/delft-university-of-technology-entrepreneurship-for-engineers) | MVP, Strategy, Finance, Business model | 8 weeks | Quiz | :moneybag::moneybag: | <!--€92-->
 | [Entrepreneurship](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=100&search=Entrepreneur&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 4 courses | Quiz | :white_check_mark: |
-| [Introduction to Sustainable Finance](https://unccelearn.org/course/view.php?id=139&page=overview) |  | 4 modules | Quiz | :white_check_mark: |
-| [Introduction to Green Economy](https://unccelearn.org/course/view.php?id=51&page=overview) |  | 5 modules | Quiz | :white_check_mark: |
 | [Introduction to Data Economy](https://www.osaango.academy/courses/introduction-to-data-economy) |  | 4 modules | Quiz | :x: |
 | [Introduction to API Economy](https://www.osaango.academy/courses/intro-to-api-economy) |  | 3 modules | Quiz | :x: |
-| [Carbon Taxation](https://unccelearn.org/course/view.php?id=87&page=overview) |  | 5 modules | Quiz | :white_check_mark: |
-| [Introduction to Sustainable Finance Taxonomies](https://unccelearn.org/course/view.php?id=160&page=overview) |  | 4 modules | Quiz | :white_check_mark: |
-| [Indicators for an inclusive green economy](https://unccelearn.org/course/view.php?id=122&page=overview) |  | 4 modules | Quiz | :white_check_mark: |
-| [Green Industrial Policy](https://unccelearn.org/course/view.php?id=94&page=overview) |  | 5 modules | Quiz | :white_check_mark: |
 
 ## Guideline
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Indicators for an inclusive green economy](https://unccelearn.org/course/view.php?id=122&page=overview) |  | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 4 modules | 3 hours | *The quiz can be taken at any time and attempted up to three times. Learners need to pass the quiz with a score of at least 70%* |
+| [Green Industrial Policy](https://unccelearn.org/course/view.php?id=94&page=overview) |  | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 5 modules |  hours | *Passing the final quiz* |
+| [Introduction to Sustainable Finance Taxonomies](https://unccelearn.org/course/view.php?id=160&page=overview) | Sustainable Finance Taxonomies, EU Taxonomy, China Taxonomy, Taxonomy Development Principles | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 4 modules | 3.5-4 hours | *Pass the quiz at the end of every module with a minimum of 70%* |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
