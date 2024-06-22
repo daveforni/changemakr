@@ -79,6 +79,7 @@ This is an archive of contents.
 | [Technologies and platforms for Artificial Intelligence](https://www.pok.polimi.it/course/view.php?id=9#courseTabContent) | IT and AI, AI on Cloud, Embedded and Edge AI, Challenges and Opportunities | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
 | [Artificial Intelligence and legal issues](https://www.pok.polimi.it/course/view.php?id=133#courseTabContent) | AI, Law and Legal Issues, Liability, Intellectual Property, Fundamental Rights Risks | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
 | [Ethics of Artificial Intelligence](https://www.pok.polimi.it/course/view.php?id=52#courseTabContent) | Ethics and Responsibility, Case-studies, Ethical Frameworks, Issues and Challenges, Governance and Policies | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
+| [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Python, TensorFlow, Neural Networks, Natural Language Process | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
 
 ## Data
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -93,6 +94,7 @@ This is an archive of contents.
 | [Data and processes in computing](https://www.open.edu/openlearn/digital-computing/data-and-processes-computing?active-tab=description-tab) | Data Storing, Data Processing, Data Formats | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 5 modules | 14 hours | ** |
 | [Exploring data: Graphs and numerical summaries](https://www.open.edu/openlearn/science-maths-technology/mathematics-statistics/exploring-data-graphs-and-numerical-summaries/content-section-0?active-tab=description-tab) | Graphs, Charts, Plots, Numerical Summaries | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 6 modules | 20 hours | ** |
 | [Using Spatial Data for Biodiversity](https://www.learningfornature.org/en/courses/using-spatial-data-for-biodiversity/) | Spatial Data, Biodiversity Policies, UN Biodiversity Lab, Nature Conservation | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 4 hours | ** |
+| [Relational Database](https://www.freecodecamp.org/learn/relational-database/) | Bash, SQL, Git, PostgreSQL | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 14 modules |  hours | ** |
 
 ## Environment
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -275,11 +277,8 @@ This is an archive of contents.
 | [Python Programming](https://programming-24.mooc.fi/) |  | 10 ECTS | Exercises | :x: |
 | [Geo-Python](https://geo-python-site.readthedocs.io/en/latest/) |  | 5 ECTS | Exercises | :x: |
 | [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) |  | 4 chapters | Quiz | :white_check_mark: |
-| [Python for Beginners](https://www.simplilearn.com/learn-python-basics-free-course-skillup) | Variables, Numbers, Tuples, Strings, Dictionaries, Statements, Loops, Array, Functions, Objects, Classes, Threading, Scripting, Libraries, Web Scraping | 25 lessons | Exercise | :white_check_mark: |
 | [Foundational C# with Microsoft](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/) |  | 6 chapters | Quiz | :white_check_mark: |
-| [Python Libraries for Data Science](https://www.simplilearn.com/learn-python-libraries-free-course-skillup) | Jupyter, NumPy, Pandas, Matplotlib, scikit-learn, BeautifulSoup, TensorFlow | 6 lessons | Exercise | :white_check_mark: |
 | [Grasshopper Essentials](https://academy.archistar.ai/courses/grasshopper-essentials) |  | 5 modules | Exercise | :white_check_mark: |
-| [Introduction to SQL](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | MySQL, Python, PostgreSQL | 10 lessons | Exercise | :white_check_mark: |
 | [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql) |  | 6 lessons | Exercise | :white_check_mark: |
 | [Introduction to LaTeX](https://www.geo.university/courses/introduction-to-latex) |  | 9 lessons | Exercise | :white_check_mark: |
 | [Introduction to Remote Sensing](https://www.geo.university/courses/introduction-to-remote-sensing) |  | 4 lessons | Exercise | :white_check_mark: |
