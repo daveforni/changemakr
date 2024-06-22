@@ -47,21 +47,28 @@ This is an archive of contents.
 ## Analytics
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
 | [Data Analytics Essentials](https://skillsforall.com/course/data-analytics-essentials?courseLang=en-US) | Excel, SQL, Tableau, Preparation, Cleaning, Transforming, Statistics, Relational Databases, Structuring, Ethics, Bias | [Cisco](https://www.linkedin.com/company/cisco/) | 10 modules | 30 hours | ** |
+| [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
 | [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis) | Python, GeoPandas, Coordinate Reference Systems, Interactive Maps, Geospatial Data Manipulation, Proximity Analysis | [Kaggle](https://www.linkedin.com/company/kaggle/) | 5 modules | 4 hours | ** |
+
 | [Data analysis: visualisations in Excel](https://www.open.edu/openlearn/science-maths-technology/data-analysis-visualisations-excel/content-section-0?active-tab=description-tab) | Excel, Data Gathering, Graphical Techniques, Data Presentation | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 3 modules | 6 hours | ** |
 
 ## Business
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Small Business Essentials](https://www.scu.edu/mobi/business-courses/small-business-essentials/) | Business Choosing, Business Plan, Business Types, Organization, Financing, Accounting, Communication, Marketing, Selling, Ecommerce | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules | 10-40 hours | *Pass a quiz for each module with a score of 70% or higher* |
-| [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) | Business Choosing, Business Plan, Business Types, Financing, Organization, Licenses, Business Risk, Communication, Buying Business, Choosing Location, Accounting, Ecommerce, Marketing, Managing Employees, Expanding | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Pass a quiz for each module with a score of 70% or higher* |
-| [Business Expansion](https://www.scu.edu/mobi/business-courses/business-expansion/) | Financial Controls, Team, Customer Experience, Lowering Expense, Negotiating, Capital Allocation, Digital Marketing, Growth, Integration, Franchising, Global Expansion, Buying Businesses, Public Ownership, Selling, Family Succession | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Pass a quiz for each module with a score of 70% or higher* |
 | [Introduction to Business Intelligence](https://corporatefinanceinstitute.com/course/introduction-to-business-intelligence/) | BI, Data Analysis, Data Visualization, Business Leadership, Data Engineering | [Corporate Finance Institute](https://www.linkedin.com/school/corporate-finance-institute-cfi/) | 10 modules | 1 hours | ** |
-| [Biodiversity Finance](https://www.learningfornature.org/en/courses/biodiversity-finance/) | Biodiversity Finance, Policies, Biodiversity Expenditure, Biodiversity Financial Assessment, Biodiversity Finance Plan, Implementation | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 14 hours | ** |
 | [Introduction to Sustainable Finance](https://unccelearn.org/course/view.php?id=139&page=overview) | Regulation, Self-regulation, Sustainable Finance Products, SDG, Climate Change | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 4 modules | 10 hours | *Take and pass four quizzes with minimum 70%* |
 | [Introduction to Green Economy](https://unccelearn.org/course/view.php?id=51&page=overview) | Inclusive Green Economy, Enabling Conditions, Key Sectors, Strategies, International Frameworks | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 5 modules | 10 hours | *Each of the five modules features a quiz. A quiz is passed with a score of 70% or above* |
+| [Fundamentals of accounting](https://www.open.edu/openlearn/money-business/fundamentals-accounting/content-section-overview?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 4 modules | 8 hours | ** |
+| [Introduction to business agility](https://www.open.edu/openlearn/money-business/introduction-business-agility/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 9 modules | 2 hours | ** |
+| [Commercial awareness](https://www.open.edu/openlearn/money-business/leadership-management/commercial-awareness/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 8 modules | 2 hours | ** |
+| [Different types of business](https://www.open.edu/openlearn/money-business/business-strategy-studies/different-types-business/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 6 modules | 3 hours | ** |
+
+
+| [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) | Business Choosing, Business Plan, Business Types, Financing, Organization, Licenses, Business Risk, Communication, Buying Business, Choosing Location, Accounting, Ecommerce, Marketing, Managing Employees, Expanding | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Pass a quiz for each module with a score of 70% or higher* |
+| [Business Expansion](https://www.scu.edu/mobi/business-courses/business-expansion/) | Financial Controls, Team, Customer Experience, Lowering Expense, Negotiating, Capital Allocation, Digital Marketing, Growth, Integration, Franchising, Global Expansion, Buying Businesses, Public Ownership, Selling, Family Succession | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Pass a quiz for each module with a score of 70% or higher* |
+| [Biodiversity Finance](https://www.learningfornature.org/en/courses/biodiversity-finance/) | Biodiversity Finance, Policies, Biodiversity Expenditure, Biodiversity Financial Assessment, Biodiversity Finance Plan, Implementation | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 14 hours | ** |
 | [Carbon Taxation](https://unccelearn.org/course/view.php?id=87&page=overview) | Carbon Taxes, Module 2: Carbon Tax Adoption, Key Design Decisions, Avoiding Unwanted Effects, Revenues Use | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 5 modules | 12 hours | *Completing all five modules and passing the final quiz* |
 
 ## Computing
@@ -204,8 +211,6 @@ This is an archive of contents.
 | :--- | :--- | :--- | :--- | :--- |
 | [ClimateComms](https://climateuniversity.fi/portfolio-items/climatecomms-now/) |  | 2 ECTS | Exercises | :x: |
 | [Leadership for sustainable change](https://climateuniversity.fi/portfolio-items/leadforsust/) |  | 5 ECTS | Exercises | :x: |
-| [Strategic Communication for Sustainability Leaders](https://www.edx.org/learn/sustainability/university-of-maryland-center-for-environmental-science-strategic-communication-for-sustainability-leaders) |  | 5 weeks | Quiz | :credit_card: €138 |
-| [Strategy and Leadership](https://www.edx.org/learn/engineering/massachusetts-institute-of-technology-management-in-engineering-strategy-and-leadership) |  | 8 weeks | Quiz | :credit_card: €162 |
 | [Introduction to Resource Efficiency and Circular Production for SMEs](https://learning.intracen.org/course/info.php?id=1918) |  | 4 modules | Quiz | :white_check_mark: |
 | [Becoming a Climate Resilient SME](https://learning.intracen.org/course/info.php?id=326) |  | 4 modules | Quiz | :white_check_mark: |
 | [Communication skills for engineering scholars](https://www.pok.polimi.it/course/view.php?id=14#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
@@ -215,6 +220,7 @@ This is an archive of contents.
 ## Management
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Effective communication in the workplace](https://www.open.edu/openlearn/money-business/effective-communication-the-workplace/content-section-overview?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 8 modules | 24 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -229,6 +235,12 @@ This is an archive of contents.
 ## Network
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [How teams work](https://www.open.edu/openlearn/money-business/leadership-management/how-teams-work/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 6 modules | 10 hours | ** |
+| [Working in diverse teams](https://www.open.edu/openlearn/money-business/working-diverse-teams/content-section-overview?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 8 modules | 24 hours | ** |
+| [Working in groups and teams](https://www.open.edu/openlearn/money-business/leadership-management/working-groups-and-teams/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 8 modules | 8 hours | ** |
+| [Developing high trust work relationships](https://www.open.edu/openlearn/money-business/leadership-management/developing-high-trust-work-relationships/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 7 modules | 2 hours | ** |
+| [Difference and challenge in teams](https://www.open.edu/openlearn/money-business/leadership-management/difference-and-challenge-teams/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 6 modules | 2 hours | ** |
+| [Working in Multidisciplinary Teams](https://www.pok.polimi.it/course/view.php?id=147#courseTabContent) |  | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
