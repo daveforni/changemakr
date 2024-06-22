@@ -91,9 +91,8 @@ This is an archive of contents.
 | [Pathway to Data Governance](https://www.georgefox.edu/pathways/courses/data-governance.html) | Data Governance, Data Standards, Data Quality, Data Integrity, Data Analytics, Big Data, AI, Machine Learning | [George Fox University](https://www.linkedin.com/school/george-fox-university/) | 4 modules | 45 hours | ** |
 | [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) | Python, Pandas, Numpy, Matplotlib, Seaborn, SciPy, MLxtend | [Kaggle](https://www.linkedin.com/company/kaggle/) | 5 modules | 4 hours | ** |
 | [Data and processes in computing](https://www.open.edu/openlearn/digital-computing/data-and-processes-computing?active-tab=description-tab) | Data Storing, Data Processing, Data Formats | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 5 modules | 14 hours | ** |
+| [Exploring data: Graphs and numerical summaries](https://www.open.edu/openlearn/science-maths-technology/mathematics-statistics/exploring-data-graphs-and-numerical-summaries/content-section-0?active-tab=description-tab) | Graphs, Charts, Plots, Numerical Summaries | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 6 modules | 20 hours | ** |
 | [Using Spatial Data for Biodiversity](https://www.learningfornature.org/en/courses/using-spatial-data-for-biodiversity/) | Spatial Data, Biodiversity Policies, UN Biodiversity Lab, Nature Conservation | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 4 hours | ** |
-
-
 
 ## Environment
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -102,6 +101,7 @@ This is an archive of contents.
 | [Protected Areas and Sustainable Development](https://www.learningfornature.org/en/courses/protected-areas-and-sustainable-development/) | Protected Areas, Ecosystem Services, Food Security, Water Security, Disaster Risk Reduction, Health, Climate Change, Livelihoods, Poverty Reduction | [UNDP](https://www.linkedin.com/company/undp/) | 7 modules | 4 hours | ** |
 | [Fundamentals on REDD+](https://www.learningfornature.org/en/courses/fundamentals-on-redd/) | Climate Change, Forest Role, Deforestation, Forest Degradation, Policies, Strategies, Action Plans | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 12 hours | ** |
 | [Advancing on REDD+](https://www.learningfornature.org/en/courses/advancing-on-redd/) | Forest Monitoring Systems, Forest Reference Emission, Safeguards, Incentives Allocation, Stakeholder Engagement, Good Governance | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 12 hours | ** |
+| [Introductory on Climate Change](https://unccelearn.org/course/view.php?id=7&page=overview) | Climate Change Science, International Policy Framework, Climate Change Adaptation, Climate Change Mitigation, Climate Change Finance, Planning for Climate Change | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 6 modules | 12 hours | *All 6 modules completed with above 70% of passing scores individually* |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -112,11 +112,7 @@ This is an archive of contents.
 | [Carbon Capture and Storage](https://www.edx.org/learn/climate-change/the-university-of-edinburgh-climate-change-carbon-capture-and-storage) | GHG, Climate Change | 5 weeks | Quiz | :moneybag: | <!--€45-->
 | [Environmental SDG Indicators](https://statistics.unsdglearn.org/courses/environmental-sdg-indicators/) | SDG | 10 modules | Quiz | :white_check_mark: |
 | [Environmental Impact Assessment](https://www.iisd.org/learning/eia/) | EIA | 2 modules | Quiz | :x: |
-| [Introductory on Climate Change](https://unccelearn.org/course/view.php?id=7&page=overview) |  | 6 modules | Quiz | :white_check_mark: |
-| [Fundamentals on REDD+](https://unccelearn.org/course/view.php?id=45&page=overview) |  | 6 modules | Quiz | :white_check_mark: |
-| [Advancing on REDD+](https://unccelearn.org/course/view.php?id=47&page=overview) |  | 6 modules | Quiz | :white_check_mark: |
 | [Climate Change: From Learning to Action](https://unccelearn.org/course/view.php?id=48&page=overview) |  | 6 modules | Quiz | :white_check_mark: |
-<!--| [Climate Literacy and Action for All](https://www.futurelearn.com/courses/climate-literacy-and-action-for-all) |  | 3 weeks | Exercises | :x: |-->
 
 ## Funding
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -181,8 +177,6 @@ This is an archive of contents.
 | [Nature Based Metropolitan Solutions](https://ocw.tudelft.nl/courses/nature-based-metropolitan-solutions/) | NbS | 6 modules | Exercises | :x: |
 | [Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-engineering-building-with-nature) | NbS, Integrated Design | 5 weeks | Quiz | :moneybag::moneybag: | <!--€129-->
 | [Beyond Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-beyond-engineering-building-with-nature) | NbS, Integrated Design | 6 weeks | Quiz | :moneybag::moneybag: | <!--€129-->
-| [Nature-based Solutions for Sustainable Development](https://www.learningfornature.org/en/courses/nature-based-solutions-for-sustainable-development/) |  | 4 modules | Quiz | :white_check_mark: |
-| [An Introduction to Behavior-Centered Design](https://behavior.rare.org/intro-to-bcd/) |  | 8 steps | Exercise | :x: |
 
 ## Impact
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -202,8 +196,6 @@ This is an archive of contents.
 | [Designing MRV Systems for Entity-Level Greenhouse Gas Emissions](https://ghgprotocol.org/designing-mrv-systems-entity-level-greenhouse-gas-emissions) | GHG, MRV | 4-5 hours | Exercise | :x: |
 | [Corporate Standard Training Webinar](https://ghgprotocol.org/corporate-standard-training-webinar) | GHG | 7 parts | Exercise | :x: |
 | [Scope 2 Recorded Webinar](https://ghgprotocol.org/scope-2-recorded-webinar) | GHG | 4 hours | Exercise | :moneybag: | <!--€28-->
-<!--| [Principles of Life Cycle Assessment (LCA) for Sustainability](https://www.futurelearn.com/courses/principles-of-life-cycle-assessment-for-sustainability) |  | 4 weeks | Quiz | :credit_card: |-->
-<!--| [Foundations of Life Cycle Assessment Practice](https://www.futurelearn.com/courses/foundations-of-lca) |  | 2 weeks | Quiz | :credit_card: |-->
 
 ## Leadership
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -223,7 +215,6 @@ This is an archive of contents.
 | [Communication skills for engineering scholars](https://www.pok.polimi.it/course/view.php?id=14#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
 | [Digital Creativity for developing Digital Maturity future skills](https://www.pok.polimi.it/course/view.php?id=126#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
 | [Creative and Design Thinking: process and tools for innovation](https://www.pok.polimi.it/course/view.php?id=107#courseTabContent) |  | 6 weeks | Quiz | :white_check_mark: |
-| [Digital Leadership in Business](https://www.simplilearn.com/introduction-to-digital-leadership-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
 
 ## Management
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -258,14 +249,14 @@ This is an archive of contents.
 | :--- | :--- | :--- | :--- | :--- |
 | [Pathway to Organizational Leadership](https://www.georgefox.edu/pathways/courses/organizational-leadership.html) |  | 4 modules | Quiz | :question: |
 | [PMI Kickoff](https://www.pmi.org/kickoff) |  | 1 PDU | Quiz | :white_check_mark: |
-| [Basics of Disciplined Agile](https://www.pmi.org/shop/p-/elearning/free-introduction-basics-of-disciplined-agile-online-course/daintro) |  | 1 PDUs | Quiz | :white_check_mark: |
-| [The Basics of Scrum](https://www.pmi.org/shop/p-/elearning/the-basics-of-scrum/el050) |  | 1 PDUs | Quiz | :white_check_mark: |
-| [Business Continuity](https://www.pmi.org/shop/p-/elearning/business-continuity/e00500) |  | 4.5 PDUs | Quiz | :white_check_mark: |
-| [PMI Citizen Developer™ Business Architect: CDBA Introduction](https://www.pmi.org/shop/p-/elearning/pmi-citizen-developer-business-architect-cdba-introduction/el058) |  | 1 PDU | Quiz | :white_check_mark: |
-| [Taming Bias: Using Wicked Problem Solving to Make Better Decisions and Align Teams](https://www.pmi.org/shop/p-/elearning/taming-bias-using-wicked-problem-solving-to-make-better-decisions-and-align-teams/el048) |  | 1 PDUs | Quiz | :white_check_mark: |
-| [Generative AI Overview for Project Managers](https://www.pmi.org/shop/p-/elearning/generative-ai-overview-for-project-managers/el083) |  | 5 PDUs | Quiz | :white_check_mark: |
-| [PMI® Authorized On-demand PMP® Exam Prep](https://www.pmi.org/shop/p-/elearning/free-introduction-pmi-authorized-on-demand-pmp-exam-prep/el047) |  | 1 PDUs | Quiz | :white_check_mark: |
-| [OKR Foundation](https://okrinstitute.org/courses/okr-foundation/) |  | 2 PDUs | Quiz | :white_check_mark: |
+| [Basics of Disciplined Agile](https://www.pmi.org/shop/p-/elearning/free-introduction-basics-of-disciplined-agile-online-course/daintro) |  | 1 hours | Quiz | :white_check_mark: |
+| [The Basics of Scrum](https://www.pmi.org/shop/p-/elearning/the-basics-of-scrum/el050) |  | 1 hours | Quiz | :white_check_mark: |
+| [Business Continuity](https://www.pmi.org/shop/p-/elearning/business-continuity/e00500) |  | 4.5 hours | Quiz | :white_check_mark: |
+| [PMI Citizen Developer™ Business Architect: CDBA Introduction](https://www.pmi.org/shop/p-/elearning/pmi-citizen-developer-business-architect-cdba-introduction/el058) |  | 1 hours | Quiz | :white_check_mark: |
+| [Taming Bias: Using Wicked Problem Solving to Make Better Decisions and Align Teams](https://www.pmi.org/shop/p-/elearning/taming-bias-using-wicked-problem-solving-to-make-better-decisions-and-align-teams/el048) |  | 1 hours | Quiz | :white_check_mark: |
+| [Generative AI Overview for Project Managers](https://www.pmi.org/shop/p-/elearning/generative-ai-overview-for-project-managers/el083) |  | 5 hours | Quiz | :white_check_mark: |
+| [PMI® Authorized On-demand PMP® Exam Prep](https://www.pmi.org/shop/p-/elearning/free-introduction-pmi-authorized-on-demand-pmp-exam-prep/el047) |  | 1 hours | Quiz | :white_check_mark: |
+| [OKR Foundation](https://okrinstitute.org/courses/okr-foundation/) |  | 2 hours | Quiz | :white_check_mark: |
 
 ## Programming
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -305,7 +296,7 @@ This is an archive of contents.
 | :--- | :--- | :--- | :--- | :--- |
 | [Quality Assurance](https://www.freecodecamp.org/learn/quality-assurance/) |  | 3 parts | Exercise | :white_check_mark: |
 | [Quality Management](https://hub.unido.org/training-modules-quality-management) |  | 9 modules | Exercise | :white_check_mark: |
-<!--| [Quality in Construction](https://www.futurelearn.com/courses/construction-quality) |  | 3 weeks | Quiz | :credit_card: |-->
+
 
 ## Resource
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -324,7 +315,6 @@ This is an archive of contents.
 | [Wood Science](https://www.coursera.org/learn/wood-science) |  | 4 modules | Quiz | :credit_card: |
 | [Learn the basics of 3D concrete printing](https://cybe.eu/academy/learn-the-basics-of-3d-concrete-printing/) |  | 6 hours | Quiz | :white_check_mark: |
 | [REthink, REvive, REuse](https://www.pok.polimi.it/course/view.php?id=146#courseTabContent) |  | 5 weeks | Quiz | :white_check_mark: |
-| [Sustainable Materials Management](https://www.coursera.org/learn/circular-economy) |  | 5 modules | Quiz | :credit_card: |
 | [Sustainable Management in the Extractive Industry](https://www.futurelearn.com/courses/sustainable-management-in-extractive-industry) |  | 6 weeks | Quiz | :white_check_mark: |
 
 ## Sustainability
@@ -430,12 +420,11 @@ BIM, CAD, FEA, GIS, IFC
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :---| :--- | :--- | :--- |
-| [Fundamentals of Net Zero and Decarbonisation](https://fidic.academy/courses1/fundamentals-to-net-zero-and-decarbonization-course/) |  | 40 minutes | Quiz | :white_check_mark: |
-| [Setting Science-Based Targets](https://info.unglobalcompact.org/SBTi) |  | 30 minutes | Quiz | :x: |
-| [The Net-Zero Standard](https://info.unglobalcompact.org/net-zero-standard) |  | 20 minutes | Quiz | :x: |
+| [Fundamentals of Net Zero and Decarbonisation](https://fidic.academy/courses1/fundamentals-to-net-zero-and-decarbonization-course/) |  | 40 minutes | Quiz | :question: |
+| [Setting Science-Based Targets](https://info.unglobalcompact.org/SBTi) |  | 30 minutes | Quiz | :white_check_mark: |
+| [The Net-Zero Standard](https://info.unglobalcompact.org/net-zero-standard) |  | 20 minutes | Quiz | :white_check_mark: |
 | [Climate Fit](https://smeclimatehub.org/climate-fit/) |  | 7 modules | Quiz | :x: |
 | [Introduction to decarbonized construction](https://www.eoppiva.fi/en/courses/introduction-to-decarbonized-construction/) |  | 4  modules | Quiz | :white_check_mark: |
-| [Fundamentals of Net Zero and Decarbonisation Course](https://fidic.academy/courses1/fundamentals-to-net-zero-and-decarbonization-course/) |  | 40 minutes | Quiz | :x: |
 | [Charting the path to Net Zero](https://www.xtonnes.com/challenge-page/net-zero-course) |  | 5 modules | Quiz | :x: |
 | [Introduction to Carbon Accounting](https://www.xtonnes.com/challenge-page/3e02bf08-65a4-4dfa-8670-528eb358248f) |  | 4 modules | Quiz | :x: |
 | [Carbon Reduction and Achieving Net Zero](https://www.achilles.com/training/e-learning-course-carbon-reduction-and-achieving-net-zero/) |  | 4 weeks | Quiz | :x: |
