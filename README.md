@@ -164,6 +164,7 @@ This is an archive of contents.
 | [Green Infrastructure for Coastal Cities](https://www.learningfornature.org/en/courses/green-infrastructure/) | Green Infrastructure, Green Infrastructure Planning, Green Infrastructure Project, Ecological Economy, Circular Economy | [UNDP](https://www.linkedin.com/company/undp/) | 4 modules | 12-16 hours | ** |
 | [Understanding Resilience Thinking](https://www.learningfornature.org/en/courses/nbsap-understanding-resilience-thinking/) | Resilience Thinking, Resilience Assessments, Assessment Frameworks, Conservation Actions | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 3 hours | ** |
 | [Applying Resilience Thinking to National Biodiversity Plans](https://www.learningfornature.org/en/courses/applying-resilience-thinking-to-national-biodiversity-plans/) | Biodiversity Plans, Resilience Thinking, Policymaking, Planning, Implementation | [UNDP](https://www.linkedin.com/company/undp/) | 5 modules | 3 hours | ** |
+| [Systems thinking and practice](https://www.open.edu/openlearn/digital-computing/systems-thinking-and-practice?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 5 modules | 8 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
@@ -171,14 +172,7 @@ This is an archive of contents.
 | [Built for Health Two](https://www.usgbc.org/education/sessions/built-health-season-two-12608600) | Health, Wellness | 5 modules | Exercises | :x: |
 | [Regenerative Livelihoods by Design](https://gaiauniversity.org/en/rld/) | Regenerative Design | 3 modules | Exercises | :x: |
 | [Conversations on Resilience](https://www.gaiaeducation.org/resilience-online-course) | Regenerative Design | 7 sessions | Exercises | :x: |
-| [Sustainable Urban Regeneration](https://www.coursera.org/learn/sustainable-urban-regeneration-2022) | Regenerative Design | 6 weeks | Quiz | :moneybag::moneybag: |
-| [From Sustainability to Regeneration](https://www.edx.org/learn/ethics/eth-zurich-worldviews-from-sustainability-to-regeneration) | Regenerative Design | 12 weeks | Quiz | :moneybag: | <!--€46-->
-| [Beyond Systems Thinking](https://www.edx.org/learn/social-science/eth-zurich-beyond-systems-thinking-2) | Regenerative Design, Systems Thinking | 6 weeks | Quiz | :moneybag: | <!--€46-->
-| [Nature-based Infrastructure for Climate Adaption and Sustainable Development](https://nbi.iisd.org/e-course/) | NbS, Systems Thinking | 5 modules | Exercises | :white_check_mark: |
-| [Nature-based Urban Regeneration](https://www.edx.org/learn/nature/rwth-aachen-university-nature-based-urban-regeneration) | NbS | 6 weeks | Quiz | :moneybag::moneybag: | <!--€55-->
 | [Nature Based Metropolitan Solutions](https://ocw.tudelft.nl/courses/nature-based-metropolitan-solutions/) | NbS | 6 modules | Exercises | :x: |
-| [Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-engineering-building-with-nature) | NbS, Integrated Design | 5 weeks | Quiz | :moneybag::moneybag: | <!--€129-->
-| [Beyond Building with Nature](https://www.edx.org/learn/engineering/delft-university-of-technology-beyond-engineering-building-with-nature) | NbS, Integrated Design | 6 weeks | Quiz | :moneybag::moneybag: | <!--€129-->
 
 ## Impact
 | Title | Keyword | Provider | Structure | Duration | Note |
