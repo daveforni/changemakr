@@ -44,41 +44,27 @@ This is an archive of contents.
 - [Visualization](#visualization)
 - [Zero](#zero)
 
-## Analytics :heavy_check_mark:
+## Analytics
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
 | [Data Analytics Essentials](https://skillsforall.com/course/data-analytics-essentials?courseLang=en-US) | Excel, SQL, Tableau, Preparation, Cleaning, Transforming, Statistics, Relational Databases, Structuring, Ethics, Bias | [Cisco](https://www.linkedin.com/company/cisco/) | 10 modules | 30 hours | ** |
 | [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis) | Python, GeoPandas, Coordinate Reference Systems, Interactive Maps, Geospatial Data Manipulation, Proximity Analysis | [Kaggle](https://www.linkedin.com/company/kaggle/) | 5 modules | 4 hours | ** |
+| [Data analysis: visualisations in Excel](https://www.open.edu/openlearn/science-maths-technology/data-analysis-visualisations-excel/content-section-0?active-tab=description-tab) | Excel, Data Gathering, Graphical Techniques, Data Presentation | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 3 modules | 6 hours | ** |
 
-| Course | Keyword | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- | :--- |
-| [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) | Learning, Ethics, Privacy, Legal | 4 modules | Quiz | :white_check_mark: |
-| [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
-| [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, Git | 5 weeks | Exercises | :x: |
-| [Introduction to Data Analytics](https://www.simplilearn.com/learn-data-analytics-for-beginners-skillup) | Types, Plots, Visualization, Methodologies, Frameworks, Trends | 7 modules | 3 hours | *90 Days of Access* |
-| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS, Spatial Data, Analysis Techinque, Spatial Relationships, Distribution Patterns, Predictions, GIS | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
-
-## Business :heavy_check_mark:
+## Business
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Small Business Essentials](https://www.scu.edu/mobi/business-courses/small-business-essentials/) | Business Choosing, Business Plan, Business Types, Organization, Financing, Accounting, Communication, Marketing, Selling, Ecommerce | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules | 10-40 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
-| [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) | Business Choosing, Business Plan, Business Types, Financing, Organization, Licenses, Business Risk, Communication, Buying Business, Choosing Location, Accounting, Ecommerce, Marketing, Managing Employees, Expanding | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
-| [Business Expansion](https://www.scu.edu/mobi/business-courses/business-expansion/) | Financial Controls, Team, Customer Experience, Lowering Expense, Negotiating, Capital Allocation, Digital Marketing, Growth, Integration, Franchising, Global Expansion, Buying Businesses, Public Ownership, Selling, Family Succession | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Student must pass a quiz for each module with a score of 70% or higher* |
+| [Small Business Essentials](https://www.scu.edu/mobi/business-courses/small-business-essentials/) | Business Choosing, Business Plan, Business Types, Organization, Financing, Accounting, Communication, Marketing, Selling, Ecommerce | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules | 10-40 hours | *Pass a quiz for each module with a score of 70% or higher* |
+| [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) | Business Choosing, Business Plan, Business Types, Financing, Organization, Licenses, Business Risk, Communication, Buying Business, Choosing Location, Accounting, Ecommerce, Marketing, Managing Employees, Expanding | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Pass a quiz for each module with a score of 70% or higher* |
+| [Business Expansion](https://www.scu.edu/mobi/business-courses/business-expansion/) | Financial Controls, Team, Customer Experience, Lowering Expense, Negotiating, Capital Allocation, Digital Marketing, Growth, Integration, Franchising, Global Expansion, Buying Businesses, Public Ownership, Selling, Family Succession | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Pass a quiz for each module with a score of 70% or higher* |
 | [Introduction to Business Intelligence](https://corporatefinanceinstitute.com/course/introduction-to-business-intelligence/) | BI, Data Analysis, Data Visualization, Business Leadership, Data Engineering | [Corporate Finance Institute](https://www.linkedin.com/school/corporate-finance-institute-cfi/) | 10 modules | 1 hours | ** |
 | [Biodiversity Finance](https://www.learningfornature.org/en/courses/biodiversity-finance/) | Biodiversity Finance, Policies, Biodiversity Expenditure, Biodiversity Financial Assessment, Biodiversity Finance Plan, Implementation | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 14 hours | ** |
 | [Introduction to Sustainable Finance](https://unccelearn.org/course/view.php?id=139&page=overview) | Regulation, Self-regulation, Sustainable Finance Products, SDG, Climate Change | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 4 modules | 10 hours | *Take and pass four quizzes with minimum 70%* |
 | [Introduction to Green Economy](https://unccelearn.org/course/view.php?id=51&page=overview) | Inclusive Green Economy, Enabling Conditions, Key Sectors, Strategies, International Frameworks | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 5 modules | 10 hours | *Each of the five modules features a quiz. A quiz is passed with a score of 70% or above* |
 | [Carbon Taxation](https://unccelearn.org/course/view.php?id=87&page=overview) | Carbon Taxes, Module 2: Carbon Tax Adoption, Key Design Decisions, Avoiding Unwanted Effects, Revenues Use | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 5 modules | 12 hours | *Completing all five modules and passing the final quiz* |
 
-| Course | Keyword | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- | :--- |
-| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | ESG, Business model, Innovation, Change management, Strategy | 4 modules | Exercises | :moneybag: | <!--€30-->
-| [Green Marketing Challenge](https://www.unssc.org/courses/green-marketing-challenge) | Sustainability claim, Greenwashing  | 2 hours | Exercises | :x: |
-| [Business Intelligence Fundamentals](https://www.simplilearn.com/free-business-intelligence-course-online-skillup) |   | 7 lessons | Exercise | :white_check_mark: |
-<!--| [Circular Economy](https://www.futurelearn.com/courses/circular-economy-the-big-idea) |  | 3 weeks | Quiz | :credit_card: |-->
-
-## Computing :heavy_check_mark:
+## Computing
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Elements of AI](https://www.elementsofai.com/) | AI, AI Problem Solving, Real World AI, Machine Learning, Neural Networks, Implications, Uncertainies | [University of Helsinki](https://www.linkedin.com/school/university-of-helsinki/) | 11 modules | 90-110 hours | ** |
@@ -88,34 +74,11 @@ This is an archive of contents.
 | [Computer Vision](https://www.kaggle.com/learn/computer-vision) | Python, TensorFlow, Machine Learning, Neural Networks, Convolution, Pooling, Data Augmentation | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 4 hours | ** |
 | [Time Series](https://www.kaggle.com/learn/time-series) | Python, Pandas, scikit-learn, Machine Learning, Trend, Seasonality, Forecasting | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 5 hours | ** |
 | [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | AI, Ethics, Human-Centered Design, Identifying Bias, Fairness, Model Cards | [Kaggle](https://www.linkedin.com/company/kaggle/) | 5 modules | 4 hours | ** |
-| [Artificial Intelligence](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=200&search=Artificial+Intelligence+series&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) | AI, Machine Learning, Ethics, Technology Platforms, Legal Issues | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 5 modules | 42 hours | ** |
-
-| Course | Keyword | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- | :--- |
-| [Introduction to AI](https://course.elementsofai.com/) | AI, ML, Bayesian method, Neural networks | 6 chapters | Quiz | :white_check_mark: |
-| [Building AI](https://buildingai.elementsofai.com/) | AI, ML, Bayesian method, Neural networks, Python | 5 chapters | Quiz | :moneybag: | <!--€50-->
-| [Ethics of AI](https://ethics-of-ai.mooc.fi/) | Non-maleficence, Accountability, Transparency, Human rights, Fairness | 7 chapters | Exercises | :x: |
-| [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | Values, Discrimination, Justice, Democracy | 6 chapters | Exercises | :x: |
-| [Full Stack Web Development](https://fullstackopen.com/en/) | HTML, CSS, JavaScript, React, GraphQL, TypeScript | 14 parts | Exercises | :white_check_mark: |
-| [Applied Language Technology](https://applied-language-technology.mooc.fi/html/index.html) | NLP, Python, Jupyter, spaCy | 3 parts | Exercises | :x: |
-| [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | Python, Jupyter, LaTex, Git, Bash, Sphinx | 6 parts | Exercises | :x: |
-| [Machine Learning for the Built Environment](https://3d.bk.tudelft.nl/courses/geo5017/) | ML, Regression, Clustering, Bayesian method, Neural networks, Python | 7 weeks | Exercises | :x: |
-| [AI for Built Environment](https://courses.minnalearn.com/en/courses/ai-for-built-environment/) | AI, ML | 3 chapters | Quiz | :moneybag: | <!--€50-->
-| [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum) |  | 12 weeks | Exercises | :x: |
-| [Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/) |  | 10 weeks | Exercises | :x: |
-| [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/) |  | 12 weeks | Exercises | :x: |
-| [Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
-| [IoT for Beginners](https://microsoft.github.io/IoT-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
-| [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
-| [XR Development for Beginners](https://microsoft.github.io/xr-development-for-beginners/#/) |  | 8 weeks | Exercises | :x: |
-| [Machine Learning using Python](https://www.simplilearn.com/learn-machine-learning-basics-skillup) |  | 8 lessons | Quiz | :white_check_mark: |
-| [Introduction to Cloud Computing](https://www.simplilearn.com/introduction-to-cloud-computing-basics-skillup) |  | 7 lessons | Exercises | :white_check_mark: |
-| [Introduction to Supervised & Unsupervised Machine Learning](https://www.simplilearn.com/introduction-to-supervised-unsupervised-learning-for-beginners-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
-| [Introduction to Neural Network](https://www.simplilearn.com/neural-network-training-from-scratch-free-course-skillup) |  | 12 lessons | Exercises | :white_check_mark: |
-| [Natural Language Processing (NLP) and Text Mining Tutorial for Beginners](https://www.simplilearn.com/learn-basics-of-natural-language-processing-free-course-skillup) |  | 6 lessons | Exercises | :white_check_mark: |
-| [Deep Learning for Beginners](https://www.simplilearn.com/introduction-to-deep-learning-free-course-skillup) |  | 15 lessons | Exercises | :white_check_mark: |
-| [Introduction to Prompt Engineering Fundamentals](https://www.simplilearn.com/prompt-engineering-free-course-skillup) |  | 3 lessons | Exercises | :white_check_mark: |
-| [Getting Started with Machine Learning Algorithms](https://www.simplilearn.com/learn-machine-learning-algorithms-free-course-skillup) |  | 11 lessons | Exercises | :white_check_mark: |
+| [Artificial Intelligence: An Overview](https://www.pok.polimi.it/course/view.php?id=134#courseTabContent) | AI History, AI Today, AI Research Areas, AI National Strategies, Italian-European Players | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 5 modules | 10 hours | ** |
+| [Machine Learning](https://www.pok.polimi.it/course/view.php?id=53#courseTabContent) | Supervised Learning, Unsupervised Learning, Reinforcement Learning | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 3 modules | 8 hours | ** |
+| [Technologies and platforms for Artificial Intelligence](https://www.pok.polimi.it/course/view.php?id=9#courseTabContent) | IT and AI, AI on Cloud, Embedded and Edge AI, Challenges and Opportunities | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
+| [Artificial Intelligence and legal issues](https://www.pok.polimi.it/course/view.php?id=133#courseTabContent) | AI, Law and Legal Issues, Liability, Intellectual Property, Fundamental Rights Risks | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
+| [Ethics of Artificial Intelligence](https://www.pok.polimi.it/course/view.php?id=52#courseTabContent) | Ethics and Responsibility, Case-studies, Ethical Frameworks, Issues and Challenges, Governance and Policies | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
 
 ## Data
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -130,20 +93,7 @@ This is an archive of contents.
 | [Data and processes in computing](https://www.open.edu/openlearn/digital-computing/data-and-processes-computing?active-tab=description-tab) | Data Storing, Data Processing, Data Formats | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 5 modules | 14 hours | ** |
 | [Using Spatial Data for Biodiversity](https://www.learningfornature.org/en/courses/using-spatial-data-for-biodiversity/) | Spatial Data, Biodiversity Policies, UN Biodiversity Lab, Nature Conservation | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 4 hours | ** |
 
-| Course | Keyword | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- | :--- |
-| [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | Python, Pandas, scikit-learn, Google Colab, ML, ETL | 7 weeks | Quiz | :moneybag::moneybag::moneybag: | <!--€186-->
-| [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, GIS, Git | 5 weeks | Exercises | :x: |
-| [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | Python, SQL, PySpark | 5 ECTS | Exercises | :x: |
-| [Data Science for Ecology](https://wec.wur.nl/dse/) | R, Data Processing, ML | 6 weeks | Exercises | :x: |
-| [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data) | GIS, ArcGIS, Data Management, SQLite | 4 modules | Quiz | :moneybag: |
-| [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | Data-driven Decision Making, Policy Making, Data Science | [UN SDG:Learn](https://www.linkedin.com/company/un-sdg-learn/) | 3 modules | 2.5-3 hours | ** |
-| [Introduction to Big Data](https://statistics.unsdglearn.org/courses/introduction-to-big-data/) | Data Collection, Data Manipulation | 2 hours | Quiz | :white_check_mark: |
-| [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) |  | 15 lessons | Exercises | :white_check_mark: |
-| [Pathway to Data Governance](https://www.georgefox.edu/pathways/courses/data-governance.html) |  | 4 modules | Quiz | :question: |
-| [Introduction to the Fundamentals of Databases](https://www.simplilearn.com/learn-basics-of-databases-free-course-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
-| [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) | ArcGIS, Spatial Data, Suitability Analysis, Deep Learning, Predictive Modeling, Pattern Detection, Clustering, GIS | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
-<!--| [Data Science for Climate Change](https://www.futurelearn.com/courses/data-science-for-climate-change) |  | 4 weeks | Exercises | :credit_card: |-->
+
 
 ## Environment
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -344,6 +294,7 @@ This is an archive of contents.
 | [Introduction to Remote Sensing](https://www.geo.university/courses/introduction-to-remote-sensing) |  | 4 lessons | Exercise | :white_check_mark: |
 | [Digital Image Processing with OpenCV in Python](https://www.geo.university/courses/digital-image-processing-with-opencv-in-python) |  | 6 lessons | Exercise | :white_check_mark: |
 | [Coordinate Reference Systems, Projections, and Spatial Data Representation](https://www.geo.university/courses/coordinate-reference-systems-projections-and-spatial-data-representation) |  | 3 lessons | Exercise | :white_check_mark: |
+| [Full Stack Web Development](https://fullstackopen.com/en/) | HTML, CSS, JavaScript, React, GraphQL, TypeScript | 14 parts | Exercises | :white_check_mark: |
 
 ## Quality
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -497,3 +448,45 @@ BIM, CAD, FEA, GIS, IFC
 | :--- | :---| :--- | :--- | :--- |
 | [Sustainability](https://www.una-europa.eu/study/microcredential-sustainability) |  | 5 courses | Quiz | :x: |
 | [Digital Skills](https://www.futurelearn.com/partners/accenture-uk) |  | 8 courses | Quiz | :white_check_mark: |
+
+### No Certificate
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Learning Analytics Fundamentals](https://www.itcilo.org/courses/learning-analytics-fundamentals) | Learning, Ethics, Privacy, Legal | 4 modules | Quiz | :white_check_mark: |
+| [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
+| [Spatial Analytics](https://spatial-analytics.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, Git | 5 weeks | Exercises | :x: |
+| [Going Places with Spatial Analysis](https://www.esri.com/training/catalog/57660f19bb54adb30c9454b0/going-places-with-spatial-analysis/) | ArcGIS, Spatial Data, Analysis Techinque, Spatial Relationships, Distribution Patterns, Predictions, GIS | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
+
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [The New Sustainability in Business](https://sustainablebusiness.aalto.fi/en/course/) | ESG, Business model, Innovation, Change management, Strategy | 4 modules | Exercises | :moneybag: | <!--€30-->
+| [Green Marketing Challenge](https://www.unssc.org/courses/green-marketing-challenge) | Sustainability claim, Greenwashing  | 2 hours | Exercises | :x: |
+
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Introduction to AI](https://course.elementsofai.com/) | AI, ML, Bayesian method, Neural networks | 6 chapters | Quiz | :white_check_mark: |
+| [Building AI](https://buildingai.elementsofai.com/) | AI, ML, Bayesian method, Neural networks, Python | 5 chapters | Quiz | :moneybag: | <!--€50-->
+| [Ethics of AI](https://ethics-of-ai.mooc.fi/) | Non-maleficence, Accountability, Transparency, Human rights, Fairness | 7 chapters | Exercises | :x: |
+| [AI in Society](https://courses.mooc.fi/org/uh-cs/courses/ai-in-society) | Values, Discrimination, Justice, Democracy | 6 chapters | Exercises | :x: |
+| [Applied Language Technology](https://applied-language-technology.mooc.fi/html/index.html) | NLP, Python, Jupyter, spaCy | 3 parts | Exercises | :x: |
+| [Hands-on Scientific Computing](https://handsonscicomp.readthedocs.io/en/latest/) | Python, Jupyter, LaTex, Git, Bash, Sphinx | 6 parts | Exercises | :x: |
+| [Machine Learning for the Built Environment](https://3d.bk.tudelft.nl/courses/geo5017/) | ML, Regression, Clustering, Bayesian method, Neural networks, Python | 7 weeks | Exercises | :x: |
+| [AI for Built Environment](https://courses.minnalearn.com/en/courses/ai-for-built-environment/) | AI, ML | 3 chapters | Quiz | :moneybag: | <!--€50-->
+| [AI for Beginners](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum) |  | 12 weeks | Exercises | :x: |
+| [Data Science for Beginners](https://microsoft.github.io/Data-Science-For-Beginners/#/) |  | 10 weeks | Exercises | :x: |
+| [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/#/) |  | 12 weeks | Exercises | :x: |
+| [Web Development for Beginners](https://microsoft.github.io/Web-Dev-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
+| [IoT for Beginners](https://microsoft.github.io/IoT-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
+| [ML for Beginners](https://microsoft.github.io/ML-For-Beginners/#/) |  | 12 weeks | Exercises | :x: |
+| [XR Development for Beginners](https://microsoft.github.io/xr-development-for-beginners/#/) |  | 8 weeks | Exercises | :x: |
+
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Data Science for Construction, Architecture and Engineering](https://www.edx.org/learn/data-science/the-national-university-of-singapore-data-science-for-construction-architecture-and-engineering) | Python, Pandas, scikit-learn, Google Colab, ML, ETL | 7 weeks | Quiz | :moneybag::moneybag::moneybag: | <!--€186-->
+| [Spatial Data Science for Sustainable Development](https://sustainability-gis.readthedocs.io/en/latest/) | GeoPython, GeoPandas, Jupyter, GIS, Git | 5 weeks | Exercises | :x: |
+| [Big Data Platforms](https://big-data-platforms-23.mooc.fi/) | Python, SQL, PySpark | 5 ECTS | Exercises | :x: |
+| [Data Science for Ecology](https://wec.wur.nl/dse/) | R, Data Processing, ML | 6 weeks | Exercises | :x: |
+| [GIS Data Formats, Design and Quality](https://www.coursera.org/learn/gis-data) | GIS, ArcGIS, Data Management, SQLite | 4 modules | Quiz | :moneybag: |
+| [International Data Masterclass](https://www.unsdglearn.org/courses/international-data-masterclass/) | Data-driven Decision Making, Policy Making, Data Science | [UN SDG:Learn](https://www.linkedin.com/company/un-sdg-learn/) | 3 modules | 2.5-3 hours | ** |
+| [Pathway to Data Governance](https://www.georgefox.edu/pathways/courses/data-governance.html) |  | 4 modules | Quiz | :question: |
+| [Spatial Data Science](https://www.esri.com/training/catalog/5d76dcf7e9ccda09bef61294/spatial-data-science-the-new-frontier-in-analytics/) | ArcGIS, Spatial Data, Suitability Analysis, Deep Learning, Predictive Modeling, Pattern Detection, Clustering, GIS | 6 modules | 12-18 hours | *Instructor-paced, add to waitlist if opening date is missing* |
