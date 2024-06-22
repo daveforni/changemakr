@@ -406,12 +406,12 @@ BIM, CAD, FEA, GIS, IFC
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Data Visualization](https://www.kaggle.com/learn/data-visualization) | Python, Seaborn | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 4 hours | ** |
-| []() |  | []() |  modules |  hours | ** |
+| [Visualisation: visual representations of data and information](https://www.open.edu/openlearn/science-maths-technology/visualisation-visual-representations-data-and-information/content-section-0?active-tab=description-tab) | Spreadsheet, Charts, Hierarchical Data, Geographical Data, Multi-dimensional Data | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 9 modules | 8 hours | ** |
+| [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/) | JavaScript, D3, JSON, API | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :---| :--- | :--- | :--- | :--- |
 | [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/) |  | 3 parts | Exercises | :white_check_mark: |
-| [Introduction to Data Visualization](https://www.simplilearn.com/free-data-visualization-course-online-skillup) |  | 8 lessons | Exercises | :white_check_mark: |
 
 ## Zero
 | Title | Keyword | Provider | Structure | Duration | Note |
