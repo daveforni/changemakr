@@ -64,6 +64,7 @@ This is an archive of contents.
 | [Introduction to business agility](https://www.open.edu/openlearn/money-business/introduction-business-agility/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 9 modules | 2 hours | ** |
 | [Commercial awareness](https://www.open.edu/openlearn/money-business/leadership-management/commercial-awareness/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 8 modules | 2 hours | ** |
 | [Different types of business](https://www.open.edu/openlearn/money-business/business-strategy-studies/different-types-business/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 6 modules | 3 hours | ** |
+| [Accounting Fundamentals](https://corporatefinanceinstitute.com/course/learn-accounting-fundamentals-corporate-finance/) |  | [Corporate Finance Institute](https://www.linkedin.com/school/corporate-finance-institute-cfi/) | 3 modules |  hours | ** |
 
 
 | [Starting a Business](https://www.scu.edu/mobi/business-courses/starting-a-business/) | Business Choosing, Business Plan, Business Types, Financing, Organization, Licenses, Business Risk, Communication, Buying Business, Choosing Location, Accounting, Ecommerce, Marketing, Managing Employees, Expanding | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 15 modules | 15-60 hours | *Pass a quiz for each module with a score of 70% or higher* |
@@ -197,6 +198,8 @@ This is an archive of contents.
 | [Agricultural Greenhouse Gas National Inventory](https://globalresearchalliance.org/e-learning/) | GHG | 3 parts | Exercise | :white_check_mark: |
 | [Introduction to Carbon Accounting](https://www.xtonnes.com/challenge-page/3e02bf08-65a4-4dfa-8670-528eb358248f) |  | 4 modules | Quiz | :question: |
 | [Carbon Accounting Essentials](https://www.persefoni.com/sign-up/carbon-accounting-essentials) |  | 6 chapter | Quiz | :question: |
+| [Introduction to Carbon Accounting](https://www.netnada.com.au/courses/introduction-to-carbon-accounting) |  | 8 chapter | Quiz | :question: |
+| [Greenhouse Gas Accounting](https://corporatefinanceinstitute.com/course/greenhouse-gas-accounting/) |  | 4 chapter | Quiz | :question: |
 
 ## Leadership
 | Title | Keyword | Provider | Structure | Duration | Note |
