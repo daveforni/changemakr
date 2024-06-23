@@ -184,21 +184,19 @@ This is an archive of contents.
 ## Impact
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| []() |  | []() |  modules |  hours | ** |
+| [LCA Beginner](https://ecochain.com/lca-beginner-course/) | LCA, LCA Framework, Goal and Scope, Life Cycle Inventory, Impact Assessment, LCA Interpretation | [Ecochain](https://www.linkedin.com/company/ecochain-technologies-bv/) | 7 modules | 3-4 hours | ** |
+| [Building LCA for architects](https://academy.oneclicklca.com/courses/building-lca-for-architects) | Building Sustainability, Architecture Sustainability, LCA, EPD Data, Environmental Impacts | [One Click LCA](https://www.linkedin.com/company/one-click-lca/) | 5 modules |  hours | ** |
+| [Infrastructure LCA](https://academy.oneclicklca.com/courses/infrastructure-lca-online-course) | Infrastructure Sustainability, LCA, EPD Data, Infrastructure Projects Types | [One Click LCA](https://www.linkedin.com/company/one-click-lca/) | 5 modules | 3.5 hours | ** |
+| [How to conduct building sustainability assessments](https://academy.oneclicklca.com/courses/how-to-conduct-building-sustainability-assessments) | Embodied Carbon, Relevant Standards, Sustainability Assessments, LCA, LCC, Circular Economy | [One Click LCA](https://www.linkedin.com/company/one-click-lca/) | 2 modules | 3 hours | ** |
+| [CNCA x One Click LCA: Training Course for City Officers](https://academy.oneclicklca.com/courses/cnca-x-one-click-lca-training-course-for-city-officers) | Climate Crisis, Embodied Carbon Reduction, City Policy Framework | [One Click LCA](https://www.linkedin.com/company/one-click-lca/) | 4 modules | 4.5 hours | ** |
+| [One Click LCA for Rhino and Grasshopper](https://academy.oneclicklca.com/courses/rhino-grasshopper-integration) | Rhino/Grasshopper Integration, Parametric LCA | [One Click LCA](https://www.linkedin.com/company/one-click-lca/) | 3 modules |  hours | ** |
+| [Whole life carbon – How an assessment is conducted?](https://www.eoppiva.fi/en/courses/whole-life-carbon-how-an-assessment-is-conducted/) | Whole LCA, Assessment Practise, Reporting Assessment, Assessment Quality | [eOppiva](https://www.linkedin.com/company/eoppiva/) | 5 modules | 1.5 hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Building LCA for architects](https://academy.oneclicklca.com/courses/building-lca-for-architects) | LCA | 5 hours | Quiz | :white_check_mark: |
-| [Infrastructure LCA](https://academy.oneclicklca.com/courses/infrastructure-lca-online-course) | LCA | 5 hours | Quiz | :white_check_mark: |
-| [Environmental Product Declarations](https://academy.oneclicklca.com/courses/epd-onboarding-introduction) | LCA, EPD | 5 hours | Quiz | :x: |
-| [LCA Beginner](https://ecochain.com/lca-beginner-course/) | LCA | 3.5 hours | Quiz | :white_check_mark: |
-| [Introduction to embodied carbon and LCA](https://academy.oneclicklca.com/courses/introduction-to-embodied-carbon-lca-and-sustainable-construction) | LCA, EPD | 3.5 hours | Exercise | :x: |
-| [How to conduct building sustainability assessments](https://academy.oneclicklca.com/courses/how-to-conduct-building-sustainability-assessments) | LCA, EPD, LCC | 3 hours | Exercise | :white_check_mark: |
-| [Training Course for City Officers](https://academy.oneclicklca.com/courses/cnca-x-one-click-lca-training-course-for-city-officers) | LCA, EPD, Policy | 4.5 hours | Quiz | :white_check_mark: |
 | [Agricultural Greenhouse Gas National Inventory](https://globalresearchalliance.org/e-learning/) | GHG | 3 parts | Exercise | :white_check_mark: |
-| [Designing MRV Systems for Entity-Level Greenhouse Gas Emissions](https://ghgprotocol.org/designing-mrv-systems-entity-level-greenhouse-gas-emissions) | GHG, MRV | 4-5 hours | Exercise | :x: |
-| [Corporate Standard Training Webinar](https://ghgprotocol.org/corporate-standard-training-webinar) | GHG | 7 parts | Exercise | :x: |
-| [Scope 2 Recorded Webinar](https://ghgprotocol.org/scope-2-recorded-webinar) | GHG | 4 hours | Exercise | :moneybag: | <!--€28-->
+| [Introduction to Carbon Accounting](https://www.xtonnes.com/challenge-page/3e02bf08-65a4-4dfa-8670-528eb358248f) |  | 4 modules | Quiz | :question: |
+| [Carbon Accounting Essentials](https://www.persefoni.com/sign-up/carbon-accounting-essentials) |  | 6 chapter | Quiz | :question: |
 
 ## Leadership
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -245,7 +243,6 @@ This is an archive of contents.
 
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :--- | :--- | :--- | :--- |
-| [Working in Multidisciplinary Teams](https://www.pok.polimi.it/course/view.php?id=147#courseTabContent) |  | 4 weeks | Quiz | :white_check_mark: |
 | [Social and Behaviour Change (SBC) Theory and Practice](https://agora.unicef.org/course/info.php?id=35185) |  | 4 modules | Quiz | :x: |
 
 ## Organization
@@ -337,8 +334,6 @@ SDG, SBTi, ESG
 | [Deep renovation for energy efficient residential buildings](https://www.pok.polimi.it/course/view.php?id=127#courseTabContent) |  | 6 weeks | Quiz | :white_check_mark: |
 | [The strange paradox of the world energy question](https://www.pok.polimi.it/course/view.php?id=74#courseTabContent) |  | 4 weeks | Quiz | :white_check_mark: |
 | [Circular economy in construction](https://www.eoppiva.fi/en/courses/circular-economy-in-construction/) |  | 4  modules | Quiz | :white_check_mark: |
-| [Whole life carbon – How an assessment is conducted?](https://www.eoppiva.fi/en/courses/whole-life-carbon-how-an-assessment-is-conducted/) |  | 5  modules | Quiz | :white_check_mark: |
-| [Low-carbon steering throughout the building’s life cycle](https://www.eoppiva.fi/en/courses/low-carbon-steering-throughout-the-buildings-life-cycle/) |  | 3  modules | Quiz | :white_check_mark: |
 | [Digital4Sustainability](https://www.unsdglearn.org/courses/digital4sustainability-learning-path/) |  | 4 weeks | Quiz | :white_check_mark: |
 | [Sustainable Earth](https://careercatalyst.asu.edu/programs/sustainable-earth/) | Reporting, GHG, GRI, CDP, ESG | 10 courses | Quiz | :white_check_mark: |
 | [Sustainable Urban Water Systems](https://www.pok.polimi.it/course/view.php?id=95#courseTabContent) |  | 3 weeks | Quiz | :white_check_mark: |
@@ -421,6 +416,7 @@ BIM, CAD, FEA, GIS, IFC
 ## Zero
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Low-carbon steering throughout the building’s life cycle](https://www.eoppiva.fi/en/courses/low-carbon-steering-throughout-the-buildings-life-cycle/) | Building LCA, Low-carbon Solutions, Low-carbon Emissions | [eOppiva](https://www.linkedin.com/company/eoppiva/) | 3 modules | 0.5-1 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 | Course | Keyword | Duration | Assessment | Certificate |
@@ -431,9 +427,7 @@ BIM, CAD, FEA, GIS, IFC
 | [Climate Fit](https://smeclimatehub.org/climate-fit/) |  | 7 modules | Quiz | :x: |
 | [Introduction to decarbonized construction](https://www.eoppiva.fi/en/courses/introduction-to-decarbonized-construction/) |  | 4  modules | Quiz | :white_check_mark: |
 | [Charting the path to Net Zero](https://www.xtonnes.com/challenge-page/net-zero-course) |  | 5 modules | Quiz | :x: |
-| [Introduction to Carbon Accounting](https://www.xtonnes.com/challenge-page/3e02bf08-65a4-4dfa-8670-528eb358248f) |  | 4 modules | Quiz | :x: |
 | [Carbon Reduction and Achieving Net Zero](https://www.achilles.com/training/e-learning-course-carbon-reduction-and-achieving-net-zero/) |  | 4 weeks | Quiz | :x: |
-| [Carbon Accounting Essentials](https://www.persefoni.com/sign-up/carbon-accounting-essentials) |  | 6 chapter | Quiz | :x: |
 | [Decarbonization 101](https://www.persefoni.com/sign-up/decarbonization-101) |  | 4 chapters | Quiz | :x: |
 | [Net Zero 101](https://unccelearn.org/course/view.php?id=185&page=overview) |  | 3 modules | Quiz | :white_check_mark: |
 
