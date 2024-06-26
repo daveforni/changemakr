@@ -57,7 +57,6 @@ This is an archive of contents.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Data Analytics](https://www.springboard.com/resources/learning-paths/data-analysis/) | Excel, Power BI, Tableau, Looker, SQL, Python | [Springboard](https://www.linkedin.com/school/springboard/) | 8 modules | 24 hours | ** |
 | [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024)  | Python, NumPy, Pandas, Matplotlib, SciPy, Machine Learning | [University of Helsinki](https://www.linkedin.com/school/university-of-helsinki/) | 7 modules | 135 hours | ** |
-| [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
 
 ## Business
 | Title | Keyword | Provider | Structure | Duration | Note |
