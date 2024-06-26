@@ -50,8 +50,14 @@ This is an archive of contents.
 | [Data Analytics Essentials](https://skillsforall.com/course/data-analytics-essentials?courseLang=en-US) | Excel, SQL, Tableau, Preparation, Cleaning, Transforming, Statistics, Relational Databases, Structuring, Ethics, Bias | [Cisco](https://www.linkedin.com/company/cisco/) | 10 modules | 30 hours | ** |
 | [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) | Python, NumPy, Pandas, Matplotlib, Seaborn, Jupyter, CSV, SQL, Excel | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
 | [Geospatial Analysis](https://www.kaggle.com/learn/geospatial-analysis) | Python, GeoPandas, Coordinate Reference Systems, Interactive Maps, Geospatial Data Manipulation, Proximity Analysis | [Kaggle](https://www.linkedin.com/company/kaggle/) | 5 modules | 4 hours | ** |
-
 | [Data analysis: visualisations in Excel](https://www.open.edu/openlearn/science-maths-technology/data-analysis-visualisations-excel/content-section-0?active-tab=description-tab) | Excel, Data Gathering, Graphical Techniques, Data Presentation | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 3 modules | 6 hours | ** |
+
+### No Certificate
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| [Data Analytics](https://www.springboard.com/resources/learning-paths/data-analysis/) | Excel, Power BI, Tableau, Looker, SQL, Python | [Springboard](https://www.linkedin.com/school/springboard/) | 8 modules | 24 hours | ** |
+| [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024)  | Python, NumPy, Pandas, Matplotlib, SciPy, Machine Learning | [University of Helsinki](https://www.linkedin.com/school/university-of-helsinki/) | 7 modules | 135 hours | ** |
+| [Data Analysis with Python](https://courses.mooc.fi/org/uh-cs/courses/data-analysis-with-python-2023-2024) | Pyhton, NumPy, Pandas, Matplotlib, SciPy | 7 chapters | Exercises | :x: |
 
 ## Business
 | Title | Keyword | Provider | Structure | Duration | Note |
