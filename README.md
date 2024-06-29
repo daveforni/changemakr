@@ -108,6 +108,7 @@ This is an archive of contents.
 | [Exploring data: Graphs and numerical summaries](https://www.open.edu/openlearn/science-maths-technology/mathematics-statistics/exploring-data-graphs-and-numerical-summaries/content-section-0?active-tab=description-tab) | Graphs, Charts, Plots, Numerical Summaries | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 6 modules | 20 hours | ** |
 | [Using Spatial Data for Biodiversity](https://www.learningfornature.org/en/courses/using-spatial-data-for-biodiversity/) | Spatial Data, Biodiversity Policies, UN Biodiversity Lab, Nature Conservation | [UNDP](https://www.linkedin.com/company/undp/) | 3 modules | 4 hours | ** |
 | [Relational Database](https://www.freecodecamp.org/learn/relational-database/) | Bash, SQL, Git, PostgreSQL | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 14 modules |  hours | ** |
+| [Intro to Artificial Intelligence](https://start.lewagon.com/courses/intro-to-artificial-intelligence) | AI | 8 hours | Exercises | :white_check_mark: |
 
 ## Environment
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -298,6 +299,10 @@ This is an archive of contents.
 | [Full Stack Web Development](https://fullstackopen.com/en/) | HTML, CSS, JavaScript, React, GraphQL, TypeScript | 14 parts | Exercises | :white_check_mark: |
 | [Intro to Git & GitHub](https://start.lewagon.com/courses/intro-to-git-github) | Git, GitHub | 4 hours | Exercises | :white_check_mark: |
 | [Scrape the web with Python](https://start.lewagon.com/courses/scrape-the-web-with-python) | Python | 4 hours | Exercises | :white_check_mark: |
+| [Intro to Docker](https://start.lewagon.com/courses/intro-to-docker) | Docker | 4 hours | Exercises | :white_check_mark: |
+| [Intro to No-code](https://start.lewagon.com/courses/intro-to-no-code) |  | 4 hours | Exercises | :white_check_mark: |
+| [Intro to SQL](https://start.lewagon.com/courses/intro-to-sql) | SQL | 8 hours | Exercises | :white_check_mark: |
+| [Launch your side project with Javascript](https://start.lewagon.com/courses/launch-your-side-project-with-javascript) | JavaScript | 8 hours | Exercises | :white_check_mark: |
 
 ## Quality
 | Title | Keyword | Provider | Structure | Duration | Note |
