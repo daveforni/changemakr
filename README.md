@@ -296,6 +296,8 @@ This is an archive of contents.
 | [Digital Image Processing with OpenCV in Python](https://www.geo.university/courses/digital-image-processing-with-opencv-in-python) |  | 6 lessons | Exercise | :white_check_mark: |
 | [Coordinate Reference Systems, Projections, and Spatial Data Representation](https://www.geo.university/courses/coordinate-reference-systems-projections-and-spatial-data-representation) |  | 3 lessons | Exercise | :white_check_mark: |
 | [Full Stack Web Development](https://fullstackopen.com/en/) | HTML, CSS, JavaScript, React, GraphQL, TypeScript | 14 parts | Exercises | :white_check_mark: |
+| [Intro to Git & GitHub](https://start.lewagon.com/courses/intro-to-git-github) | Git, GitHub | 4 hours | Exercises | :white_check_mark: |
+| [Scrape the web with Python](https://start.lewagon.com/courses/scrape-the-web-with-python) | Python | 4 hours | Exercises | :white_check_mark: |
 
 ## Quality
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -409,6 +411,7 @@ BIM, CAD, FEA, GIS, IFC
 | [UX Design](https://www.springboard.com/resources/learning-paths/user-experience-design/) | UX, UI | 17 units | Quiz | :question: |
 | [Introduction to Graphic Design: Basics of UI/UX](https://www.simplilearn.com/free-graphic-design-beginner-course-skillup) |  | 2 lessons | Exercises | :white_check_mark: |
 | [Website UI/UX Designing using ChatGPT: Become a UI UX designer](https://www.simplilearn.com/free-website-design-course-chatgpt-skillup) |  | 3 lessons | Exercises | :white_check_mark: |
+| [Intro to UI/UX design](https://start.lewagon.com/courses/intro-to-ui-ux-design) | Python | 4 hours | Exercises | :white_check_mark: |
 
 ## Visualization
 | Title | Keyword | Provider | Structure | Duration | Note |
