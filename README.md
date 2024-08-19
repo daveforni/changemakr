@@ -25,7 +25,7 @@ This is an archive of contents.
 - [Analytics](#analytics)
 - [Business](#business)
 - [Capital](#capital)
-- [Data](#data)
+- [Design](#design)
 - [Environment](#environment)
 - [Field](#field)
 - [Guideline](#guideline)
@@ -94,7 +94,7 @@ This is an archive of contents.
 | [Ethics of Artificial Intelligence](https://www.pok.polimi.it/course/view.php?id=52#courseTabContent) | Ethics and Responsibility, Case-studies, Ethical Frameworks, Issues and Challenges, Governance and Policies | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
 | [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Python, TensorFlow, Neural Networks, Natural Language Process | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
 
-## Data
+## Design
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Introduction to Data Science](https://skillsforall.com/course/introduction-data-science?courseLang=en-US) | Collection, Storage, AI, Machine Learning | [Cisco](https://www.linkedin.com/company/cisco/) | 4 modules | 6 hours | ** |
