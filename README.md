@@ -28,9 +28,11 @@ This is an archive of contents.
 - [Design](#design)
 - [Environment](#environment)
 - [Field](#field)
-- [Guideline](#guideline)
+- [Guidance](#guidance)
 - [Holistic](#holistic)
 - [Information](#information)
+- [Judgement](#judgement)
+- [Knowledge](#knowledge)
 - [Leadership](#leadership)
 - [Management](#management)
 - [Networking](#networking)
@@ -42,7 +44,10 @@ This is an archive of contents.
 - [Technology](#technology)
 - [Usability](#usability)
 - [Visualization](#visualization)
-- [Zero](#zero)
+- [Writing](#writing)
+- [X](#x)
+- [Yield](#yield)
+- [Zeroing](#zeroing)
 
 ## Analytics
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -80,19 +85,20 @@ This is an archive of contents.
 ## Capital
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Elements of AI](https://www.elementsofai.com/) | AI, AI Problem Solving, Real World AI, Machine Learning, Neural Networks, Implications, Uncertainies | [University of Helsinki](https://www.linkedin.com/school/university-of-helsinki/) | 11 modules | 90-110 hours | ** |
-| [AI Fundamentals](https://skillsforall.com/course/ai-ibm-skillsbuild?courseLang=en-US) | AI, Natural Language Processing, Computer Vision, Machine Learning, Deep Learning, AI Models, AI Ethics | [IBM](https://www.linkedin.com/company/ibm/) | 4 modules | 10 hours | ** |
-| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | Python, Pandas, scikit-learn, Machine Learning, Data Exploration, Model Validation, Fine-tuning | [Kaggle](https://www.linkedin.com/company/kaggle/) | 7 modules | 3 hours | ** |
-| [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) | Python, Pandas, TensorFlow, Machine Learning, Neural Networks, Fine-tuning, Normalization, Classification | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 4 hours | ** |
-| [Computer Vision](https://www.kaggle.com/learn/computer-vision) | Python, TensorFlow, Machine Learning, Neural Networks, Convolution, Pooling, Data Augmentation | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 4 hours | ** |
-| [Time Series](https://www.kaggle.com/learn/time-series) | Python, Pandas, scikit-learn, Machine Learning, Trend, Seasonality, Forecasting | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 5 hours | ** |
-| [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | AI, Ethics, Human-Centered Design, Identifying Bias, Fairness, Model Cards | [Kaggle](https://www.linkedin.com/company/kaggle/) | 5 modules | 4 hours | ** |
-| [Artificial Intelligence: An Overview](https://www.pok.polimi.it/course/view.php?id=134#courseTabContent) | AI History, AI Today, AI Research Areas, AI National Strategies, Italian-European Players | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 5 modules | 10 hours | ** |
-| [Machine Learning](https://www.pok.polimi.it/course/view.php?id=53#courseTabContent) | Supervised Learning, Unsupervised Learning, Reinforcement Learning | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 3 modules | 8 hours | ** |
-| [Technologies and platforms for Artificial Intelligence](https://www.pok.polimi.it/course/view.php?id=9#courseTabContent) | IT and AI, AI on Cloud, Embedded and Edge AI, Challenges and Opportunities | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
-| [Artificial Intelligence and legal issues](https://www.pok.polimi.it/course/view.php?id=133#courseTabContent) | AI, Law and Legal Issues, Liability, Intellectual Property, Fundamental Rights Risks | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
-| [Ethics of Artificial Intelligence](https://www.pok.polimi.it/course/view.php?id=52#courseTabContent) | Ethics and Responsibility, Case-studies, Ethical Frameworks, Issues and Challenges, Governance and Policies | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
-| [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Python, TensorFlow, Neural Networks, Natural Language Process | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
+| [Green Entrepreneurship](https://www.learningfornature.org/en/courses/green-entrepreneurship-2022/) | Green Business Idea, Positive Impact, Customer, Stakeholders, Green Business Model, Financing, Growth | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 18 hours | ** |
+| [Startup School](https://www.startupschool.org/) | Startup, Ideas, Founding, MVP, Launching, Growing, Financing, Company Building, Stories | [Y Combinator](https://www.linkedin.com/school/y-combinator/) | 8 modules | 7-14 hours | *Active Founder or Aspiring Founder track is determined based on work situation* |
+| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Startup, Ideas, MVP, Founding, Company Building, Financing, Growing | [Aalto University](https://www.linkedin.com/school/aalto-university/) | 9 modules | 50 hours | ** |
+| [Quick Start Entrepreneur](https://www.scu.edu/mobi/business-courses/quick-start-entrepreneur/) | Business Choosing, Business Types, Financing, Accounting, Organization, Licenses, Communication, Negotiating, Ecommerce, Marketing + *Selling, Controlling, Ethical Decisions, Adapting, Storytelling, Microfinance* | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules + *6 bonus modules* | 10-40 hours + *6-24 hours* | *Student must pass a quiz for each module with a score of 70% or higher* |
+| []() |  | []() |  modules |  hours | ** |
+
+| Course | Keyword | Duration | Assessment | Certificate |
+| :--- | :--- | :--- | :--- | :--- |
+| [Design Bits](https://designbits.aalto.fi/en/) | Sustainability, Collaboration, Innovation, Management | 7 chapters | Exercises | :moneybag: | <!--€30-->
+| [Technology Entrepreneurship](https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market) | Entrepreneurship, R&D, Innovation, Product/market fit | 5 weeks | Quiz | :moneybag::moneybag: | <!--€138-->
+| [Entrepreneurship for Engineers](https://www.edx.org/learn/entrepreneurship/delft-university-of-technology-entrepreneurship-for-engineers) | MVP, Strategy, Finance, Business model | 8 weeks | Quiz | :moneybag::moneybag: | <!--€92-->
+| [Entrepreneurship](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=100&search=Entrepreneur&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 4 courses | Quiz | :white_check_mark: |
+| [Introduction to Data Economy](https://www.osaango.academy/courses/introduction-to-data-economy) |  | 4 modules | Quiz | :x: |
+| [Introduction to API Economy](https://www.osaango.academy/courses/intro-to-api-economy) |  | 3 modules | Quiz | :x: |
 
 ## Design
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -133,22 +139,11 @@ This is an archive of contents.
 ## Field
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Green Entrepreneurship](https://www.learningfornature.org/en/courses/green-entrepreneurship-2022/) | Green Business Idea, Positive Impact, Customer, Stakeholders, Green Business Model, Financing, Growth | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 18 hours | ** |
-| [Startup School](https://www.startupschool.org/) | Startup, Ideas, Founding, MVP, Launching, Growing, Financing, Company Building, Stories | [Y Combinator](https://www.linkedin.com/school/y-combinator/) | 8 modules | 7-14 hours | *Active Founder or Aspiring Founder track is determined based on work situation* |
-| [Starting Up](https://courses.minnalearn.com/en/courses/startingup/) | Startup, Ideas, MVP, Founding, Company Building, Financing, Growing | [Aalto University](https://www.linkedin.com/school/aalto-university/) | 9 modules | 50 hours | ** |
-| [Quick Start Entrepreneur](https://www.scu.edu/mobi/business-courses/quick-start-entrepreneur/) | Business Choosing, Business Types, Financing, Accounting, Organization, Licenses, Communication, Negotiating, Ecommerce, Marketing + *Selling, Controlling, Ethical Decisions, Adapting, Storytelling, Microfinance* | [Santa Clara University](https://www.linkedin.com/school/santa-clara-university/) | 10 modules + *6 bonus modules* | 10-40 hours + *6-24 hours* | *Student must pass a quiz for each module with a score of 70% or higher* |
-| []() |  | []() |  modules |  hours | ** |
 
-| Course | Keyword | Duration | Assessment | Certificate |
-| :--- | :--- | :--- | :--- | :--- |
-| [Design Bits](https://designbits.aalto.fi/en/) | Sustainability, Collaboration, Innovation, Management | 7 chapters | Exercises | :moneybag: | <!--€30-->
-| [Technology Entrepreneurship](https://www.edx.org/learn/technology/harvard-university-technology-entrepreneurship-lab-to-market) | Entrepreneurship, R&D, Innovation, Product/market fit | 5 weeks | Quiz | :moneybag::moneybag: | <!--€138-->
-| [Entrepreneurship for Engineers](https://www.edx.org/learn/entrepreneurship/delft-university-of-technology-entrepreneurship-for-engineers) | MVP, Strategy, Finance, Business model | 8 weeks | Quiz | :moneybag::moneybag: | <!--€92-->
-| [Entrepreneurship](https://www.pok.polimi.it/mod/data/view.php?d=1&perpage=100&search=Entrepreneur&sort=0&order=DESC&advanced=0&filter=1&f_1=&f_4=&f_6=&f_8=) |  | 4 courses | Quiz | :white_check_mark: |
-| [Introduction to Data Economy](https://www.osaango.academy/courses/introduction-to-data-economy) |  | 4 modules | Quiz | :x: |
-| [Introduction to API Economy](https://www.osaango.academy/courses/intro-to-api-economy) |  | 3 modules | Quiz | :x: |
 
-## Guideline
+
+
+## Guidance
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Indicators for an inclusive green economy](https://unccelearn.org/course/view.php?id=122&page=overview) |  | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 4 modules | 3 hours | *The quiz can be taken at any time and attempted up to three times. Learners need to pass the quiz with a score of at least 70%* |
@@ -206,6 +201,14 @@ This is an archive of contents.
 | [Carbon Accounting Essentials](https://www.persefoni.com/sign-up/carbon-accounting-essentials) |  | 6 chapter | Quiz | :question: |
 | [Introduction to Carbon Accounting](https://www.netnada.com.au/courses/introduction-to-carbon-accounting) |  | 8 chapter | Quiz | :question: |
 | [Greenhouse Gas Accounting](https://corporatefinanceinstitute.com/course/greenhouse-gas-accounting/) |  | 4 chapter | Quiz | :question: |
+
+## Judgement
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+## Knowledge
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 
 ## Leadership
 | Title | Keyword | Provider | Structure | Duration | Note |
@@ -375,6 +378,19 @@ SDG, SBTi, ESG
 ## Technology
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| [Elements of AI](https://www.elementsofai.com/) | AI, AI Problem Solving, Real World AI, Machine Learning, Neural Networks, Implications, Uncertainies | [University of Helsinki](https://www.linkedin.com/school/university-of-helsinki/) | 11 modules | 90-110 hours | ** |
+| [AI Fundamentals](https://skillsforall.com/course/ai-ibm-skillsbuild?courseLang=en-US) | AI, Natural Language Processing, Computer Vision, Machine Learning, Deep Learning, AI Models, AI Ethics | [IBM](https://www.linkedin.com/company/ibm/) | 4 modules | 10 hours | ** |
+| [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) | Python, Pandas, scikit-learn, Machine Learning, Data Exploration, Model Validation, Fine-tuning | [Kaggle](https://www.linkedin.com/company/kaggle/) | 7 modules | 3 hours | ** |
+| [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) | Python, Pandas, TensorFlow, Machine Learning, Neural Networks, Fine-tuning, Normalization, Classification | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 4 hours | ** |
+| [Computer Vision](https://www.kaggle.com/learn/computer-vision) | Python, TensorFlow, Machine Learning, Neural Networks, Convolution, Pooling, Data Augmentation | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 4 hours | ** |
+| [Time Series](https://www.kaggle.com/learn/time-series) | Python, Pandas, scikit-learn, Machine Learning, Trend, Seasonality, Forecasting | [Kaggle](https://www.linkedin.com/company/kaggle/) | 6 modules | 5 hours | ** |
+| [Intro to AI Ethics](https://www.kaggle.com/learn/intro-to-ai-ethics) | AI, Ethics, Human-Centered Design, Identifying Bias, Fairness, Model Cards | [Kaggle](https://www.linkedin.com/company/kaggle/) | 5 modules | 4 hours | ** |
+| [Artificial Intelligence: An Overview](https://www.pok.polimi.it/course/view.php?id=134#courseTabContent) | AI History, AI Today, AI Research Areas, AI National Strategies, Italian-European Players | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 5 modules | 10 hours | ** |
+| [Machine Learning](https://www.pok.polimi.it/course/view.php?id=53#courseTabContent) | Supervised Learning, Unsupervised Learning, Reinforcement Learning | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 3 modules | 8 hours | ** |
+| [Technologies and platforms for Artificial Intelligence](https://www.pok.polimi.it/course/view.php?id=9#courseTabContent) | IT and AI, AI on Cloud, Embedded and Edge AI, Challenges and Opportunities | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
+| [Artificial Intelligence and legal issues](https://www.pok.polimi.it/course/view.php?id=133#courseTabContent) | AI, Law and Legal Issues, Liability, Intellectual Property, Fundamental Rights Risks | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
+| [Ethics of Artificial Intelligence](https://www.pok.polimi.it/course/view.php?id=52#courseTabContent) | Ethics and Responsibility, Case-studies, Ethical Frameworks, Issues and Challenges, Governance and Policies | [Politecnico di Milano](https://www.linkedin.com/school/polimi/) | 4 modules | 8 hours | ** |
+| [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Python, TensorFlow, Neural Networks, Natural Language Process | [freeCodeCamp](https://www.linkedin.com/school/free-code-camp/) | 3 modules | 300 hours | ** |
 | []() |  | []() |  modules |  hours | ** |
 
 BIM, CAD, FEA, GIS, IFC
@@ -429,7 +445,19 @@ BIM, CAD, FEA, GIS, IFC
 | :---| :--- | :--- | :--- | :--- |
 | [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/) |  | 3 parts | Exercises | :white_check_mark: |
 
-## Zero
+## Writing
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+## X
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+## Yield
+| Title | Keyword | Provider | Structure | Duration | Note |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+
+## Zeroing
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Low-carbon steering throughout the building’s life cycle](https://www.eoppiva.fi/en/courses/low-carbon-steering-throughout-the-buildings-life-cycle/) | Building LCA, Low-carbon Solutions, Low-carbon Emissions | [eOppiva](https://www.linkedin.com/company/eoppiva/) | 3 modules | 0.5-1 hours | ** |
@@ -447,7 +475,7 @@ BIM, CAD, FEA, GIS, IFC
 | [Decarbonization 101](https://www.persefoni.com/sign-up/decarbonization-101) |  | 4 chapters | Quiz | :x: |
 | [Net Zero 101](https://unccelearn.org/course/view.php?id=185&page=overview) |  | 3 modules | Quiz | :white_check_mark: |
 
-### X
+### Others
 | Course | Keyword | Duration | Assessment | Certificate |
 | :--- | :---| :--- | :--- | :--- |
 | [Sustainability](https://www.una-europa.eu/study/microcredential-sustainability) |  | 5 courses | Quiz | :x: |
