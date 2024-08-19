@@ -24,20 +24,20 @@ This is an archive of contents.
 # Contents
 - [Analytics](#analytics)
 - [Business](#business)
-- [Computing](#computing)
+- [Capital](#capital)
 - [Data](#data)
 - [Environment](#environment)
-- [Funding](#funding)
+- [Field](#field)
 - [Guideline](#guideline)
 - [Holistic](#holistic)
-- [Impact](#impact)
+- [Information](#information)
 - [Leadership](#leadership)
 - [Management](#management)
-- [Network](#network)
+- [Networking](#networking)
 - [Organization](#organization)
 - [Programming](#programming)
 - [Quality](#quality)
-- [Resource](#resource)
+- [Research](#research)
 - [Sustainability](#sustainability)
 - [Technology](#technology)
 - [Usability](#usability)
@@ -77,7 +77,7 @@ This is an archive of contents.
 | [Biodiversity Finance](https://www.learningfornature.org/en/courses/biodiversity-finance/) | Biodiversity Finance, Policies, Biodiversity Expenditure, Biodiversity Financial Assessment, Biodiversity Finance Plan, Implementation | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 14 hours | ** |
 | [Carbon Taxation](https://unccelearn.org/course/view.php?id=87&page=overview) | Carbon Taxes, Module 2: Carbon Tax Adoption, Key Design Decisions, Avoiding Unwanted Effects, Revenues Use | [UN CC:Learn](https://www.linkedin.com/company/un-cc-learn/) | 5 modules | 12 hours | *Completing all five modules and passing the final quiz* |
 
-## Computing
+## Capital
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Elements of AI](https://www.elementsofai.com/) | AI, AI Problem Solving, Real World AI, Machine Learning, Neural Networks, Implications, Uncertainies | [University of Helsinki](https://www.linkedin.com/school/university-of-helsinki/) | 11 modules | 90-110 hours | ** |
@@ -130,7 +130,7 @@ This is an archive of contents.
 | [Environmental Impact Assessment](https://www.iisd.org/learning/eia/) | EIA | 2 modules | Quiz | :x: |
 | [Climate Change: From Learning to Action](https://unccelearn.org/course/view.php?id=48&page=overview) |  | 6 modules | Quiz | :white_check_mark: |
 
-## Funding
+## Field
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Green Entrepreneurship](https://www.learningfornature.org/en/courses/green-entrepreneurship-2022/) | Green Business Idea, Positive Impact, Customer, Stakeholders, Green Business Model, Financing, Growth | [UNDP](https://www.linkedin.com/company/undp/) | 6 modules | 18 hours | ** |
@@ -188,7 +188,7 @@ This is an archive of contents.
 | [Conversations on Resilience](https://www.gaiaeducation.org/resilience-online-course) | Regenerative Design | 7 sessions | Exercises | :x: |
 | [Nature Based Metropolitan Solutions](https://ocw.tudelft.nl/courses/nature-based-metropolitan-solutions/) | NbS | 6 modules | Exercises | :x: |
 
-## Impact
+## Information
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [LCA Beginner](https://ecochain.com/lca-beginner-course/) | LCA, LCA Framework, Goal and Scope, Life Cycle Inventory, Impact Assessment, LCA Interpretation | [Ecochain](https://www.linkedin.com/company/ecochain-technologies-bv/) | 7 modules | 3-4 hours | ** |
@@ -239,7 +239,7 @@ This is an archive of contents.
 | [Introduction to Project Cycle Management](https://www.itcilo.org/courses/introduction-project-cycle-management) |  | 4 modules | Quiz | :white_check_mark: |
 | [Pathway to Project Management](https://www.georgefox.edu/pathways/courses/project-management.html) |  | 4 modules | Quiz | :question: |
 
-## Network
+## Networking
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [How teams work](https://www.open.edu/openlearn/money-business/leadership-management/how-teams-work/content-section-0?active-tab=description-tab) |  | [The Open University](https://www.linkedin.com/school/theopenuniversity/) | 6 modules | 10 hours | ** |
@@ -315,7 +315,7 @@ This is an archive of contents.
 | [Quality Management](https://hub.unido.org/training-modules-quality-management) |  | 9 modules | Exercise | :white_check_mark: |
 
 
-## Resource
+## Research
 | Title | Keyword | Provider | Structure | Duration | Note |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [Sustainable Consumption and Production](https://www.learningfornature.org/en/courses/sustainable-consumption-and-production/) | Conservation, Development Planning, Management Processes, Green Consumption, Sustainable Consumption, Sustainable Production, Policy Framework, Production Sectors, Supply Chain, Biodiversity, Limit Resources, Pollution Reduction, Waste Reduction | [UNDP](https://www.linkedin.com/company/undp/) | 5 modules | 3 hours | ** |
